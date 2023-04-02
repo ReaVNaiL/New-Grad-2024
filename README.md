@@ -9,9 +9,28 @@ This is a collection of full-time job openings for new grads in 2024 in the fiel
 
 > 🌎 **Please note that this repository only lists job openings in the `United States`, `Remote` and `Canada`** 🌎
 
+## Table of Contents
+1. [Find The Jobs🔽](README.md#jobs)
+2. [How to Contribute](README.md#how-to-contribute)
+
+
+## Helpful Resources
+
+If you are looking for more guidance on how to prepare for technical interviews, you may find these resources helpful:
+
+- **[Interview Guide](https://interviewguide.dev/)** by **[Nick Scialli](https://twitter.com/nas5w)**:
+  * A comprehensive website that covers various topics such as data structures, algorithms, system design, behavioral questions, and more. It also provides links to other useful resources and practice platforms.
+- **[Neetcode.io](https://neetcode.io/)**:
+  * A website that offers courses, lessons, and practice problems for coding interviews. Highly recommended when doing the grind! An updated version of blind 75 is updated there with 150 problems total.
+
+Support [Nick Scialli](https://github.com/nas5w) directly on his repo! [Interview Guide Repo](https://github.com/nas5w/interview-guide)
+
+
+## Jobs
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 | Name                    | Location                             | Notes                                                                            |
 | ----------------------- | ------------------------------------ | -------------------------------------------------------------------------------- |
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
+## Good Luck
 We wish you all the best in your job search! 🌟 Don't forget to stay positive and keep pushing towards your goals! 💪
