@@ -13,7 +13,7 @@ This is a collection of full-time job openings for new grads in 2024 in the fiel
 
 ## Table of Contents
 1. [Find The Jobs🔽](README.md#jobs)
-2. [How to Contribute](README.md#how-to-contribute)
+2. [How to Contribute](How_to_contribute.md)
 
 
 ## Helpful Resources
@@ -32,9 +32,39 @@ If you are looking for more guidance on how to prepare for technical interviews,
 Support [Nick Scialli](https://github.com/nas5w) directly on his repo! [Interview Guide Repo](https://github.com/nas5w/interview-guide)
 
 ## Jobs
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------
-| Name                    | Location                             | Notes                                                                            |
+
+| Name                    | Location                             | Status                                                                           |
 | ----------------------- | ------------------------------------ | -------------------------------------------------------------------------------- |
+| [Adobe]() | San Jose, CA | 🔒 **[Not Open Yet]** 🔒 |
+| [Airbnb]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 |
+| [Amazon]() | Seattle, WA, US | 🔒 **[Not Open Yet]** 🔒 |
+| [Apple]() | Cupertino, CA | 🔒 **[Not Open Yet]** 🔒 |
+| [Cisco]() | San Jose, CA | 🔒 **[Not Open Yet]** 🔒 |
+| [Dropbox]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 |
+| [Facebook]() | Menlo Park, CA | 🔒 **[Not Open Yet]** 🔒 |
+| [Google]() | Mountain View, CA | 🔒 **[Not Open Yet]** 🔒 |
+| [IBM]() | Armonk, NY | 🔒 **[Not Open Yet]** 🔒 |
+| [Intel]() | Santa Clara, CA | 🔒 **[Not Open Yet]** 🔒 |
+| [Intuit]() | Mountain View, CA | 🔒 **[Not Open Yet]** 🔒 |
+| [Lyft]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 |
+| [Microsoft]() | Redmond, WA | 🔒 **[Not Open Yet]** 🔒 |
+| [Netflix]() | Los Gatos, CA | 🔒 **[Not Open Yet]** 🔒 |
+| [Nvidia]() | Santa Clara, CA | 🔒 **[Not Open Yet]** 🔒 |
+| [Oracle]() | Redwood City, CA | 🔒 **[Not Open Yet]** 🔒 |
+| [PayPal]() | San Jose, CA | 🔒 **[Not Open Yet]** 🔒 |
+| [Pinterest]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 |
+| [Reddit]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 |
+| [Salesforce]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 |
+| [Snap]() | Los Angeles, CA | 🔒 **[Not Open Yet]** 🔒 |
+| [Stripe]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 |
+| [TikTok]() | Los Angeles, CA | 🔒 **[Not Open Yet]** 🔒 |
+| [Twitch]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 |
+| [Twitter]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 |
+| [Uber]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 |
+| [VMware]() | Palo Alto, CA | 🔒 **[Not Open Yet]** 🔒 |
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Good Luck
