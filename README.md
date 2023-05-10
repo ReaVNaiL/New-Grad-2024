@@ -9,7 +9,7 @@ This is a collection of full-time job openings for new grads in 2024 in the fiel
 
 > 🌎 **Please note that this repository only lists job openings in the `United States`, `Remote` and `Canada`** 🌎
 
-> :warning: The LIST will START POPULATING once the New Grad Positions Open in May. :warning: 
+> :warning: The LIST will START POPULATING once the New Grad Positions Open around May-June. :warning: 
 
 ## Table of Contents
 1. [Find The Jobs🔽](README.md#jobs)
