@@ -41,7 +41,6 @@ Support [Nick Scialli](https://github.com/nas5w) directly on his repo! [Intervie
 | [Airbnb]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 |
 | [Amazon]() | Seattle, WA, US | 🔒 **[Not Open Yet]** 🔒 |
 | [Apple]() | Cupertino, CA | 🔒 **[Not Open Yet]** 🔒 |
-| [Atlassian]() | Sydney, Australia | 🔒 **[Not Open Yet]** 🔒 |
 | [BlackRock]() | New York, NY | 🔒 **[Not Open Yet]** 🔒 |
 | [Cisco]() | San Jose, CA | 🔒 **[Not Open Yet]** 🔒 |
 | [Dropbox]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 |
@@ -55,6 +54,7 @@ Support [Nick Scialli](https://github.com/nas5w) directly on his repo! [Intervie
 | [Netflix]() | Los Gatos, CA | 🔒 **[Not Open Yet]** 🔒 |
 | [Nvidia]() | Santa Clara, CA | 🔒 **[Not Open Yet]** 🔒 |
 | [Oracle]() | Redwood City, CA | 🔒 **[Not Open Yet]** 🔒 |
+| [Atlassian]() | Sydney, Australia | 🔒 **[Not Open Yet]** 🔒 |
 | [PayPal]() | San Jose, CA | 🔒 **[Not Open Yet]** 🔒 |
 | [Pinterest]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 |
 | [Reddit]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 |
