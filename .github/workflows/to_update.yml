@@ -1,9 +1,13 @@
 name: Auto Organizer on Pull Requests
 
 on:
-    pull_request:
-        branches:
-            - main
+  push:
+    branches:
+      - main
+
+  pull_request:
+    branches:
+        - main
 
 jobs:
     table-auto-organizer:
@@ -34,5 +38,5 @@ jobs:
                 git config --global user.name "GitHub Actions Bot"
                 git config --global user.email "github-actions-bot@example.com"
                 git add .
-                git commit -m "Sort Company List [PR:'${{ github.event.pull_request.title }}]' [skip ci]"
+                git commit -m "Sort Company List Script' [skip ci]"
                 git push
