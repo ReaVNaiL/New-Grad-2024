@@ -33,10 +33,10 @@ Support [Nick Scialli](https://github.com/nas5w) directly on his repo! [Intervie
 
 ## Jobs
 
------------------------------------------------------------------------------------------------------------------------------------------------------
+----
 
-| Name                    | Location                             | Status                                                                           |
-| ----------------------- | ------------------------------------ | -------------------------------------------------------------------------------- |
+| Name         | Location     | Roles                |
+| ------------ | ------------ | -------------------- |
 | [Adobe]() | San Jose, CA | 🔒 **[Not Open Yet]** 🔒 |
 | [Airbnb]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 |
 | [Amazon]() | Seattle, WA, US | 🔒 **[Not Open Yet]** 🔒 |
@@ -59,6 +59,7 @@ Support [Nick Scialli](https://github.com/nas5w) directly on his repo! [Intervie
 | [Pinterest]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 |
 | [Reddit]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 |
 | [Salesforce]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 |
+| [Uber]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 |
 | [Slack]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 |
 | [Snap]() | Los Angeles, CA | 🔒 **[Not Open Yet]** 🔒 |
 | [Spotify]() | Stockholm, Sweden | 🔒 **[Not Open Yet]** 🔒 |
@@ -67,7 +68,6 @@ Support [Nick Scialli](https://github.com/nas5w) directly on his repo! [Intervie
 | [TikTok]() | Los Angeles, CA | 🔒 **[Not Open Yet]** 🔒 |
 | [Twitch]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 |
 | [Twitter]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 |
-| [Uber]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 |
 | [VMware]() | Palo Alto, CA | 🔒 **[Not Open Yet]** 🔒 |
 | [Yelp]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 |
 | [Zillow]() | Seattle, WA | 🔒 **[Not Open Yet]** 🔒 |
@@ -75,7 +75,7 @@ Support [Nick Scialli](https://github.com/nas5w) directly on his repo! [Intervie
 
 -END OF LIST-
 
------------------------------------------------------------------------------------------------------------------------------------------------------
+----
 
 ## Good Luck
 We wish you all the best in your job search! 🌟 Don't forget to stay positive and keep pushing towards your goals! 💪
