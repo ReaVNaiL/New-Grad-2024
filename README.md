@@ -41,7 +41,6 @@ Support [Nick Scialli](https://github.com/nas5w) directly on his repo! [Intervie
 | [Airbnb]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 |
 | [Amazon]() | Seattle, WA, US | 🔒 **[Not Open Yet]** 🔒 |
 | [Apple]() | Cupertino, CA | 🔒 **[Not Open Yet]** 🔒 |
-| [BlackRock]() | New York, NY | 🔒 **[Not Open Yet]** 🔒 |
 | [Cisco]() | San Jose, CA | 🔒 **[Not Open Yet]** 🔒 |
 | [Dropbox]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 |
 | [Facebook]() | Menlo Park, CA | 🔒 **[Not Open Yet]** 🔒 |
@@ -72,6 +71,7 @@ Support [Nick Scialli](https://github.com/nas5w) directly on his repo! [Intervie
 | [Yelp]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 |
 | [Zillow]() | Seattle, WA | 🔒 **[Not Open Yet]** 🔒 |
 | [Zoom]() | San Jose, CA | 🔒 **[Not Open Yet]** 🔒 |
+| [BlackRock](https://careers.blackrock.com/early-careers/americas/?2023-2024#tab-id-13) | Atlanta, GA; San Francisco, CA; New York, NY | ✅ [SWE, PM, Quant](https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/xf-232eb66ac89a/candidate/so/pm/1/pl/1/opp/7893-Analyst-Program-Americas/en-GB) - [See Description PDF](https://static.wcn.co.uk/company/blackrock/JobDescription23/BlackRock_2023-2024_Software_Engineering_Job_Description.pdf) ✅|
 
 -END OF LIST-
 
