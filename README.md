@@ -41,6 +41,8 @@ Support [Nick Scialli](https://github.com/nas5w) directly on his repo! [Intervie
 | [Airbnb]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 |
 | [Amazon]() | Seattle, WA, US | 🔒 **[Not Open Yet]** 🔒 |
 | [Apple]() | Cupertino, CA | 🔒 **[Not Open Yet]** 🔒 |
+| [Atlassian]() | Sydney, Australia | 🔒 **[Not Open Yet]** 🔒 |
+| [BlackRock]() | New York, NY | 🔒 **[Not Open Yet]** 🔒 |
 | [Cisco]() | San Jose, CA | 🔒 **[Not Open Yet]** 🔒 |
 | [Dropbox]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 |
 | [Facebook]() | Menlo Park, CA | 🔒 **[Not Open Yet]** 🔒 |
@@ -57,13 +59,19 @@ Support [Nick Scialli](https://github.com/nas5w) directly on his repo! [Intervie
 | [Pinterest]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 |
 | [Reddit]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 |
 | [Salesforce]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 |
+| [Slack]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 |
 | [Snap]() | Los Angeles, CA | 🔒 **[Not Open Yet]** 🔒 |
+| [Spotify]() | Stockholm, Sweden | 🔒 **[Not Open Yet]** 🔒 |
+| [Square]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 |
 | [Stripe]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 |
 | [TikTok]() | Los Angeles, CA | 🔒 **[Not Open Yet]** 🔒 |
 | [Twitch]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 |
 | [Twitter]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 |
 | [Uber]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 |
 | [VMware]() | Palo Alto, CA | 🔒 **[Not Open Yet]** 🔒 |
+| [Yelp]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 |
+| [Zillow]() | Seattle, WA | 🔒 **[Not Open Yet]** 🔒 |
+| [Zoom]() | San Jose, CA | 🔒 **[Not Open Yet]** 🔒 |
 
 -END OF LIST-
 
