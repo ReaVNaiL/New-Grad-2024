@@ -54,8 +54,10 @@ Support [Nick Scialli](https://github.com/nas5w) directly on his repo! [Intervie
 | [Microsoft]() | Redmond, WA | 🔒 **[Not Open Yet]** 🔒 |
 | [Netflix]() | Los Gatos, CA | 🔒 **[Not Open Yet]** 🔒 |
 | [Nvidia]() | Santa Clara, CA | 🔒 **[Not Open Yet]** 🔒 |
+| [Optiver](https://optiver.com/working-at-optiver/career-opportunities/6497784002/) | Chicago, IL | ✅ [All Roles (Expression of Interest)](https://optiver.com/working-at-optiver/career-opportunities/6497784002/) ✅ |
 | [Oracle]() | Redwood City, CA | 🔒 **[Not Open Yet]** 🔒 |
 | [PayPal]() | San Jose, CA | 🔒 **[Not Open Yet]** 🔒 |
+| [PerPay](https://jobs.lever.co/perpay/032c6423-f7b4-4d6a-b369-a415630948e8) | Philadelphia, PA | ✅ [Software Engineer (SWE)](https://jobs.lever.co/perpay/032c6423-f7b4-4d6a-b369-a415630948e8) ✅ |
 | [Pinterest]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 |
 | [Reddit]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 |
 | [Salesforce]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 |
