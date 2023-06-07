@@ -48,6 +48,7 @@ Support [Nick Scialli](https://github.com/nas5w) directly on his repo! [Intervie
 | [Dropbox]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 |
 | [Facebook]() | Menlo Park, CA | 🔒 **[Not Open Yet]** 🔒 |
 | [GE Aeroespace](https://jobs.gecareers.com/aviation/global/en) | Dayton, OH **\|** Grand Rapids, MI **\|** Clearwater, FL | ✅ [Tech \| Software Development](https://jobs.gecareers.com/aviation/global/en/job/GE11GLOBALR3701186EXTERNALENGLOBAL/GE-Aerospace-US-Edison-Engineering-Development-Program-EEDP-Software-2024-Start) ✅ |
+| [GE Appliances](https://haier.wd3.myworkdayjobs.com/en-US/GE_Appliances/job/USA-Louisville-KY/Edison-Engineering-Development-Program--EEDP----Software---2024_REQ-16620) | Louisville, KY | ✅ [Edison Engineering Development Program - Software](https://haier.wd3.myworkdayjobs.com/en-US/GE_Appliances/job/USA-Louisville-KY/Edison-Engineering-Development-Program--EEDP----Software---2024_REQ-16620) ✅ |
 | [Goldman Sachs](https://www.goldmansachs.com/careers/students/programs/americas/new-analyst-program.html) | United States | 🔒 [All Roles - Apps Open July 1st](https://www.goldmansachs.com/careers/students/programs/americas/new-analyst-program.html) 🔒 | 
 | [Google]() | Mountain View, CA | 🔒 **[Not Open Yet]** 🔒 |
 | [IBM]() | Armonk, NY | 🔒 **[Not Open Yet]** 🔒 |
