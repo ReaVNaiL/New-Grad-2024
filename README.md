@@ -55,6 +55,7 @@ Support [Nick Scialli](https://github.com/nas5w) directly on his repo! [Intervie
 | [Intel]() | Santa Clara, CA | 🔒 **[Not Open Yet]** 🔒 |
 | [Intuit]() | Mountain View, CA | 🔒 **[Not Open Yet]** 🔒 |
 | [Lyft]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 |
+| [Meta](https://www.metacareers.com/v2/jobs/1435385370613316/) | Menlo Park, CA **\|** Seattle, WA | ✅ [New Grad Software Engineer](https://www.metacareers.com/v2/jobs/1435385370613316/) ✅ \| NOTE: Awaiting confirmation from recruiter; |
 | [Microsoft]() | Redmond, WA | 🔒 **[Not Open Yet]** 🔒 |
 | [Netflix](https://jobs.netflix.com/new-grad-program) | Los Gatos, CA | 🔒 **[Not Open Yet]** 🔒 |
 | [Nvidia]() | Santa Clara, CA | 🔒 **[Not Open Yet]** 🔒 |
@@ -85,3 +86,10 @@ Support [Nick Scialli](https://github.com/nas5w) directly on his repo! [Intervie
 
 ## Good Luck
 We wish you all the best in your job search! 🌟 Don't forget to stay positive and keep pushing towards your goals! 💪
+
+### **Show your support**
+<a href="https://github.com/ReaVNaiL/New-Grad-2024/graphs/contributors">
+  <img width="150" src="https://contrib.rocks/image?repo=ReaVNaiL/New-Grad-2024" />
+</a>
+
+Made with [contrib.rocks](https://contrib.rocks).
