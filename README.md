@@ -47,7 +47,6 @@ Support [Nick Scialli](https://github.com/nas5w) directly on his repo! [Intervie
 | [Cisco]() | San Jose, CA | 🔒 **[Not Open Yet]** 🔒 |
 | [Dropbox]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 |
 | [Dynatrace](https://app.ripplematch.com/v2/public/job/edf0d492/details?utm_source=Github&utm_medium=organic_social&utm_campaign=growth_github&utm_content=dynatrace&utm_term=null) | Denver, CO **\|** San Mateo, CA **\|** Detroit, MI **\|** Remote | ✅ [Software Delivery Consultant](https://app.ripplematch.com/v2/public/job/edf0d492/details?utm_source=Github&utm_medium=organic_social&utm_campaign=growth_github&utm_content=dynatrace&utm_term=null) ✅ |
-| [Facebook]() | Menlo Park, CA | 🔒 **[Not Open Yet]** 🔒 |
 | [GE Aeroespace](https://jobs.gecareers.com/aviation/global/en) | Dayton, OH **\|** Grand Rapids, MI **\|** Clearwater, FL | ✅ [Tech \| Software Development](https://jobs.gecareers.com/aviation/global/en/job/GE11GLOBALR3701186EXTERNALENGLOBAL/GE-Aerospace-US-Edison-Engineering-Development-Program-EEDP-Software-2024-Start) ✅ |
 | [GE Appliances](https://haier.wd3.myworkdayjobs.com/en-US/GE_Appliances/job/USA-Louisville-KY/Edison-Engineering-Development-Program--EEDP----Software---2024_REQ-16620) | Louisville, KY | ✅ [Edison Engineering Development Program - Software](https://haier.wd3.myworkdayjobs.com/en-US/GE_Appliances/job/USA-Louisville-KY/Edison-Engineering-Development-Program--EEDP----Software---2024_REQ-16620) ✅ |
 | [Goldman Sachs](https://www.goldmansachs.com/careers/students/programs/americas/new-analyst-program.html) | United States | 🔒 [All Roles - Apps Open July 1st](https://www.goldmansachs.com/careers/students/programs/americas/new-analyst-program.html) 🔒 | 
@@ -70,8 +69,8 @@ Support [Nick Scialli](https://github.com/nas5w) directly on his repo! [Intervie
 | [Slack]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 |
 | [Snap]() | Los Angeles, CA | 🔒 **[Not Open Yet]** 🔒 |
 | [Spotify]() | Stockholm, Sweden | 🔒 **[Not Open Yet]** 🔒 |
-| [SRC Inc.](https://jobs.jobvite.com/careers/src-inc/job/olAQmfwR?__jvst=Internet%20Job%20Board&__jvsd=Indeed) | Syracuse, New York **\|** Herndon, Virginia **\|** San Antonio, Texas | ✅ [Software Engineer](https://jobs.jobvite.com/careers/src-inc/job/olAQmfwR?__jvst=Internet%20Job%20Board&__jvsd=Indeed) ✅ |
 | [Square]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 |
+| [SRC Inc.](https://jobs.jobvite.com/careers/src-inc/job/olAQmfwR?__jvst=Internet%20Job%20Board&__jvsd=Indeed) | Syracuse, New York **\|** Herndon, Virginia **\|** San Antonio, Texas | ✅ [Software Engineer](https://jobs.jobvite.com/careers/src-inc/job/olAQmfwR?__jvst=Internet%20Job%20Board&__jvsd=Indeed) ✅ |
 | [Stripe]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 |
 | [TikTok]() | Los Angeles, CA | 🔒 **[Not Open Yet]** 🔒 |
 | [Tractor Supply Company](https://www.tractorsupply.careers/job/Brentwood-IT-Development-Rotation-Program-Trainee-%28Jan-2024-Start%29-TN-37027/1007733300/?&utm_campaign=TSC_IN) | Brentwood, TN | ✅ [IT Development Rotation Program Trainee (Jan 2024 Start)](https://www.tractorsupply.careers/job/Brentwood-IT-Development-Rotation-Program-Trainee-%28Jan-2024-Start%29-TN-37027/1007733300/?&utm_campaign=TSC_IN) ✅ |
