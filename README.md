@@ -39,41 +39,41 @@ Support [Nick Scialli](https://github.com/nas5w) directly on his repo! [Intervie
 | ------------ | ------------ | -------------------- | ----- |
 | [Adobe]() | San Jose, CA | 🔒 **[Not Open Yet]** 🔒 | - |
 | [Airbnb]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 | - |
-| [Amazon]() | Seattle, WA, US | 🔒 **[Not Open Yet]** 🔒 | - |
+| [Amazon]() | U.S. Locations | 🔒 **[Not Open Yet]** 🔒 | - |
 | [Apple]() | Cupertino, CA | 🔒 **[Not Open Yet]** 🔒 | - |
-| [Atlassian]() | Sydney, Australia | 🔒 **[Not Open Yet]** 🔒 | - |
-| [BlackRock](https://careers.blackrock.com/early-careers/americas/?2023-2024#tab-id-13) | - Atlanta, GA <br> - San Francisco, CA <br> - New York, NY | ✅ [SWE, PM, Quant](https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/xf-232eb66ac89a/candidate/so/pm/1/pl/1/opp/7893-Analyst-Program-Americas/en-GB) ✅ <br>- [See Desc PDF](https://static.wcn.co.uk/company/blackrock/JobDescription23/BlackRock_2023-2024_Software_Engineering_Job_Description.pdf)| - |
-| [Blue Origin](https://www.blueorigin.com/careers) | Seattle, WA | ✅ [Software Engineer](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Seattle-WA/New-Graduate-Rotation--Early-2024-Start-Date----Avionics-Software_R34600) ✅ <br> - Must graduate after Jan 2024| U.S. Citizen, Permanent Resident, Refugee, or Asylum status required. |
+| [Atlassian]() | U.S Remote | 🔒 **[Not Open Yet]** 🔒 | - |
+| [BlackRock](https://careers.blackrock.com/early-careers/americas/?2023-2024#tab-id-13) | - Atlanta, GA <br> - San Francisco, CA <br> - New York, NY | ✅ [SWE, PM, Quant](https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/xf-232eb66ac89a/candidate/so/pm/1/pl/1/opp/7893-Analyst-Program-Americas/en-GB) <br>- [See Desc PDF](https://static.wcn.co.uk/company/blackrock/JobDescription23/BlackRock_2023-2024_Software_Engineering_Job_Description.pdf)| - |
+| [Blue Origin](https://www.blueorigin.com/careers) | Seattle, WA | ✅ [Software Engineer](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Seattle-WA/New-Graduate-Rotation--Early-2024-Start-Date----Avionics-Software_R34600) <br> - Must graduate after Jan 2024| U.S. Citizen, Permanent Resident, Refugee, or Asylum status required. |
 | [Cisco]() | San Jose, CA | 🔒 **[Not Open Yet]** 🔒 | - |
 | [Dropbox]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 | - |
-| [Dynatrace](https://app.ripplematch.com/v2/public/job/edf0d492/details?utm_source=Github&utm_medium=organic_social&utm_campaign=growth_github&utm_content=dynatrace&utm_term=null) | -  Denver, CO <br> - San Mateo, CA <br> - Detroit, MI <br> - Remote | ✅ [Software Delivery Consultant](https://app.ripplematch.com/v2/public/job/edf0d492/details?utm_source=Github&utm_medium=organic_social&utm_campaign=growth_github&utm_content=dynatrace&utm_term=null) ✅ | - |
-| [GE Aeroespace](https://jobs.gecareers.com/aviation/global/en) | Dayton, OH <br> - Grand Rapids, MI <br> - Clearwater, FL | ✅ [Tech \| Software Development](https://jobs.gecareers.com/aviation/global/en/job/GE11GLOBALR3701186EXTERNALENGLOBAL/GE-Aerospace-US-Edison-Engineering-Development-Program-EEDP-Software-2024-Start) ✅ | - |
-| [GE Appliances](https://haier.wd3.myworkdayjobs.com/en-US/GE_Appliances/job/USA-Louisville-KY/Edison-Engineering-Development-Program--EEDP----Software---2024_REQ-16620) | Louisville, KY | ✅ [Edison Engineering Development Program - Software](https://haier.wd3.myworkdayjobs.com/en-US/GE_Appliances/job/USA-Louisville-KY/Edison-Engineering-Development-Program--EEDP----Software---2024_REQ-16620) ✅ | - |
+| [Dynatrace](https://app.ripplematch.com/v2/public/job/edf0d492/details?utm_source=Github&utm_medium=organic_social&utm_campaign=growth_github&utm_content=dynatrace&utm_term=null) | -  Denver, CO <br> - San Mateo, CA <br> - Detroit, MI <br> - U.S. Remote | ✅ [Software Delivery Consultant](https://app.ripplematch.com/v2/public/job/edf0d492/details?utm_source=Github&utm_medium=organic_social&utm_campaign=growth_github&utm_content=dynatrace&utm_term=null) | - |
+| [GE Aeroespace](https://jobs.gecareers.com/aviation/global/en) | Dayton, OH <br> - Grand Rapids, MI <br> - Clearwater, FL | ✅ [Tech \| Software Development](https://jobs.gecareers.com/aviation/global/en/job/GE11GLOBALR3701186EXTERNALENGLOBAL/GE-Aerospace-US-Edison-Engineering-Development-Program-EEDP-Software-2024-Start) | - |
+| [GE Appliances](https://haier.wd3.myworkdayjobs.com/en-US/GE_Appliances/job/USA-Louisville-KY/Edison-Engineering-Development-Program--EEDP----Software---2024_REQ-16620) | Louisville, KY | ✅ [Edison Engineering Development Program - Software](https://haier.wd3.myworkdayjobs.com/en-US/GE_Appliances/job/USA-Louisville-KY/Edison-Engineering-Development-Program--EEDP----Software---2024_REQ-16620) | - |
 | [Goldman Sachs](https://www.goldmansachs.com/careers/students/programs/americas/new-analyst-program.html) | United States | 🔒 [All Roles - Apps Open July 1st](https://www.goldmansachs.com/careers/students/programs/americas/new-analyst-program.html) 🔒 | - |
 | [Google]() | Mountain View, CA | 🔒 **[Not Open Yet]** 🔒 | - |
 | [IBM]() | Armonk, NY | 🔒 **[Not Open Yet]** 🔒 | - |
 | [Intel]() | Santa Clara, CA | 🔒 **[Not Open Yet]** 🔒 | - |
 | [Intuit]() | Mountain View, CA | 🔒 **[Not Open Yet]** 🔒 | - |
 | [Lyft]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 | - |
-| [Meta](https://www.metacareers.com/v2/jobs/1435385370613316/) | - Menlo Park, CA <br> - Seattle, WA | ✅ [New Grad Software Engineer](https://www.metacareers.com/v2/jobs/1435385370613316/) ✅ <br> NOTE: Awaiting confirmation from recruiter; | - |
+| [Meta](https://www.metacareers.com/v2/jobs/1435385370613316/) | - Menlo Park, CA <br> - Seattle, WA | ✅ [New Grad Software Engineer](https://www.metacareers.com/v2/jobs/1435385370613316/) <br> NOTE: Awaiting confirmation from recruiter; | - |
 | [Microsoft]() | Redmond, WA | 🔒 **[Not Open Yet]** 🔒 | - |
 | [Netflix](https://jobs.netflix.com/new-grad-program) | Los Gatos, CA | 🔒 **[Not Open Yet]** 🔒 | - |
 | [Nvidia]() | Santa Clara, CA | 🔒 **[Not Open Yet]** 🔒 | - |
-| [Optiver](https://optiver.com/working-at-optiver/career-opportunities/6497784002/) | Chicago, IL | ✅ [All Roles (Expression of Interest)](https://optiver.com/working-at-optiver/career-opportunities/6497784002/) ✅ | - |
+| [Optiver](https://optiver.com/working-at-optiver/career-opportunities/6497784002/) | Chicago, IL | ✅ [All Roles (Expression of Interest)](https://optiver.com/working-at-optiver/career-opportunities/6497784002/) | - |
 | [Oracle]() | Redwood City, CA | 🔒 **[Not Open Yet]** 🔒 | - |
 | [PayPal]() | San Jose, CA | 🔒 **[Not Open Yet]** 🔒 | - |
-| [PerPay](https://jobs.lever.co/perpay/032c6423-f7b4-4d6a-b369-a415630948e8) | Philadelphia, PA | ✅ [Software Engineer (SWE)](https://jobs.lever.co/perpay/032c6423-f7b4-4d6a-b369-a415630948e8) ✅ | - |
+| [PerPay](https://jobs.lever.co/perpay/032c6423-f7b4-4d6a-b369-a415630948e8) | Philadelphia, PA | ✅ [Software Engineer (SWE)](https://jobs.lever.co/perpay/032c6423-f7b4-4d6a-b369-a415630948e8)  | - |
 | [Pinterest]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 | - |
 | [Reddit]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 | - |
 | [Salesforce]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 | - |
 | [Slack]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 | - |
 | [Snap]() | Los Angeles, CA | 🔒 **[Not Open Yet]** 🔒 | - |
-| [Spotify]() | Stockholm, Sweden | 🔒 **[Not Open Yet]** 🔒 | - |
+| [Spotify]() | U.S. Remote | 🔒 **[Not Open Yet]** 🔒 | - |
 | [Square]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 | - |
-| [SRC Inc.](https://jobs.jobvite.com/careers/src-inc/job/olAQmfwR?__jvst=Internet%20Job%20Board&__jvsd=Indeed) | - Syracuse, NY <br> - Herndon, VA <br> - San Antonio, TX | ✅ [Software Engineer](https://jobs.jobvite.com/careers/src-inc/job/olAQmfwR?__jvst=Internet%20Job%20Board&__jvsd=Indeed) ✅ | - |
+| [SRC Inc.](https://jobs.jobvite.com/careers/src-inc/job/olAQmfwR?__jvst=Internet%20Job%20Board&__jvsd=Indeed) | - Syracuse, NY <br> - Herndon, VA <br> - San Antonio, TX | ✅ [Early Career Software Engineer](https://jobs.jobvite.com/careers/src-inc/job/olAQmfwR?__jvst=Internet%20Job%20Board&__jvsd=Indeed) | - |
 | [Stripe]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 | - |
 | [TikTok]() | Los Angeles, CA | 🔒 **[Not Open Yet]** 🔒 | - |
-| [Tractor Supply Company](https://www.tractorsupply.careers/job/Brentwood-IT-Development-Rotation-Program-Trainee-%28Jan-2024-Start%29-TN-37027/1007733300/?&utm_campaign=TSC_IN) | Brentwood, TN | ✅ [IT Development Rotation Program Trainee (Jan 2024 Start)](https://www.tractorsupply.careers/job/Brentwood-IT-Development-Rotation-Program-Trainee-%28Jan-2024-Start%29-TN-37027/1007733300/?&utm_campaign=TSC_IN) ✅ | - |
+| [Tractor Supply Company](https://www.tractorsupply.careers/job/Brentwood-IT-Development-Rotation-Program-Trainee-%28Jan-2024-Start%29-TN-37027/1007733300/?&utm_campaign=TSC_IN) | Brentwood, TN | ✅ [IT Development Rotation Program Trainee](https://www.tractorsupply.careers/job/Brentwood-IT-Development-Rotation-Program-Trainee-%28Jan-2024-Start%29-TN-37027/1007733300/?&utm_campaign=TSC_IN) <br> - Must start after Jan 2024 | - |
 | [Twitch]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 | - |
 | [Twitter]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 | - |
 | [Uber]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 | - |
@@ -87,11 +87,12 @@ Support [Nick Scialli](https://github.com/nas5w) directly on his repo! [Intervie
 ----
 
 ## Good Luck
-We wish you all the best in your job search! 🌟 Don't forget to stay positive and keep pushing towards your goals! 💪
+We wish you all the best in your job search! 🌟
+Don't forget to stay positive and keep pushing towards your goals! 💪
 
-### **Show your support**
+### **Show your support!**
 <a href="https://github.com/ReaVNaiL/New-Grad-2024/graphs/contributors">
-  <img width="150" src="https://contrib.rocks/image?repo=ReaVNaiL/New-Grad-2024" />
+  <img width="130" src="https://contrib.rocks/image?repo=ReaVNaiL/New-Grad-2024" />
 </a>
 
-Made with [contrib.rocks](https://contrib.rocks).
+Made with [contrib](https://contrib.rocks).
