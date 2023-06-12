@@ -44,6 +44,8 @@ Support [Nick Scialli](https://github.com/nas5w) directly on his repo! [Intervie
 | [Atlassian]() | U.S Remote | 🔒 **[Not Open Yet]** 🔒 | - |
 | [BlackRock](https://careers.blackrock.com/early-careers/americas/?2023-2024#tab-id-13) | - Atlanta, GA <br> - San Francisco, CA <br> - New York, NY | ✅ [SWE, PM, Quant](https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/xf-232eb66ac89a/candidate/so/pm/1/pl/1/opp/7893-Analyst-Program-Americas/en-GB) <br>- [See Desc PDF](https://static.wcn.co.uk/company/blackrock/JobDescription23/BlackRock_2023-2024_Software_Engineering_Job_Description.pdf)| - |
 | [Blue Origin](https://www.blueorigin.com/careers) | Seattle, WA | ✅ [Software Engineer](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Seattle-WA/New-Graduate-Rotation--Early-2024-Start-Date----Avionics-Software_R34600) <br> - Must graduate after Jan 2024| U.S. Citizen, Permanent Resident, Refugee, or Asylum status required. |
+| [Boston Dynamics](https://bostondynamics.wd1.myworkdayjobs.com/en-US/Boston_Dynamics/job/Waltham-Office/Rotational-Development-Engineer_R1051) | Waltham, MA | ✅ [Rotational Development Engineer](https://bostondynamics.wd1.myworkdayjobs.com/en-US/Boston_Dynamics/job/Waltham-Office/Rotational-Development-Engineer_R1051) <br> - Must graduate between December 2023 and December 2024 | - |
+| [Capgemini](https://www.capgemini.com/jobs/N92ZBYcBf9EzbUpvy_Nu/071398-technology-consultant---new-york---campus-recruiting-2024/?utm_source=Indeed&utm_medium=organic&utm_campaign=Indeed&idOrigine=1522&jobPipeline=Indeed) | New York, NY | ✅ [TECHNOLOGY CONSULTANT](https://www.capgemini.com/jobs/N92ZBYcBf9EzbUpvy_Nu/071398-technology-consultant---new-york---campus-recruiting-2024/?utm_source=Indeed&utm_medium=organic&utm_campaign=Indeed&idOrigine=1522&jobPipeline=Indeed) | U.S. Citizen or Permanent Resident Required |
 | [Cisco]() | San Jose, CA | 🔒 **[Not Open Yet]** 🔒 | - |
 | [Dropbox]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 | - |
 | [Dynatrace](https://app.ripplematch.com/v2/public/job/edf0d492/details?utm_source=Github&utm_medium=organic_social&utm_campaign=growth_github&utm_content=dynatrace&utm_term=null) | -  Denver, CO <br> - San Mateo, CA <br> - Detroit, MI <br> - U.S. Remote | ✅ [Software Delivery Consultant](https://app.ripplematch.com/v2/public/job/edf0d492/details?utm_source=Github&utm_medium=organic_social&utm_campaign=growth_github&utm_content=dynatrace&utm_term=null) | - |
@@ -64,6 +66,7 @@ Support [Nick Scialli](https://github.com/nas5w) directly on his repo! [Intervie
 | [PayPal]() | San Jose, CA | 🔒 **[Not Open Yet]** 🔒 | - |
 | [PerPay](https://jobs.lever.co/perpay/032c6423-f7b4-4d6a-b369-a415630948e8) | Philadelphia, PA | ✅ [Software Engineer (SWE)](https://jobs.lever.co/perpay/032c6423-f7b4-4d6a-b369-a415630948e8)  | - |
 | [Pinterest]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 | - |
+| [Qualtrics](https://app.ripplematch.com/v2/public/job/4d7314b0/details?utm_source=Github&utm_medium=organic_social&utm_campaign=growth_github&utm_content=qualtrics&utm_term=null) | Provo, UT | ✅ [Product Specialist](https://app.ripplematch.com/v2/public/job/4d7314b0/details?utm_source=Github&utm_medium=organic_social&utm_campaign=growth_github&utm_content=qualtrics&utm_term=null) | - |
 | [Reddit]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 | - |
 | [Salesforce]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 | - |
 | [Slack]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 | - |
@@ -77,6 +80,7 @@ Support [Nick Scialli](https://github.com/nas5w) directly on his repo! [Intervie
 | [Twitch]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 | - |
 | [Twitter]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 | - |
 | [Uber]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 | - |
+| [Vista](https://careers3-vistaequitypartners.icims.com/jobs/2548/job?utm_source=indeed_integration&iis=Job+Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f&mobile=false&width=1282&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) | -  Austin, TX <br> - Chicago, IL <br> - San Francisco, CA | ✅ [2024 Private Equity Analyst](https://careers3-vistaequitypartners.icims.com/jobs/2548/job?utm_source=indeed_integration&iis=Job+Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f&mobile=false&width=1282&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) | - |
 | [VMware]() | Palo Alto, CA | 🔒 **[Not Open Yet]** 🔒 | - |
 | [Yelp]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 | - |
 | [Zillow]() | Seattle, WA | 🔒 **[Not Open Yet]** 🔒 | - |
