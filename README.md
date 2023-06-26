@@ -55,7 +55,7 @@ Support [Nick Scialli](https://github.com/nas5w) directly on his repo! [Intervie
 | [Optiver](https://optiver.com/working-at-optiver/career-opportunities/6497784002/) | Chicago, IL | ✅ [All Roles (Expression of Interest)](https://optiver.com/working-at-optiver/career-opportunities/6497784002/) | - | 05/23/2023 |
 | [PerPay](https://jobs.lever.co/perpay/032c6423-f7b4-4d6a-b369-a415630948e8) | Philadelphia, PA | ✅ [Software Engineer (SWE)](https://jobs.lever.co/perpay/032c6423-f7b4-4d6a-b369-a415630948e8)  | - | 05/23/2023 |
 | [BlackRock](https://careers.blackrock.com/early-careers/americas/?2023-2024#tab-id-13) | - Atlanta, GA <br> - San Francisco, CA <br> - New York, NY | ✅ [SWE, PM, Quant](https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/xf-232eb66ac89a/candidate/so/pm/1/pl/1/opp/7893-Analyst-Program-Americas/en-GB) <br>- [See Desc PDF](https://static.wcn.co.uk/company/blackrock/JobDescription23/BlackRock_2023-2024_Software_Engineering_Job_Description.pdf)| - | 05/20/2023 |
-| [Adobe]() | San Jose, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
+| [Adobe](https://careers.adobe.com/us/en/job/ADOBUSR136654EXTERNALENUS/Software-Development-Engineer?utm_source=linkedin&utm_medium=phenom-feeds&source=LinkedIn) | San Jose, CA | ✅ [Software Development Engineer (SDE)](https://careers.adobe.com/us/en/job/ADOBUSR136654EXTERNALENUS/Software-Development-Engineer?utm_source=linkedin&utm_medium=phenom-feeds&source=LinkedIn) | - | 06/19/2023 |
 | [Airbnb]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [Amazon]() | U.S. Locations | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [Apple]() | Cupertino, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
