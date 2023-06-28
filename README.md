@@ -83,6 +83,7 @@ Support [Nick Scialli](https://github.com/nas5w) directly on his repo! [Intervie
 | [TikTok]() | Los Angeles, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [Twitch]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [Twitter]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
+| [Two Sigma]() | New York, NY | ✅ [Quantitative Researcher: Machine Learning](https://careers.twosigma.com/careers/SearchJobs/software%20engineer?locationSearch=233%7C%7CNew+York%7CNew+York&jobOffset=10) | - | 06/28/2023 |
 | [Uber]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [VMware]() | Palo Alto, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [Yelp]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
