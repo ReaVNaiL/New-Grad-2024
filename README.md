@@ -36,7 +36,7 @@ Support [Nick Scialli](https://github.com/nas5w) directly on his repo! [Intervie
 ----
 
 | Name         | Location     | Roles                | Citizenship/Visa Requirements | Date Posted <br> mm/dd/yyyy |
-| ------------ | ------------ | -------------------- | ----------------------------- | ----------- |
+| ------------ | ------------ | -------------------- | ----------------------------- | --------------------------- |
 | [LTIMindtree](https://www.wayup.com/i-Information-Technology-and-Services-j-Digital-Technology-Associate-Program-LTI-636149115252856/?utm_source=linkedin-xml&utm_medium=jobxml&utm_campaign=linkedin-XML-APPS-5360533-30356528&refer=lnkslot-APPS-5360533-30356528) | Multiple US Locations | ✅ [Digital Technology Associate Program](https://www.wayup.com/i-Information-Technology-and-Services-j-Digital-Technology-Associate-Program-LTI-636149115252856/?utm_source=linkedin-xml&utm_medium=jobxml&utm_campaign=linkedin-XML-APPS-5360533-30356528&refer=lnkslot-APPS-5360533-30356528) | - | 06/20/2023 |
 | [Leidos]() | Manassas, VA <br> Bethesda, MD | 🔒 [No Longer Available] 🔒 [Software Developer - Entry]() | U.S. Citizenship and Security Clearance Required | 06/20/2023 |
 | [Molson Coors](https://app.ripplematch.com/v2/public/job/2ff33150/details?utm_source=Github&utm_medium=organic_social&utm_campaign=growth_github&utm_content=molson&utm_term=null) | Milwaukee, WI <br> Fort Worth, TX | ✅ [IT Technology Solution Specialist (Rotational Program)](https://app.ripplematch.com/v2/public/job/2ff33150/details?utm_source=Github&utm_medium=organic_social&utm_campaign=growth_github&utm_content=molson&utm_term=null) | - | 06/20/2023 |
@@ -88,6 +88,7 @@ Support [Nick Scialli](https://github.com/nas5w) directly on his repo! [Intervie
 | [Yelp]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [Zillow]() | Seattle, WA | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [Zoom]() | San Jose, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
+
 -END OF LIST-
 
 ----
