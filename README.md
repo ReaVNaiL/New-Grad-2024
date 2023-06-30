@@ -12,11 +12,12 @@ This is a collection of full-time job openings for new grads in 2024 in the fiel
 > :warning: The LIST will START POPULATING once the New Grad Positions Open around May-June. :warning: 
 
 ## Table of Contents
-1. [Find The Jobs🔽](README.md#jobs)
-2. [How to Contribute](How_to_contribute.md)
+1. [Find The Jobs 🔽](README.md#jobs)
+2. [Helpful Resources 🎯](README.md#resources)
+3. [How to Contribute 💬](How_to_contribute.md)
 
 
-## Helpful Resources
+## Resources
 
 If you are looking for more guidance on how to prepare for technical interviews, you may find these resources helpful:
 
@@ -28,7 +29,11 @@ If you are looking for more guidance on how to prepare for technical interviews,
   * GitHub repository that contains a PDF file with a table of common time and space complexities for various operations and algorithms.
 - **[OA and Interviews](https://github.com/Leader-board/OA-and-Interviews/blob/main/Online%20Assessments.md)**:
   * Contains a comprehesion guide for patterns of online assessments and interview questions from various companies such as Amazon, Google, Facebook, Microsoft, and more.
-  
+- **[QuantGuide](https://quantguide.io)**:
+  * A platform that offers quant interview questions in probability theory, statistical inference, and brainteasers (think LeetCode for quant). Highly recommended for those applying to QR/QT roles at trading firms, prop shops, or HFTs.
+- **[Probability & Markets Guide by Jane Street](https://www.janestreet.com/static/pdfs/trading-interview.pdf?utm_source=web&utm_medium=pdf&utm_campaign=probability_markets_guide)**:
+  * A PDF guide of general topics to know for interviews at quant trading firms like Jane Street. Great for getting a baseline introduction to the topics tested in quant interviews.
+
 Support [Nick Scialli](https://github.com/nas5w) directly on his repo! [Interview Guide Repo](https://github.com/nas5w/interview-guide)
 
 ## Jobs
