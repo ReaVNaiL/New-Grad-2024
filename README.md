@@ -81,7 +81,7 @@ Support [Nick Scialli](https://github.com/nas5w) directly on his repo! [Intervie
 | [Spotify]() | U.S. Remote | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [Square]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [Stripe]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
-| [TikTok]() | Los Angeles, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
+| [TikTok](https://careers.tiktok.com/position?keywords=&category=&location=&project=7247019463362005306&type=2&job_hot_flag=&current=1&limit=10&functionCategory=&tag=&spread=5MWH5CQ) | Seattle, San Jose | [2024 PHD Grad Research Scientist roles](https://careers.tiktok.com/position?keywords=&category=&location=&project=7247019463362005306&type=2&job_hot_flag=&current=1&limit=10&functionCategory=&tag=&spread=5MWH5CQ) | Work Auth required for few roles | - |
 | [Twitch]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [Twitter]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [Uber]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
