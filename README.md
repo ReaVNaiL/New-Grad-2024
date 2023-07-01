@@ -12,11 +12,12 @@ This is a collection of full-time job openings for new grads in 2024 in the fiel
 > :warning: The LIST will START POPULATING once the New Grad Positions Open around May-June. :warning: 
 
 ## Table of Contents
-1. [Find The Jobs🔽](README.md#jobs)
-2. [How to Contribute](How_to_contribute.md)
+1. [Find The Jobs 🔽](README.md#jobs)
+2. [Helpful Resources 🎯](README.md#resources)
+3. [How to Contribute 💬](How_to_contribute.md)
 
 
-## Helpful Resources
+## Resources
 
 If you are looking for more guidance on how to prepare for technical interviews, you may find these resources helpful:
 
@@ -28,7 +29,11 @@ If you are looking for more guidance on how to prepare for technical interviews,
   * GitHub repository that contains a PDF file with a table of common time and space complexities for various operations and algorithms.
 - **[OA and Interviews](https://github.com/Leader-board/OA-and-Interviews/blob/main/Online%20Assessments.md)**:
   * Contains a comprehesion guide for patterns of online assessments and interview questions from various companies such as Amazon, Google, Facebook, Microsoft, and more.
-  
+- **[QuantGuide](https://quantguide.io)**:
+  * A platform that offers quant interview questions in probability theory, statistical inference, and brainteasers (think LeetCode for quant). Highly recommended for those applying to QR/QT roles at trading firms, prop shops, or HFTs.
+- **[Probability & Markets Guide by Jane Street](https://www.janestreet.com/static/pdfs/trading-interview.pdf?utm_source=web&utm_medium=pdf&utm_campaign=probability_markets_guide)**:
+  * A PDF guide of general topics to know for interviews at quant trading firms like Jane Street. Great for getting a baseline introduction to the topics tested in quant interviews.
+
 Support [Nick Scialli](https://github.com/nas5w) directly on his repo! [Interview Guide Repo](https://github.com/nas5w/interview-guide)
 
 ## Jobs
@@ -38,7 +43,8 @@ Support [Nick Scialli](https://github.com/nas5w) directly on his repo! [Intervie
 | Name         | Location     | Roles                | Citizenship/Visa Requirements | Date Posted <br> mm/dd/yyyy |
 | ------------ | ------------ | -------------------- | ----------------------------- | --------------------------- |
 | [Goldman Sachs](https://www.goldmansachs.com/careers/students/programs/americas/new-analyst-program.html) | - Dallas, TX <br> - New York, NY <br> - United States | ✅ [All Tech Roles (SWE, Quant, etc) ](https://www.goldmansachs.com/careers/students/programs/americas/new-analyst-program.html) ✅ | - | 07/01/2023 |
-| [Two Sigma](https://careers.twosigma.com/careers/SearchJobs/) | New York, NY | ✅ [Quantitative Researcher: Machine Learning](https://careers.twosigma.com/careers/SearchJobs/software%20engineer?locationSearch=233%7C%7CNew+York%7CNew+York&jobOffset=10) | - | 06/28/2023 |
+| [Old Mission Capital](https://www.oldmissioncapital.com/careers/) | Chicago, IL | ✅ [College Graduates - Full-Time - Junior Software Engineer (2024)](https://www.oldmissioncapital.com/careers/?gh_jid=5643831003) | - | 06/30/2023 |
+| [Two Sigma](https://careers.twosigma.com/careers/SearchJobs/) | New York, NY | ✅ [Quantitative Researcher: Machine Learning](https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Quantitative-Researcher-Machine-Learning/1439) | - | 06/28/2023 |
 | [LTIMindtree](https://www.wayup.com/i-Information-Technology-and-Services-j-Digital-Technology-Associate-Program-LTI-636149115252856/?utm_source=linkedin-xml&utm_medium=jobxml&utm_campaign=linkedin-XML-APPS-5360533-30356528&refer=lnkslot-APPS-5360533-30356528) | Multiple US Locations | ✅ [Digital Technology Associate Program](https://www.wayup.com/i-Information-Technology-and-Services-j-Digital-Technology-Associate-Program-LTI-636149115252856/?utm_source=linkedin-xml&utm_medium=jobxml&utm_campaign=linkedin-XML-APPS-5360533-30356528&refer=lnkslot-APPS-5360533-30356528) | - | 06/20/2023 |
 | [Leidos]() | Manassas, VA <br> Bethesda, MD | 🔒 [No Longer Available] 🔒 [Software Developer - Entry]() | U.S. Citizenship and Security Clearance Required | 06/20/2023 |
 | [Molson Coors](https://app.ripplematch.com/v2/public/job/2ff33150/details?utm_source=Github&utm_medium=organic_social&utm_campaign=growth_github&utm_content=molson&utm_term=null) | Milwaukee, WI <br> Fort Worth, TX | ✅ [IT Technology Solution Specialist (Rotational Program)](https://app.ripplematch.com/v2/public/job/2ff33150/details?utm_source=Github&utm_medium=organic_social&utm_campaign=growth_github&utm_content=molson&utm_term=null) | - | 06/20/2023 |
