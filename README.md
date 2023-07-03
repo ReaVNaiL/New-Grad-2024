@@ -12,11 +12,12 @@ This is a collection of full-time job openings for new grads in 2024 in the fiel
 > :warning: The LIST will START POPULATING once the New Grad Positions Open around May-June. :warning: 
 
 ## Table of Contents
-1. [Find The Jobs🔽](README.md#jobs)
-2. [How to Contribute](How_to_contribute.md)
+1. [Find The Jobs 🔽](README.md#jobs)
+2. [Helpful Resources 🎯](README.md#resources)
+3. [How to Contribute 💬](How_to_contribute.md)
 
 
-## Helpful Resources
+## Resources
 
 If you are looking for more guidance on how to prepare for technical interviews, you may find these resources helpful:
 
@@ -28,7 +29,11 @@ If you are looking for more guidance on how to prepare for technical interviews,
   * GitHub repository that contains a PDF file with a table of common time and space complexities for various operations and algorithms.
 - **[OA and Interviews](https://github.com/Leader-board/OA-and-Interviews/blob/main/Online%20Assessments.md)**:
   * Contains a comprehesion guide for patterns of online assessments and interview questions from various companies such as Amazon, Google, Facebook, Microsoft, and more.
-  
+- **[QuantGuide](https://quantguide.io)**:
+  * A platform that offers quant interview questions in probability theory, statistical inference, and brainteasers (think LeetCode for quant). Highly recommended for those applying to QR/QT roles at trading firms, prop shops, or HFTs.
+- **[Probability & Markets Guide by Jane Street](https://www.janestreet.com/static/pdfs/trading-interview.pdf?utm_source=web&utm_medium=pdf&utm_campaign=probability_markets_guide)**:
+  * A PDF guide of general topics to know for interviews at quant trading firms like Jane Street. Great for getting a baseline introduction to the topics tested in quant interviews.
+
 Support [Nick Scialli](https://github.com/nas5w) directly on his repo! [Interview Guide Repo](https://github.com/nas5w/interview-guide)
 
 ## Jobs
@@ -37,8 +42,10 @@ Support [Nick Scialli](https://github.com/nas5w) directly on his repo! [Intervie
 
 | Name         | Location     | Roles                | Citizenship/Visa Requirements | Date Posted <br> mm/dd/yyyy |
 | ------------ | ------------ | -------------------- | ----------------------------- | --------------------------- |
+| [Goldman Sachs](https://www.goldmansachs.com/careers/students/programs/americas/new-analyst-program.html) | - Dallas, TX <br> - New York, NY <br> - United States | ✅ [All Tech Roles (SWE, Quant, etc) ](https://www.goldmansachs.com/careers/students/programs/americas/new-analyst-program.html) ✅ | - | 07/01/2023 |
+| [Old Mission Capital](https://www.oldmissioncapital.com/careers/) | Chicago, IL | ✅ [College Graduates - Full-Time - Junior Software Engineer (2024)](https://www.oldmissioncapital.com/careers/?gh_jid=5643831003) | - | 06/30/2023 |
 | [TikTok](https://careers.tiktok.com/position?keywords=&category=&location=&project=7247019463362005306&type=2&job_hot_flag=&current=1&limit=10&functionCategory=&tag=&spread=5MWH5CQ) | Seattle, San Jose | [2024 PHD Grad Research Scientist roles](https://careers.tiktok.com/position?keywords=&category=&location=&project=7247019463362005306&type=2&job_hot_flag=&current=1&limit=10&functionCategory=&tag=&spread=5MWH5CQ) | Work Auth required for few roles | 06/28/2023 |
-| [Two Sigma](https://careers.twosigma.com/careers/SearchJobs/) | New York, NY | ✅ [Quantitative Researcher: Machine Learning](https://careers.twosigma.com/careers/SearchJobs/software%20engineer?locationSearch=233%7C%7CNew+York%7CNew+York&jobOffset=10) | - | 06/28/2023 |
+| [Two Sigma](https://careers.twosigma.com/careers/SearchJobs/) | New York, NY | ✅ [Quantitative Researcher: Machine Learning](https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Quantitative-Researcher-Machine-Learning/1439) | - | 06/28/2023 |
 | [LTIMindtree](https://www.wayup.com/i-Information-Technology-and-Services-j-Digital-Technology-Associate-Program-LTI-636149115252856/?utm_source=linkedin-xml&utm_medium=jobxml&utm_campaign=linkedin-XML-APPS-5360533-30356528&refer=lnkslot-APPS-5360533-30356528) | Multiple US Locations | ✅ [Digital Technology Associate Program](https://www.wayup.com/i-Information-Technology-and-Services-j-Digital-Technology-Associate-Program-LTI-636149115252856/?utm_source=linkedin-xml&utm_medium=jobxml&utm_campaign=linkedin-XML-APPS-5360533-30356528&refer=lnkslot-APPS-5360533-30356528) | - | 06/20/2023 |
 | [Leidos]() | Manassas, VA <br> Bethesda, MD | 🔒 [No Longer Available] 🔒 [Software Developer - Entry]() | U.S. Citizenship and Security Clearance Required | 06/20/2023 |
 | [Molson Coors](https://app.ripplematch.com/v2/public/job/2ff33150/details?utm_source=Github&utm_medium=organic_social&utm_campaign=growth_github&utm_content=molson&utm_term=null) | Milwaukee, WI <br> Fort Worth, TX | ✅ [IT Technology Solution Specialist (Rotational Program)](https://app.ripplematch.com/v2/public/job/2ff33150/details?utm_source=Github&utm_medium=organic_social&utm_campaign=growth_github&utm_content=molson&utm_term=null) | - | 06/20/2023 |
@@ -52,8 +59,7 @@ Support [Nick Scialli](https://github.com/nas5w) directly on his repo! [Intervie
 | [Meta]() | - Menlo Park, CA <br> - New York, NY <br> - U.S. Remote| 🔒 [No Longer Available] 🔒 [New Grad Software Engineer]() | - | 06/09/2023 |
 | [GE Appliances]() | Louisville, KY | 🔒 [No Longer Available] 🔒 ✅ [Edison Engineering Development Program - Software]() | - | 06/07/2023 |
 | [GE Aeroespace](https://jobs.gecareers.com/aviation/global/en) | - Dayton, OH <br> - Grand Rapids, MI <br> - Clearwater, FL | ✅ [Tech \| Software Development](https://jobs.gecareers.com/aviation/global/en/job/GE11GLOBALR3701186EXTERNALENGLOBAL/GE-Aerospace-US-Edison-Engineering-Development-Program-EEDP-Software-2024-Start) | U.S. Citizen or Permanent Resident Required. | 06/07/2023 |
-| [Blue Origin](https://www.blueorigin.com/careers) | Seattle, WA | ✅ [Software Engineer](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Seattle-WA/New-Graduate-Rotation--Early-2024-Start-Date----Avionics-Software_R34600) <br> - Must graduate after Jan 2024| U.S. Citizen or Permanent Resident Required. | 06/03/2023 |
-| [Goldman Sachs](https://www.goldmansachs.com/careers/students/programs/americas/new-analyst-program.html) | United States | 🔒 [All Roles - Apps Open July 1st](https://www.goldmansachs.com/careers/students/programs/americas/new-analyst-program.html) 🔒 | - | 05/31/2023 |
+| [Blue Origin](https://www.blueorigin.com/careers) | Seattle, WA | ✅ [Software Engineer](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Seattle-WA/New-Graduate-Rotation--Early-2024-Start-Date----Avionics-Software_R34600) <br> - Must graduate by or before Summer 2023| U.S. Citizen or Permanent Resident Required. | 06/03/2023 |
 | [Optiver](https://optiver.com/working-at-optiver/career-opportunities/6497784002/) | Chicago, IL | ✅ [All Roles (Expression of Interest)](https://optiver.com/working-at-optiver/career-opportunities/6497784002/) | - | 05/23/2023 |
 | [PerPay](https://jobs.lever.co/perpay/032c6423-f7b4-4d6a-b369-a415630948e8) | Philadelphia, PA | ✅ [Software Engineer (SWE)](https://jobs.lever.co/perpay/032c6423-f7b4-4d6a-b369-a415630948e8)  | - | 05/23/2023 |
 | [BlackRock](https://careers.blackrock.com/early-careers/americas/?2023-2024#tab-id-13) | - Atlanta, GA <br> - San Francisco, CA <br> - New York, NY | ✅ [SWE, PM, Quant](https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/xf-232eb66ac89a/candidate/so/pm/1/pl/1/opp/7893-Analyst-Program-Americas/en-GB) <br>- [See Desc PDF](https://static.wcn.co.uk/company/blackrock/JobDescription23/BlackRock_2023-2024_Software_Engineering_Job_Description.pdf)| - | 05/20/2023 |
