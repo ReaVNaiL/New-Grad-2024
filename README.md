@@ -37,6 +37,7 @@ Support [Nick Scialli](https://github.com/nas5w) directly on his repo! [Intervie
 
 | Name         | Location     | Roles                | Citizenship/Visa Requirements | Date Posted <br> mm/dd/yyyy |
 | ------------ | ------------ | -------------------- | ----------------------------- | --------------------------- |
+| [TikTok](https://careers.tiktok.com/position?keywords=&category=&location=&project=7247019463362005306&type=2&job_hot_flag=&current=1&limit=10&functionCategory=&tag=&spread=5MWH5CQ) | Seattle, San Jose | [2024 PHD Grad Research Scientist roles](https://careers.tiktok.com/position?keywords=&category=&location=&project=7247019463362005306&type=2&job_hot_flag=&current=1&limit=10&functionCategory=&tag=&spread=5MWH5CQ) | Work Auth required for few roles | 06/28/2023 |
 | [Two Sigma](https://careers.twosigma.com/careers/SearchJobs/) | New York, NY | ✅ [Quantitative Researcher: Machine Learning](https://careers.twosigma.com/careers/SearchJobs/software%20engineer?locationSearch=233%7C%7CNew+York%7CNew+York&jobOffset=10) | - | 06/28/2023 |
 | [LTIMindtree](https://www.wayup.com/i-Information-Technology-and-Services-j-Digital-Technology-Associate-Program-LTI-636149115252856/?utm_source=linkedin-xml&utm_medium=jobxml&utm_campaign=linkedin-XML-APPS-5360533-30356528&refer=lnkslot-APPS-5360533-30356528) | Multiple US Locations | ✅ [Digital Technology Associate Program](https://www.wayup.com/i-Information-Technology-and-Services-j-Digital-Technology-Associate-Program-LTI-636149115252856/?utm_source=linkedin-xml&utm_medium=jobxml&utm_campaign=linkedin-XML-APPS-5360533-30356528&refer=lnkslot-APPS-5360533-30356528) | - | 06/20/2023 |
 | [Leidos]() | Manassas, VA <br> Bethesda, MD | 🔒 [No Longer Available] 🔒 [Software Developer - Entry]() | U.S. Citizenship and Security Clearance Required | 06/20/2023 |
@@ -81,7 +82,6 @@ Support [Nick Scialli](https://github.com/nas5w) directly on his repo! [Intervie
 | [Spotify]() | U.S. Remote | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [Square]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [Stripe]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
-| [TikTok](https://careers.tiktok.com/position?keywords=&category=&location=&project=7247019463362005306&type=2&job_hot_flag=&current=1&limit=10&functionCategory=&tag=&spread=5MWH5CQ) | Seattle, San Jose | [2024 PHD Grad Research Scientist roles](https://careers.tiktok.com/position?keywords=&category=&location=&project=7247019463362005306&type=2&job_hot_flag=&current=1&limit=10&functionCategory=&tag=&spread=5MWH5CQ) | Work Auth required for few roles | - |
 | [Twitch]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [Twitter]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [Uber]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
