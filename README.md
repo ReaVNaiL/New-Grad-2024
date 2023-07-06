@@ -42,6 +42,7 @@ Support [Nick Scialli](https://github.com/nas5w) directly on his repo! [Intervie
 
 | Name         | Location     | Roles                | Citizenship/Visa Requirements | Date Posted <br> mm/dd/yyyy |
 | ------------ | ------------ | -------------------- | ----------------------------- | --------------------------- |
+| [Citadel](https://www.citadel.com) | - New York, NY <br> - Chicago, IL <br> - United States | ✅ [Software Engineer – Full Time (US) ](https://www.citadel.com/careers/details/software-engineer-full-time-us/) | - | 07/06/2023 |
 | [JPMorgan Chase & Co.](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions?mode=location) | - New York, NY <br> - Columbus, OH <br> - United States | ✅ [2024 Full-time Sofware Engineer Program ](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/preview/210429313/?keyword=code+for+good&mode=location) | Work Auth required | 07/05/2023 |
 | [Goldman Sachs](https://www.goldmansachs.com/careers/students/programs/americas/new-analyst-program.html) | - Dallas, TX <br> - New York, NY <br> - United States | ✅ [All Tech Roles (SWE, Quant, etc) ](https://www.goldmansachs.com/careers/students/programs/americas/new-analyst-program.html) | - | 07/01/2023 |
 | [Old Mission Capital](https://www.oldmissioncapital.com/careers/) | Chicago, IL | ✅ [College Graduates - Full-Time - Junior Software Engineer (2024)](https://www.oldmissioncapital.com/careers/?gh_jid=5643831003) | - | 06/30/2023 |
