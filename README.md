@@ -40,6 +40,8 @@ Support [Nick Scialli](https://github.com/nas5w) directly on his repo! [Intervie
 
 | Name         | Location     | Roles                | Citizenship/Visa Requirements | Date Posted <br> mm/dd/yyyy |
 | ------------ | ------------ | -------------------- | ----------------------------- | --------------------------- |
+| [Microsoft]() | Redmond, WA | ✅ [Software Engineer](https://jobs.careers.microsoft.com/global/en/share/1591157/?utm_source=Job) | - | 07/21/2023 |
+| [Chevron]() | Multiple US Locations | ✅ [2023-2024: Information Technology – Software Engineering – Full Time](https://chevron.wd5.myworkdayjobs.com/University/job/Houston-Texas-United-States-of-America/XMLNAME-2023-2024--Information-Technology---Software-Engineering---Full-Time_R000043422) | Work Auth Required | 7/20/2023
 | [Jane Street](https://www.janestreet.com/join-jane-street/open-roles/?type=full-time-new-grad&location=new-york) | New York, NY | ✅ [New Grad SWE](https://www.janestreet.com/join-jane-street/position/6834646002/) <br> ✅ [New Grad Quant Researcher](https://www.janestreet.com/join-jane-street/position/6837502002/) <br> ✅ [New Grad Quant Trader](https://www.janestreet.com/join-jane-street/position/6837725002/) <br> ✅ [Other roles](https://www.janestreet.com/join-jane-street/open-roles/?type=full-time-new-grad&location=new-york) | - | 07/18/2023 |
 | [Optiver](https://optiver.com/working-at-optiver/career-opportunities/?numberposts=0&paged=1&tax_query[Level]=27) | - Austin, TX <br> - Chicago, IL  | ✅[Graduate Software Engineer (2024 Start – Austin)](https://optiver.com/working-at-optiver/career-opportunities/6837072002) <br> ✅[Graduate Software Engineer (2024 Start – Chicago)](https://optiver.com/working-at-optiver/career-opportunities/6835570002/)| - | 07/17/2023 |
 | [IXL](https://www.ixl.com/company/careers?gh_jid=6843329002&gh_src=e358d0722&gh_src=9ab9c2a12) | San Mateo, CA| ✅ [New Grad SWE](https://www.ixl.com/company/careers?gh_jid=6843329002&gh_src=e358d0722&gh_src=9ab9c2a12) | - | 07/13/2023 |
@@ -82,7 +84,6 @@ Support [Nick Scialli](https://github.com/nas5w) directly on his repo! [Intervie
 | [Intel]() | Santa Clara, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [Intuit]() | Mountain View, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [Lyft]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
-| [Microsoft]() | Redmond, WA | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [Netflix](https://jobs.netflix.com/new-grad-program) | Los Gatos, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [Nvidia]() | Santa Clara, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [Oracle]() | Redwood City, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
