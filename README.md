@@ -103,6 +103,7 @@ Support [Nick Scialli](https://github.com/nas5w) directly on his repo! [Intervie
 | [Yelp]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [Zillow]() | Seattle, WA | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [Zoom]() | San Jose, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
+| [Bloomberg]() | New York, NY| 🔒 **[Not Open Yet]** 🔒 | - | - |
 
 -END OF LIST-
 
