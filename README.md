@@ -40,6 +40,7 @@ Support [Nick Scialli](https://github.com/nas5w) directly on his repo! [Intervie
 
 | Name         | Location     | Roles                | Citizenship/Visa Requirements | Date Posted <br> mm/dd/yyyy |
 | ------------ | ------------ | -------------------- | ----------------------------- | --------------------------- |
+| [Radix](https://boards.greenhouse.io/radixtrading) | Chicago, IL | [Quantitative Technologist](https://boards.greenhouse.io/radixtrading) | - | 08/02/2023 |
 | [Palantir](https://www.palantir.com/careers/#open-positions) | New York, NY | [Forward Deployed Software Engineer, New Grad](https://jobs.lever.co/palantir/8dcdb586-46ae-4f94-9d05-7f1989400049) | - | 08/01/2023
 | [Gecko Robotics](https://www.geckorobotics.com/)| Boston US | [Software Engineer - New Grad](https://www.geckorobotics.com/careers/apply?gh_jid=5695200003&gh_src=2f1f94f93us) | - | 07/31/2023 |
 | [Sentry.io](https://sentry.io/welcome/) | San Francisco, CA | ✅ [Software Engineer, New Grad (2024)](https://boards.greenhouse.io/sentry/jobs/5193895) | - | 07/31/2023
