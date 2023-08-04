@@ -40,6 +40,7 @@ Support [Nick Scialli](https://github.com/nas5w) directly on his repo! [Intervie
 
 | Name         | Location     | Roles                | Citizenship/Visa Requirements | Date Posted <br> mm/dd/yyyy |
 | ------------ | ------------ | -------------------- | ----------------------------- | --------------------------- |
+| [PEAK6](https://peak6.com/careers/) | Chicago, IL | ✅ [Software Engineer I - Campus Entry Level](https://careers.peak6.com/jobs/technology/chicago-illinois-united-states-of-america/software-engineer-i-campus-entry-level/JR100526) | - | 08/03/2023 |
 | [PNC](https://app.ripplematch.com/v2/public/job/8c921ff1/details?utm_source=Github&utm_medium=organic_social&utm_campaign=growth_github&utm_content=role&utm_term=null) | Pittsburgh, PA <br/> Cleveland, OH <br/> Birmingham, AL <br/> Dallas, TX| ✅ [Technology Development Program](https://app.ripplematch.com/v2/public/job/8c921ff1/details?utm_source=Github&utm_medium=organic_social&utm_campaign=growth_github&utm_content=role&utm_term=null) | - | 08/02/2023
 | [Palantir](https://www.palantir.com/careers/#open-positions) | New York, NY | [Forward Deployed Software Engineer, New Grad](https://jobs.lever.co/palantir/8dcdb586-46ae-4f94-9d05-7f1989400049) | - | 08/01/2023
 | [Gecko Robotics](https://www.geckorobotics.com/)| Boston US | [Software Engineer - New Grad](https://www.geckorobotics.com/careers/apply?gh_jid=5695200003&gh_src=2f1f94f93us) | - | 07/31/2023 |
