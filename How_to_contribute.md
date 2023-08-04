@@ -27,14 +27,13 @@ Please follow the existing format of the table.
 
 | Company Name | Location | Roles | Citizenship/Visa Requirements | Date Posted <br> mm/dd/yyyy |
 | ------------ | -------- | ----- | ----------------------------- | --------------------------- |
-| [Walmart](https://careers.walmart.com/) | Bentonville, AR (s) | ✅ [New Grad Software Engineer II](https://careers.walmart.com/)| US Citizen, Permanent Resident, OPT, Sponsorship, etc. | 10/01/2023 |
+| [Walmart](https://careers.walmart.com/) | Bentonville, AR (s) | [New Grad Software Engineer II](https://careers.walmart.com/)| US Citizen, Permanent Resident, OPT, Sponsorship, etc. | 10/01/2023 |
 
 
 Placeholders for the table are as follows:
   - `Company Name`: The name of the company.
   - `Location`: The location(s) of the job opening.
   - `Roles`: Any additional Roles or links to the job posting.
-    - The "✅" is not required, but if you still want to add it to keep it consistent with the rest of the repo, you can add it at the beginning of the role listing. 
   - `Citizenship/Visa Requirements`: The citizenship/visa requirements for the job opening.
   - `Date Posted`: The date the job opening was posted. Must be in the format of `mm/dd/yyyy`.
 
@@ -44,11 +43,11 @@ Placeholders for the table are as follows:
 
 <br>
 
-- If **UPDATING** a job opening, please follow the same format as above, but replace the link to the job posting with the new link, or add a new position name separated by a comma or a `<br>` tag.
+- If **UPDATING** a job opening, please follow the same format as above, but replace the link to the job posting with the new link, or add a new position name separated by a comma.
 
 | Company Name | Location | Roles | Citizenship/Visa Requirements | Date Posted <br> mm/dd/yyyy |
 | ------------ | -------- | ----- | ----------------------------- | --------------------------- |
-| [Walmart](https://careers.walmart.com/) | Bentonville, AR (s) | ✅ [New Grad Software Engineer II](https://careers.walmart.com/) <br> ✅ [New Grad Product Manager](https://careers.walmart.com/)| US Citizen, Permanent Resident, OPT, Sponsorship, etc. | 10/01/2023 |
+| [Walmart](https://careers.walmart.com/) | Bentonville, AR (s) | [New Grad Software Engineer II](https://careers.walmart.com/), [New Grad Product Manager](https://careers.walmart.com/)| US Citizen, Permanent Resident, OPT, Sponsorship, etc. | 10/01/2023 |
 
 ```java
 | [Company Name](link-to-job-posting) | Location (s)  | [Position Name](link-to-job-posting), [New Position Name 2](link-to-job-posting-2)| US Citizen, Permanent Resident. | mm/dd/yyyy |
@@ -62,10 +61,8 @@ Placeholders for the table are as follows:
 
     ```bash
     git add .
-    git commit -m "Add <Company Name> <Role>"
+    git commit -m "Add <Company Name> to the list"
     ```
-
-    - The actual commit message can be anything you want, but it's best to keep it short and simple and related to the changes you made.
 
 6. **Create a Pull Request**:
     * You can create a pull request from your forked repository to the original repository by clicking on the **"Compare & pull request"** button on your forked repository page.
