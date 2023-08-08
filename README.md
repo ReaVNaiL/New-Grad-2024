@@ -40,6 +40,7 @@ Support [Nick Scialli](https://github.com/nas5w) directly on his repo! [Intervie
 
 | Name         | Location     | Roles                | Citizenship/Visa Requirements | Date Posted <br> mm/dd/yyyy |
 | ------------ | ------------ | -------------------- | ----------------------------- | --------------------------- |
+| [U.S. Bank](https://careers.usbank.com/global/en/home) | Richfield, MN | ✅ [2024 Engineering Rotational Program](https://careers.usbank.com/global/en/job/2023-0023298/2024-Engineering-Rotational-Program) | - | 08/07/2023
 | [Belvedere Trading](http://www.belvederetrading.com/jobs) | Chicago, IL | ✅ [Software Engineer - Entry Level 2024 Chicago](https://jobs.lever.co/belvederetrading/d9596403-6195-4af3-9e41-279d2dd6ef4e) <br> ✅ [Junior Quantitative Trading Analyst - Entry Level 2024 Chicago](https://jobs.lever.co/belvederetrading/e85965d8-23f2-472d-901f-d86a01c837d0) | - | 08/04/2023 | 
 | [Databricks](https://www.databricks.com/company/careers/open-positions?department=Universityrecruiting&location=all) | Mountain View, CA  |  ✅ [Software Engineer - New Grad (2024 Start)](https://www.databricks.com/company/careers/university-recruiting/software-engineer---new-grad-2024-start-6865698002?gh_jid=6865698002&gh_src=62a881d62)| | 08/04/2023 |
 | [PEAK6](https://peak6.com/careers/) | Chicago, IL | ✅ [Software Engineer I - Campus Entry Level](https://careers.peak6.com/jobs/technology/chicago-illinois-united-states-of-america/software-engineer-i-campus-entry-level/JR100526) | - | 08/03/2023 |
