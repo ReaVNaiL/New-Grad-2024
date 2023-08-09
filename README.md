@@ -97,7 +97,7 @@ Support [Nick Scialli](https://github.com/nas5w) directly on his repo! [Intervie
 | [Netflix](https://jobs.netflix.com/new-grad-program) | Los Gatos, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [Nvidia]() | Santa Clara, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [Oracle]() | Redwood City, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
-| [PayPal]() | San Jose, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
+| [PayPal](https://wd1.myworkdaysite.com/recruiting/paypal/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer---Recent-Graduate_R0106014?utm_source=Simplify) | - San Jose, CA <br> - Chicago, IL <br> - Scottsdale, AZ <br> - New York City, NY <br> - Austin, TX | [Software Engineer - Recent Graduate] | - | 08/09/2023 |
 | [Pinterest]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [Reddit]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [Salesforce]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
