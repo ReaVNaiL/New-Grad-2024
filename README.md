@@ -40,6 +40,7 @@ Support [Nick Scialli](https://github.com/nas5w) directly on his repo! [Intervie
 
 | Name         | Location     | Roles                | Citizenship/Visa Requirements | Date Posted <br> mm/dd/yyyy |
 | ------------ | ------------ | -------------------- | ----------------------------- | --------------------------- |
+| [Roblox](https://corp.roblox.com/) | San Mateo, CA  |  ✅ [Software Engineer - New Grads 2024](https://careers.roblox.com/jobs/5221252?gh_jid=5221252&gh_src=da92d0c91)| - | 08/10/2023 |
 | [PayPal](https://wd1.myworkdaysite.com/recruiting/paypal/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer---Recent-Graduate_R0106014?utm_source=Simplify) | - San Jose, CA <br> - Chicago, IL <br> - Scottsdale, AZ <br> - New York City, NY <br> - Austin, TX | ✅ [Software Engineer - Recent Graduate](https://wd1.myworkdaysite.com/recruiting/paypal/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer---Recent-Graduate_R0106014?utm_source=Simplify) | Work Auth Required | 08/09/2023 |
 | [WeRide.ai](https://www.weride.ai/) | San Jose, CA  |  ✅ [Software Engineer - New Grads 2024](https://jobs.lever.co/weride/6ee0e3cc-4f36-4224-a9b9-f5e79247ebef)| - | 08/07/2023 |
 | [X1](https://jobs.lever.co/x1creditcard/) | Remote |  ✅ [New Grad Software Engineer (Backend)](https://jobs.lever.co/x1creditcard/9a13bb24-27d8-4aa6-94f9-83c42a84447e) <br>  ✅ [New Grad Software Engineer (Product)](https://jobs.lever.co/x1creditcard/c12e53aa-b569-476f-95a6-b9d6bc326d61) | - | 08/07/2023 |
