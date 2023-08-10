@@ -40,6 +40,7 @@ Support [Nick Scialli](https://github.com/nas5w) directly on his repo! [Intervie
 
 | Name         | Location     | Roles                | Citizenship/Visa Requirements | Date Posted <br> mm/dd/yyyy |
 | ------------ | ------------ | -------------------- | ----------------------------- | --------------------------- |
+| [PayPal](https://wd1.myworkdaysite.com/recruiting/paypal/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer---Recent-Graduate_R0106014?utm_source=Simplify) | - San Jose, CA <br> - Chicago, IL <br> - Scottsdale, AZ <br> - New York City, NY <br> - Austin, TX | ✅ [Software Engineer - Recent Graduate](https://wd1.myworkdaysite.com/recruiting/paypal/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer---Recent-Graduate_R0106014?utm_source=Simplify) | Work Auth Required | 08/09/2023 |
 | [X1](https://jobs.lever.co/x1creditcard/) | Remote |  ✅ [New Grad Software Engineer (Backend)](https://jobs.lever.co/x1creditcard/9a13bb24-27d8-4aa6-94f9-83c42a84447e) <br>  ✅ [New Grad Software Engineer (Product)](https://jobs.lever.co/x1creditcard/c12e53aa-b569-476f-95a6-b9d6bc326d61) | - | 08/07/2023 |
 | [U.S. Bank](https://careers.usbank.com/global/en/home) | Richfield, MN | ✅ [2024 Engineering Rotational Program](https://careers.usbank.com/global/en/job/2023-0023298/2024-Engineering-Rotational-Program) | - | 08/07/2023 |
 | [Belvedere Trading](http://www.belvederetrading.com/jobs) | Chicago, IL | ✅ [Software Engineer - Entry Level 2024 Chicago](https://jobs.lever.co/belvederetrading/d9596403-6195-4af3-9e41-279d2dd6ef4e) <br> ✅ [Junior Quantitative Trading Analyst - Entry Level 2024 Chicago](https://jobs.lever.co/belvederetrading/e85965d8-23f2-472d-901f-d86a01c837d0) | - | 08/04/2023 | 
@@ -99,7 +100,6 @@ Support [Nick Scialli](https://github.com/nas5w) directly on his repo! [Intervie
 | [Netflix](https://jobs.netflix.com/new-grad-program) | Los Gatos, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [Nvidia]() | Santa Clara, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [Oracle]() | Redwood City, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
-| [PayPal]() | San Jose, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [Pinterest]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [Reddit]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [Salesforce]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
