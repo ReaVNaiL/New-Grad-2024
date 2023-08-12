@@ -40,6 +40,7 @@ Support [Nick Scialli](https://github.com/nas5w) directly on his repo! [Intervie
 
 | Name         | Location     | Roles                | Citizenship/Visa Requirements | Date Posted <br> mm/dd/yyyy |
 | ------------ | ------------ | -------------------- | ----------------------------- | --------------------------- |
+| [Cisco](https://jobs.cisco.com/jobs/SearchJobs/?21178=%5B169482%5D&21178_format=6020&21180=%5B164%5D&21180_format=6022&listFilterMode=1) | - San Jose, CA | ✅ [Multiple Early in Career Engineering Roles](https://jobs.cisco.com/jobs/SearchJobs/?21178=%5B169482%5D&21178_format=6020&21180=%5B164%5D&21180_format=6022&21181=%5B187%5D&21181_format=6023&listFilterMode=1) | Visa sponsorship might not be available | 08/11/2023 |
 | [TikTok](https://careers.tiktok.com/position?keywords=&category=&location=&project=7247019463362005306&type=2&job_hot_flag=&current=1&limit=10&functionCategory=&tag=&spread=5MWH5CQ) | - San Jose, CA <br> - Seattle, WA <br> | ✅ [Multiple Grad SWE, Machine Learning, Research Grad, Other Tech Roles - 2024 Start (BS/MS/PhD)](https://careers.tiktok.com/position?keywords=&category=&location=CT_1103355%2CCT_157&project=7247019463362005306%2C7256965535018617148&type=2&job_hot_flag=&current=1&limit=10&functionCategory=&tag=) | Work Auth required for few roles <br> <br> *Can only apply to two new grad positions at a time during current cycle.* | 08/10/2023 |
 | [Roblox](https://corp.roblox.com/) | San Mateo, CA  |  ✅ [Software Engineer - New Grads 2024](https://careers.roblox.com/jobs/5221252?gh_jid=5221252&gh_src=da92d0c91)|  | 08/10/2023 |
 | [PayPal](https://wd1.myworkdaysite.com/recruiting/paypal/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer---Recent-Graduate_R0106014?utm_source=Simplify) | - San Jose, CA <br> - Chicago, IL <br> - Scottsdale, AZ <br> - New York City, NY <br> - Austin, TX | ✅ [Software Engineer - Recent Graduate](https://wd1.myworkdaysite.com/recruiting/paypal/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer---Recent-Graduate_R0106014?utm_source=Simplify) | Work Auth Required | 08/09/2023 |
@@ -93,7 +94,6 @@ Support [Nick Scialli](https://github.com/nas5w) directly on his repo! [Intervie
 | [Amazon]() | U.S. Locations | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [Apple]() | Cupertino, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [Atlassian]() | U.S Remote | 🔒 **[Not Open Yet]** 🔒 | - | - |
-| [Cisco]() | San Jose, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [Dropbox]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [Google]() | Mountain View, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [IBM]() | Armonk, NY | 🔒 **[Not Open Yet]** 🔒 | - | - |
