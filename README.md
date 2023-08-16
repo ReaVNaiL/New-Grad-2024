@@ -40,6 +40,7 @@ Support [Nick Scialli](https://github.com/nas5w) directly on his repo! [Intervie
 
 | Name         | Location     | Roles                | Citizenship/Visa Requirements | Date Posted <br> mm/dd/yyyy |
 | ------------ | ------------ | -------------------- | ----------------------------- | --------------------------- |
+| [Veritas Technologies](http://www.veritas.com) | Minnesota Remote  |  ✅ [Associate Software Engineer- New Graduate](https://veritas.wd1.myworkdayjobs.com/en-US/careers/details/Associate-Software-Engineer--New-Graduate-_61867)| - | 08/15/2023 |
 | [Susquehanna International Group (SIG)](https://careers.sig.com/) | Philadelphia, PA | ✅ [Software Developer - Campus 2024 Start (expression of interest)](https://careers.sig.com/job/7286/Software-Developer-Campus-2024-Start-Expression-of-Interest) <br> ✅[Systems Engineer - Campus](https://careers.sig.com/job/7403/Systems-Engineer-Campus)<br> ✅[Security Engineer - Campus](https://careers.sig.com/job/7259/Security-Engineer-Campus)<br>| Visa sponsorships are available | 08/14/2023 |
 | [Radix Trading](https://radixtrading.co/) | Chicago, IL | ✅ [Multiple New grad Quant and Engineering Roles](https://boards.greenhouse.io/radixuniversity) | - | 08/12/2023 |
 | [Instacart](https://instacart.careers/current-openings/) | - Toronto, ON Canada | ✅ [Full Stack Software Engineer, Instacart App Growth Activation & Resurrection (New Grad)](https://instacart.careers/job/?gh_jid=5293409) | - | 08/11/2023 |
