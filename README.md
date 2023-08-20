@@ -40,6 +40,7 @@ Support [Nick Scialli](https://github.com/nas5w) directly on his repo! [Intervie
 
 | Name         | Location     | Roles                | Citizenship/Visa Requirements | Date Posted <br> mm/dd/yyyy |
 | ------------ | ------------ | -------------------- | ----------------------------- | --------------------------- |
+| [Intel](https://www.intel.com/content/www/us/en/jobs/jobs-at-intel.html) | - Arizona, Phoenix <br> - Other U.S. Locations | ✅ [College Graduate - Data Science (BS/MS)](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/College-Graduate---Data-Science--BS-MS-_JR0247231?utm_source=Simplify) | - | 08/18/2023 |
 | [Stripe](https://stripe.com/jobs/) | - San Francisco, CA <br> - Chicago, IL <br> - Seattle, WA | ✅ [Software Engineering, New Grad](https://stripe.com/jobs/listing/software-engineering-new-grad/5305676) | - | 08/18/2023 |
 | [Peraton](https://www.peraton.com/) | Herndon, VA | ✅ [Software Engineer (Entry-level)](https://careers-peraton.icims.com/jobs/136975/job?utm_source=indeed_integration&iis=Job+Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f&iis=HireClix&iisn=Indeed&mobile=false&width=1296&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) | US Citizenship with the ability to obtain and maintain a TS/SCI security clearance and polygraph prior to starting | 08/18/2023 | 
 | [Tencent](https://careers.tencent.com/en-us/campusrecruit.html) | Palo Alto, CA <br> Los Angeles, CA | ✅ [Multiple New grad Technology Roles](https://careers.tencent.com/en-us/search.html?query=at_2,co_2,ot_40001001,ot_40001002,ot_40001003,ot_40001004,ot_40001005,ot_40001006&sc=2) | - | 08/17/2023 |
@@ -109,7 +110,6 @@ Support [Nick Scialli](https://github.com/nas5w) directly on his repo! [Intervie
 | [Dropbox]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [Google]() | Mountain View, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [IBM]() | Armonk, NY | 🔒 **[Not Open Yet]** 🔒 | - | - |
-| [Intel]() | Santa Clara, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [Intuit]() | Mountain View, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [Lyft]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [Microsoft]() | Redmond, WA | 🔒 **[Not Open Yet]** 🔒 | - | - |
