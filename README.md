@@ -31,6 +31,13 @@ If you are looking for more guidance on how to prepare for technical interviews,
   * A platform that offers quant interview questions in probability theory, statistical inference, and brainteasers (think LeetCode for quant). Highly recommended for those applying to QR/QT roles at trading firms, prop shops, or HFTs.
 - **[Probability & Markets Guide by Jane Street](https://www.janestreet.com/static/pdfs/trading-interview.pdf?utm_source=web&utm_medium=pdf&utm_campaign=probability_markets_guide)**:
   * A PDF guide of general topics to know for interviews at quant trading firms like Jane Street. Great for getting a baseline introduction to the topics tested in quant interviews.
+ 
+## For International Students
+
+- **[h1bdata.info](https://www.h1bdata.info)**
+  * Check if a company has sponsored for H1B candidates in the past.
+- **[e-verify.gov](https://www.e-verify.gov)**
+  * Check if a company is e-verified (i.e, allows for F-1 OPT STEM extension of 24 months).
 
 Support [Nick Scialli](https://github.com/nas5w) directly on his repo! [Interview Guide Repo](https://github.com/nas5w/interview-guide)
 
