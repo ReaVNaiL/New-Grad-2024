@@ -47,6 +47,7 @@ Support [Nick Scialli](https://github.com/nas5w) directly on his repo! [Intervie
 
 | Name         | Location     | Roles                | Citizenship/Visa Requirements | Date Posted <br> mm/dd/yyyy |
 | ------------ | ------------ | -------------------- | ----------------------------- | --------------------------- |
+| [Anyscale](https://www.anyscale.com/careers) | San Francisco, CA | ✅ [Software Engineer (New Grad 2024)](https://jobs.lever.co/anyscale/2888fb5f-3489-46c0-b776-2a02004ce21b)| - | 08/24/2023 |
 | [General Motors](https://search-careers.gm.com/en/early-careers/) | Austin, TX <br/> Detroit, MI <br/> Warren, MI <br/> Chandler, AZ <br/> Roswell, GA | ✅ [Entry-Level Information and Digital Technology](https://search-careers.gm.com/en/jobs/jr-202316188/entry-level-information-and-digital-technology-coding-skills-required/) | Work Auth Required | 08/23/2023 |
 | [McMaster-Carr](https://app.ripplematch.com/v2/public/job/0bd0b81f/details?utm_source=RM&utm_medium=organic_social&utm_campaign=growth_github&utm_content=role&utm_term=null) | Chicago, IL| ✅ [Software Development & Design](https://app.ripplematch.com/v2/public/job/0bd0b81f/details?utm_source=RM&utm_medium=organic_social&utm_campaign=growth_github&utm_content=role&utm_term=null) | - | 08/23/2023 |
 | [Scale AI](https://scale.com/careers) | San Francisco, CA | ✅ [Software Developer - New Grad](https://scale.com/careers/4305866005) <br> ✅ [Machine Learning Research Engineer - New Grad](https://scale.com/careers/4305880005) | - | 08/23/2023 |
