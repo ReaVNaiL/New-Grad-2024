@@ -25,7 +25,7 @@ Please follow the existing format of the table.
 
 - If you were **ADDING** a job opening for *Walmart*:
 
-| Company Name | Location | Roles | Citizenship/Visa Requirements | Date Posted <br> mm/dd/yyyy |
+| Company Name | Location | Roles | Citizenship/Visa Requirements | Date Added <br> mm/dd/yyyy |
 | ------------ | -------- | ----- | ----------------------------- | --------------------------- |
 | [Walmart](https://careers.walmart.com/) | Bentonville, AR (s) | ✅ [New Grad Software Engineer II](https://careers.walmart.com/)| US Citizen, Permanent Resident, OPT, Sponsorship, etc. | 10/01/2023 |
 
@@ -36,7 +36,8 @@ Placeholders for the table are as follows:
   - `Roles`: Any additional Roles or links to the job posting.
     - The "✅" is not required, but if you still want to add it to keep it consistent with the rest of the repo, you can add it at the beginning of the role listing. 
   - `Citizenship/Visa Requirements`: The citizenship/visa requirements for the job opening.
-  - `Date Posted`: The date the job opening was posted. Must be in the format of `mm/dd/yyyy`.
+  - `Date Added`: The date the job opening was Added to the repo. Must be in the format of `mm/dd/yyyy`.
+     - This way we can keep the most recent job openings at the top of the table.
 
 ```java
 | [Company Name](link-to-job-posting) | Location (s)  | [Position Name](link-to-job-posting)| US Citizen, Permanent Resident, Sponsorship | mm/dd/yyyy |
@@ -46,7 +47,7 @@ Placeholders for the table are as follows:
 
 - If **UPDATING** a job opening, please follow the same format as above, but replace the link to the job posting with the new link, or add a new position name separated by a comma or a `<br>` tag.
 
-| Company Name | Location | Roles | Citizenship/Visa Requirements | Date Posted <br> mm/dd/yyyy |
+| Company Name | Location | Roles | Citizenship/Visa Requirements | Date Added <br> mm/dd/yyyy |
 | ------------ | -------- | ----- | ----------------------------- | --------------------------- |
 | [Walmart](https://careers.walmart.com/) | Bentonville, AR (s) | ✅ [New Grad Software Engineer II](https://careers.walmart.com/) <br> ✅ [New Grad Product Manager](https://careers.walmart.com/)| US Citizen, Permanent Resident, OPT, Sponsorship, etc. | 10/01/2023 |
 
@@ -103,7 +104,7 @@ It's very similar, assuming you have already forked the repository and cloned it
 
 - This is what the *table* would look like if you were removing a job opening for *Walmart*:
 
-| Company Name | Location | Roles | Citizenship/Visa Requirements | Date Posted <br> mm/dd/yyyy |
+| Company Name | Location | Roles | Citizenship/Visa Requirements | Date Added <br> mm/dd/yyyy |
 | ------------ | -------- | ----- | ----------------------------- | --------------------------- |
 | [Walmart]() | Bentonville, AR (s) | 🔒 **[Closed]** 🔒 [New Grad Software Engineer II]()| - | 10/05/2023 |
 
