@@ -47,6 +47,7 @@ Support [Nick Scialli](https://github.com/nas5w) directly on his repo! [Intervie
 
 | Name         | Location     | Roles                | Citizenship/Visa Requirements | Date Added <br> mm/dd/yyyy |
 | ------------ | ------------ | -------------------- | ----------------------------- | --------------------------- |
+| [Hudson River Trading](https://www.hudsonrivertrading.com/student-opportunities/) | New York, NY | ✅ [Software Engineer (C++) – 2024 Grads](https://www.hudsonrivertrading.com/careers/job/?_4118765=Full-Time%3A+New+Grad&q=software&gh_jid=5271700&req_id=437) <br> ✅ [Algorithm Developer – 2024 Grads](https://www.hudsonrivertrading.com/careers/job/?_4118765=Full-Time%3A+New+Grad&q=algorithm&gh_jid=5271551&req_id=433) <br> | - | 08/28/2023 |
 | [Netflix](https://jobs.netflix.com/new-grad-program) | Los Gatos, California | ✅ [New Grad Software Engineer (2024)](https://jobs.netflix.com/jobs/291980521)| - | 08/28/2023 |
 | [Morgan Stanley](https://www.morganstanley.com/) | New York, NY | ✅ [2024 Technology Full-Time Analyst Program](https://morganstanley.tal.net/vx/candidate/apply/15071)| - | 08/28/2023 |
 | [Guidehouse](https://guidehouse.com/) | McLean, VA <br/> Arlington, VA <br/> Atlanta, GA | ✅ [Consultant - Technology Advisory](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/details/Consultant---Technology-Advisory---Campus-2024_12416?q=technology%20advisory&timeType=6e54b587e349016c4e0dc937c4035700)| No sponsorship is available for this position  | 08/28/2023 |
