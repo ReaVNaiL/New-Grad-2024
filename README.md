@@ -150,7 +150,6 @@ Support [Nick Scialli](https://github.com/nas5w) directly on his repo! [Intervie
 | [Snap]() | Los Angeles, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [Spotify]() | U.S. Remote | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [Square]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
-| [Stripe]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [Twitch]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [Twitter]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [Uber]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
