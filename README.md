@@ -47,6 +47,7 @@ Support [Nick Scialli](https://github.com/nas5w) directly on his repo! [Intervie
 
 | Name         | Location     | Roles                | Citizenship/Visa Requirements | Date Added <br> mm/dd/yyyy |
 | ------------ | ------------ | -------------------- | ----------------------------- | --------------------------- |
+| [Netflix](https://jobs.netflix.com/new-grad-program) | Los Gatos, California | ✅ [New Grad Software Engineer (2024)](https://jobs.netflix.com/jobs/291980521)| - | 08/28/2023 |
 | [Morgan Stanley](https://www.morganstanley.com/) | New York, NY | ✅ [2024 Technology Full-Time Analyst Program](https://morganstanley.tal.net/vx/candidate/apply/15071)| - | 08/28/2023 |
 | [Guidehouse](https://guidehouse.com/) | McLean, VA <br/> Arlington, VA <br/> Atlanta, GA | ✅ [Consultant - Technology Advisory](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/details/Consultant---Technology-Advisory---Campus-2024_12416?q=technology%20advisory&timeType=6e54b587e349016c4e0dc937c4035700)| No sponsorship is available for this position  | 08/28/2023 |
 | [Anyscale](https://www.anyscale.com/careers) | San Francisco, CA | ✅ [Software Engineer (New Grad 2024)](https://jobs.lever.co/anyscale/2888fb5f-3489-46c0-b776-2a02004ce21b)| - | 08/24/2023 |
@@ -140,7 +141,6 @@ Support [Nick Scialli](https://github.com/nas5w) directly on his repo! [Intervie
 | [Intuit]() | Mountain View, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [Lyft]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [Microsoft]() | Redmond, WA | 🔒 **[Not Open Yet]** 🔒 | - | - |
-| [Netflix](https://jobs.netflix.com/new-grad-program) | Los Gatos, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [Nvidia]() | Santa Clara, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [Pinterest]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [Reddit]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
