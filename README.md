@@ -47,7 +47,7 @@ Support [Nick Scialli](https://github.com/nas5w) directly on his repo! [Intervie
 
 | Name         | Location     | Roles                | Citizenship/Visa Requirements | Date Added <br> mm/dd/yyyy |
 | ------------ | ------------ | -------------------- | ----------------------------- | --------------------------- |
-| [Netflix](https://jobs.netflix.com/jobs) | Los Gatos, California | ✅ [New Grad Software Engineer (2024)](https://jobs.netflix.com/jobs/291980521)| - | 08/28/2023 |
+| [Netflix](https://jobs.netflix.com/new-grad-program) | Los Gatos, California | ✅ [New Grad Software Engineer (2024)](https://jobs.netflix.com/jobs/291980521)| - | 08/28/2023 |
 | [Anyscale](https://www.anyscale.com/careers) | San Francisco, CA | ✅ [Software Engineer (New Grad 2024)](https://jobs.lever.co/anyscale/2888fb5f-3489-46c0-b776-2a02004ce21b)| - | 08/24/2023 |
 | [Qualtrics](https://www.qualtrics.com/careers/us/en/search-results?m=3&keywords=New%20Grad) | - Seattle, WA <br/> - Reston, VA <br/> - Provo, UT  | ✅ [Software Engineer - New Grad](https://www.qualtrics.com/careers/us/en/search-results?m=3&keywords=New%20Grad)| Sponsorship not available | 08/24/2023 |
 | [LexisNexis](https://www.lexisnexis.com/en-us/about-us/careers.page) | - Raleigh, NC <br> - Miamisburg, OH | ✅ [Aspire Program, Early Career - Software Engineer I](https://www.lexisnexis.com/systems/careers/job-detail.html?f=Software%20Engineering&r=10&s=0&g=&t=&l=USA%20-%20All&j=R63876#) | - | 08/23/2023 |
@@ -139,7 +139,6 @@ Support [Nick Scialli](https://github.com/nas5w) directly on his repo! [Intervie
 | [Intuit]() | Mountain View, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [Lyft]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [Microsoft]() | Redmond, WA | 🔒 **[Not Open Yet]** 🔒 | - | - |
-| [Netflix](https://jobs.netflix.com/new-grad-program) | Los Gatos, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [Nvidia]() | Santa Clara, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [Oracle]() | Redwood City, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [Pinterest]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
