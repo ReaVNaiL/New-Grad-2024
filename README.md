@@ -47,8 +47,12 @@ Support [Nick Scialli](https://github.com/nas5w) directly on his repo! [Intervie
 
 | Name         | Location     | Roles                | Citizenship/Visa Requirements | Date Added <br> mm/dd/yyyy |
 | ------------ | ------------ | -------------------- | ----------------------------- | --------------------------- |
+| [Apple](https://www.apple.com/careers/us/) | Cupertino, CA | ✅ [Junior Software Development Engineer - Apple Vision Pro](https://jobs.apple.com/en-us/details/200495801/junior-software-development-engineer-apple-vision-pro) | - | 08/29/2023 |
+| [Lyft](https://www.lyft.com/careers) | Seattle, WA | ✅ [Junior Software Engineer, Android](https://app.careerpuck.com/job-board/lyft/job/6899370002?gh_jid=6899370002) | - | 08/29/2023 |
+| [L3 Harris](https://careers.l3harris.com/) | Wilmington, MA | ✅ [Software Engineering New Grad (Wilmington, MA)](https://careers.l3harris.com/job/-/-/4832/53620346720?src=SNS-10240) | Must be U.S. citizen for security clearance | 08/29/2023 |
+| [Garmin](https://careers.garmin.com/careers-home) | Olathe, KS | ✅ [Software Engineer 1 - Embedded Development](https://careers.garmin.com/careers-home/jobs/11249) | - | 08/29/2023 |
 | [Hudson River Trading](https://www.hudsonrivertrading.com/student-opportunities/) | New York, NY | ✅ [Software Engineer (C++) – 2024 Grads](https://www.hudsonrivertrading.com/careers/job/?_4118765=Full-Time%3A+New+Grad&q=software&gh_jid=5271700&req_id=437) <br> ✅ [Algorithm Developer – 2024 Grads](https://www.hudsonrivertrading.com/careers/job/?_4118765=Full-Time%3A+New+Grad&q=algorithm&gh_jid=5271551&req_id=433) <br> | - | 08/28/2023 |
-| [Meta](https://www.metacareers.com/) | Menlo Park, CA | ✅ [Software Engineer, Embodied AI (University Grad)](https://www.metacareers.com/v2/jobs/964058664857248/) | - | 8/28/2023 |
+| [Meta](https://www.metacareers.com/) | Menlo Park, CA | ✅ [Software Engineer, Embodied AI (University Grad)](https://www.metacareers.com/v2/jobs/964058664857248/) | - | 08/28/2023 |
 | [Aquatic Capital Management](https://boards.greenhouse.io/aquaticcapitalmanagement) | Chicago, IL | ✅ [Software Engineer: Early Career](https://boards.greenhouse.io/aquaticcapitalmanagement/jobs/6825791002) <br> ✅ [Quantitative Researcher: Early Career](https://boards.greenhouse.io/aquaticcapitalmanagement/jobs/6825774002) | - | 08/28/2023 |
 | [Netflix](https://jobs.netflix.com/new-grad-program) | Los Gatos, California | ✅ [New Grad Software Engineer (2024)](https://jobs.netflix.com/jobs/291980521)| - | 08/28/2023 |
 | [Morgan Stanley](https://www.morganstanley.com/) | New York, NY | ✅ [2024 Technology Full-Time Analyst Program](https://morganstanley.tal.net/vx/candidate/apply/15071)| - | 08/28/2023 |
@@ -136,13 +140,11 @@ Support [Nick Scialli](https://github.com/nas5w) directly on his repo! [Intervie
 | [Adobe](https://www.adobe.com/careers/university.html) | San Jose, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [Airbnb]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [Amazon]() | U.S. Locations | 🔒 **[Not Open Yet]** 🔒 | - | - |
-| [Apple]() | Cupertino, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [Atlassian]() | U.S Remote | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [Dropbox]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [Google]() | Mountain View, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [IBM]() | Armonk, NY | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [Intuit]() | Mountain View, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
-| [Lyft]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [Microsoft]() | Redmond, WA | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [Nvidia]() | Santa Clara, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [Pinterest]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
