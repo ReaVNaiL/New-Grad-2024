@@ -47,6 +47,7 @@ Support [Nick Scialli](https://github.com/nas5w) directly on his repo! [Intervie
 
 | Name         | Location     | Roles                | Citizenship/Visa Requirements | Date Added <br> mm/dd/yyyy |
 | ------------ | ------------ | -------------------- | ----------------------------- | --------------------------- |
+| [Disco](https://csdisco.com/careers#job-listings) | New York, NY <br> Austin, TX| ✅ [SWE](https://www.csdisco.com/careers-listing?gh_jid=6885054002)| Applicants must be authorized to work for ANY employer in the U.S. | 08/30/2023 |
 | [Verkada](https://jobs.lever.co/verkada) | San Mateo, CA | ✅ [Backend Software Engineer - University Graduate 2024](https://jobs.lever.co/verkada/6270b7f2-aff1-4799-9036-be86aeb744f9) <br> ✅ [Embedded Software Engineer - University Graduate 2024](https://jobs.lever.co/verkada/b903bfce-fe9b-42a0-b9ea-b590a21c32b6) <br> ✅ [Frontend Software Engineer - University Graduate 2024](https://jobs.lever.co/verkada/4b78ef02-e936-4201-b04d-21063820a858) <br> | - | 08/29/2023 |
 | [F5](https://www.f5.com/company/careers/university-program) | - Seattle, WA <br> - Boulder (Louisville), CO <br> - Billerica, MA <br> - San Jose, CA | ✅ [2024 University Graduates - Software Engineer](https://ffive.wd5.myworkdayjobs.com/en-US/f5jobs/details/XMLNAME-2024-University-Graduates---Software-Engineer_RP1028580?q=software%20engineer)| - | 08/29/2023 |
 | [Kikoff](https://jobs.lever.co/kikoff) | San Francisco, CA | ✅ [Software Engineer - Recent College Graduate](https://jobs.lever.co/kikoff/24c8623a-079a-4d0b-89fd-7f8ac0306cd2) | Visa sponsorship available: Kikoff is willing to provide sponsorship for H1-B visas and U.S. green cards for exceptional talent. | 08/29/2023 |
@@ -138,6 +139,7 @@ Support [Nick Scialli](https://github.com/nas5w) directly on his repo! [Intervie
 | [Blue Origin](https://www.blueorigin.com/careers) | Seattle, WA | 🔒 **[Closed]** 🔒 <br> [Software Engineer]() <br> - Must graduate by or before Summer 2023| U.S. Citizen or Permanent Resident Required. | 06/03/2023 |
 | [PerPay](https://boards.greenhouse.io/perpay/jobs/4034578007) | Philadelphia, PA | ✅ [Software Engineer (SWE)](https://boards.greenhouse.io/perpay/jobs/4034578007)  | - | 05/23/2023 |
 | [BlackRock](https://careers.blackrock.com/early-careers/americas/?2023-2024#tab-id-13) | - Atlanta, GA <br> - San Francisco, CA <br> - New York, NY | ✅ [SWE, PM, Quant](https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/xf-232eb66ac89a/candidate/so/pm/1/pl/1/opp/7893-Analyst-Program-Americas/en-GB) <br>- [See Desc PDF](https://static.wcn.co.uk/company/blackrock/JobDescription23/BlackRock_2023-2024_Software_Engineering_Job_Description.pdf)| - | 05/20/2023 |
+
 | [Adobe](https://www.adobe.com/careers/university.html) | San Jose, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [Airbnb]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [Amazon]() | U.S. Locations | 🔒 **[Not Open Yet]** 🔒 | - | - |
