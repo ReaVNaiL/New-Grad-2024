@@ -142,7 +142,6 @@ Support [Nick Scialli](https://github.com/nas5w) directly on his repo! [Intervie
 | [Blue Origin](https://www.blueorigin.com/careers) | Seattle, WA | 🔒 **[Closed]** 🔒 <br> [Software Engineer]() <br> - Must graduate by or before Summer 2023| U.S. Citizen or Permanent Resident Required. | 06/03/2023 |
 | [PerPay](https://boards.greenhouse.io/perpay/jobs/4034578007) | Philadelphia, PA | ✅ [Software Engineer (SWE)](https://boards.greenhouse.io/perpay/jobs/4034578007)  | - | 05/23/2023 |
 | [BlackRock](https://careers.blackrock.com/early-careers/americas/?2023-2024#tab-id-13) | - Atlanta, GA <br> - San Francisco, CA <br> - New York, NY | ✅ [SWE, PM, Quant](https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/xf-232eb66ac89a/candidate/so/pm/1/pl/1/opp/7893-Analyst-Program-Americas/en-GB) <br>- [See Desc PDF](https://static.wcn.co.uk/company/blackrock/JobDescription23/BlackRock_2023-2024_Software_Engineering_Job_Description.pdf)| - | 05/20/2023 |
-| [Adobe](https://www.adobe.com/careers/university.html) | San Jose, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [Airbnb]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [Amazon]() | U.S. Locations | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [Apple]() | Cupertino, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
