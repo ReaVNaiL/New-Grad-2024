@@ -47,6 +47,7 @@ Support [Nick Scialli](https://github.com/nas5w) directly on his repo! [Intervie
 
 | Name         | Location     | Roles                | Citizenship/Visa Requirements | Date Added <br> mm/dd/yyyy |
 | ------------ | ------------ | -------------------- | ----------------------------- | --------------------------- |
+| [Voleon](https://voleon.com/index.html%3Fp=124.html) | Berkeley, CA | ✅ [Software Engineer - University Hire 2024](https://jobs.lever.co/voleon/f3e13a88-25f0-4f25-ac46-3db3538fdbfa)| - | 08/30/2023 |
 | [WebFX](https://www.webfx.com/careers/) | Harrisburg, PA | ✅ [Entry Level Software Engineer](https://jobs.lever.co/webfx/7c15f9e7-6ca5-4188-887e-3b147485c58f) | - | 08/30/2023 |
 | [Ascend Analytics](https://www.ascendanalytics.com/about-us/careers) | Boulder, CO | ✅ [Junior Software Engineer](https://www.ascendanalytics.com/about-us/careers?gh_jid=4303664005) <br> ✅ [Junior Software Engineer - July 2024](https://www.ascendanalytics.com/about-us/careers?gh_jid=4303704005) | - | 08/29/2023 |
 | [Ciena](https://ciena.wd5.myworkdayjobs.com/en-US/Careers) | - Atlanta, GA <br> - Baltimore, MD | ✅ [Waveserver Software Developer - New Grad](https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Waveserver-Software-Developer---New-Grad_R023156) <br> ✅ [New Grad - Solutions Engineering](https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Solutions-Engineering---Introduction---NextGen-Metro-Edge_R021739) | - | 08/29/2023 |
