@@ -47,6 +47,7 @@ Support [Nick Scialli](https://github.com/nas5w) directly on his repo! [Intervie
 
 | Name         | Location     | Roles                | Citizenship/Visa Requirements | Date Added <br> mm/dd/yyyy |
 | ------------ | ------------ | -------------------- | ----------------------------- | --------------------------- |
+| [Disco](https://csdisco.com/careers#job-listings) | New York, NY <br> Austin, TX| ✅ [SWE](https://www.csdisco.com/careers-listing?gh_jid=6885054002)| Applicants must be authorized to work for ANY employer in the U.S. <br> They are unable to sponsor or take over sponsorship of an employment Visa at this time | 08/30/2023 |
 | [OverDrive](https://company.overdrive.com/careers/) | Cleveland, OH | ✅ [Developer - Entry Level (Jan. 2024 or June 2024 start date)](https://company.overdrive.com/careers/?p=job/oP7HnfwK&nl=1#positions) | - | 08/30/2023 |
 | [Adobe](https://www.adobe.com/careers/university/graduates.html) | Seattle, WA | ✅ [2024 University Graduate - Software Development Engineer 1](https://careers.adobe.com/us/en/job/R139173/2024-University-Graduate-Software-Development-Engineer-1) <br> ✅ [2024 University Graduate - Software Development Engineer 2](https://careers.adobe.com/us/en/job/R139175/2024-University-Graduate-Software-Development-Engineer-2) <br> | - | 08/30/2023 |
 | [Voleon](https://voleon.com/index.html%3Fp=124.html) | Berkeley, CA | ✅ [Software Engineer - University Hire 2024](https://jobs.lever.co/voleon/f3e13a88-25f0-4f25-ac46-3db3538fdbfa)| - | 08/30/2023 |
