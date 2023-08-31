@@ -47,6 +47,7 @@ Support [Nick Scialli](https://github.com/nas5w) directly on his repo! [Intervie
 
 | Name         | Location     | Roles                | Citizenship/Visa Requirements | Date Added <br> mm/dd/yyyy |
 | ------------ | ------------ | -------------------- | ----------------------------- | --------------------------- |
+| [Nvidia](https://www.nvidia.com/en-us/about-nvidia/careers/university-recruiting/) | Santa Clara, CA <br> Hillsboro, OR <br>Durham, NC<br> | ✅ [ASIC Verification Engineer, GPU - New College Grad 2024](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Verification-Engineer--GPU---New-College-Grad-2024_JR1971627) <br> ✅ [Deep Learning Performance Architect - New College Grad](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Deep-Learning-Performance-Architect---New-College-Grad_JR1971418)| - | 08/30/2023 |
 | [Ramp](https://jobs.lever.co/verkada) | New York, NY | ✅ [New Grad 2024 \| Software Engineer \| Backend](https://jobs.ashbyhq.com/ramp/29663a4b-c457-4a38-bbdf-069f189b20eb) <br> ✅ [New Grad 2024 \| Software Engineer \| Frontend](https://jobs.ashbyhq.com/ramp/0ae01d73-3f48-4722-9810-0c6c1940d7bd)| - | 08/30/2023 |
 | [Disco](https://csdisco.com/careers#job-listings) | New York, NY <br> Austin, TX| ✅ [SWE](https://www.csdisco.com/careers-listing?gh_jid=6885054002)| Applicants must be authorized to work for ANY employer in the U.S. <br> They are unable to sponsor or take over sponsorship of an employment Visa at this time | 08/30/2023 |
 | [OverDrive](https://company.overdrive.com/careers/) | Cleveland, OH | ✅ [Developer - Entry Level (Jan. 2024 or June 2024 start date)](https://company.overdrive.com/careers/?p=job/oP7HnfwK&nl=1#positions) | - | 08/30/2023 |
@@ -156,7 +157,6 @@ Support [Nick Scialli](https://github.com/nas5w) directly on his repo! [Intervie
 | [Intuit]() | Mountain View, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [Lyft]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [Microsoft]() | Redmond, WA | 🔒 **[Not Open Yet]** 🔒 | - | - |
-| [Nvidia]() | Santa Clara, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [Pinterest]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [Reddit]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [Salesforce]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
