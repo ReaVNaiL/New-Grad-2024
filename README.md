@@ -47,6 +47,7 @@ Support [Nick Scialli](https://github.com/nas5w) directly on his repo! [Intervie
 
 | Name         | Location     | Roles                | Citizenship/Visa Requirements | Date Added <br> mm/dd/yyyy |
 | ------------ | ------------ | -------------------- | ----------------------------- | --------------------------- |
+| [Adobe](https://www.adobe.com/careers/university/graduates.html) | Seattle, WA | ✅ [2024 University Graduate - Software Development Engineer 1](https://careers.adobe.com/us/en/job/R139173/2024-University-Graduate-Software-Development-Engineer-1) <br> ✅ [2024 University Graduate - Software Development Engineer 2](https://careers.adobe.com/us/en/job/R139175/2024-University-Graduate-Software-Development-Engineer-2) <br> | - | 08/30/2023 |
 | [Voleon](https://voleon.com/index.html%3Fp=124.html) | Berkeley, CA | ✅ [Software Engineer - University Hire 2024](https://jobs.lever.co/voleon/f3e13a88-25f0-4f25-ac46-3db3538fdbfa)| - | 08/30/2023 |
 | [WebFX](https://www.webfx.com/careers/) | Harrisburg, PA | ✅ [Entry Level Software Engineer](https://jobs.lever.co/webfx/7c15f9e7-6ca5-4188-887e-3b147485c58f) | - | 08/30/2023 |
 | [Ascend Analytics](https://www.ascendanalytics.com/about-us/careers) | Boulder, CO | ✅ [Junior Software Engineer](https://www.ascendanalytics.com/about-us/careers?gh_jid=4303664005) <br> ✅ [Junior Software Engineer - July 2024](https://www.ascendanalytics.com/about-us/careers?gh_jid=4303704005) | - | 08/29/2023 |
@@ -142,7 +143,6 @@ Support [Nick Scialli](https://github.com/nas5w) directly on his repo! [Intervie
 | [Blue Origin](https://www.blueorigin.com/careers) | Seattle, WA | 🔒 **[Closed]** 🔒 <br> [Software Engineer]() <br> - Must graduate by or before Summer 2023| U.S. Citizen or Permanent Resident Required. | 06/03/2023 |
 | [PerPay](https://boards.greenhouse.io/perpay/jobs/4034578007) | Philadelphia, PA | ✅ [Software Engineer (SWE)](https://boards.greenhouse.io/perpay/jobs/4034578007)  | - | 05/23/2023 |
 | [BlackRock](https://careers.blackrock.com/early-careers/americas/?2023-2024#tab-id-13) | - Atlanta, GA <br> - San Francisco, CA <br> - New York, NY | ✅ [SWE, PM, Quant](https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/xf-232eb66ac89a/candidate/so/pm/1/pl/1/opp/7893-Analyst-Program-Americas/en-GB) <br>- [See Desc PDF](https://static.wcn.co.uk/company/blackrock/JobDescription23/BlackRock_2023-2024_Software_Engineering_Job_Description.pdf)| - | 05/20/2023 |
-| [Adobe](https://www.adobe.com/careers/university.html) | San Jose, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [Airbnb]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [Amazon]() | U.S. Locations | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [Apple]() | Cupertino, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
