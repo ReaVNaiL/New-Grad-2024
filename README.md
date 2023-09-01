@@ -47,6 +47,9 @@ Support [Nick Scialli](https://github.com/nas5w) directly on his repo! [Intervie
 
 | Name         | Location     | Roles                | Citizenship/Visa Requirements | Date Added <br> mm/dd/yyyy |
 | ------------ | ------------ | -------------------- | ----------------------------- | --------------------------- |
+| [Hewlett Packard Enterprise](https://careers.hpe.com/us/en/careers-at-hpe) | Multiple US Locations | ✅ [Software Engineering Graduate](https://careers.hpe.com/us/en/job/1160950/Software-Engineering-Graduate) | - | 09/01/2023 |
+| [Textron](https://www.textron.com/Careers) | Fort Worth, TX | ✅ [2024 Entry Level - Software Computer Science Engineering (July)](https://textron.taleo.net/careersection/textron_ur/jobdetail.ftl?job=1224126) | Must be U.S. Citizen for security clearance | 09/01/2023 |
+| [Johns Hopkins Applied Physics Laboratory](https://www.jhuapl.edu/careers) | Laurel, MD | ✅ [2024 Graduate - Ground Software Engineer – Ground Applications Group](https://careers.jhuapl.edu/jobs/53730) | Must be U.S. Citizen for security clearance | 09/01/2023 |
 | [SeatGeek](https://seatgeek.com/jobs#job_listings) | New York, NY | ✅ [Software Engineer - New Grad](https://seatgeek.com/jobs/3788489) |  | 09/01/2023 |
 | [Adept](https://www.adept.ai/careers) | San Francisco, CA | ✅ [Software Engineer, University](https://boards.greenhouse.io/adept/jobs/4265377006) | Provides immigration and sponsorship support to new employees based on their unique circumstances. | 08/31/2023 |
 | [Nvidia](https://www.nvidia.com/en-us/about-nvidia/careers/university-recruiting/) | Santa Clara, CA <br> Hillsboro, OR <br>Durham, NC<br> | ✅ [ASIC Verification Engineer, GPU - New College Grad 2024](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Verification-Engineer--GPU---New-College-Grad-2024_JR1971627) | - | 08/30/2023 |
