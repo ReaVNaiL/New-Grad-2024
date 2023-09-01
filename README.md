@@ -47,6 +47,7 @@ Support [Nick Scialli](https://github.com/nas5w) directly on his repo! [Intervie
 
 | Name         | Location     | Roles                | Citizenship/Visa Requirements | Date Added <br> mm/dd/yyyy |
 | ------------ | ------------ | -------------------- | ----------------------------- | --------------------------- |
+| [Nvidia](https://www.nvidia.com/en-us/about-nvidia/careers/university-recruiting/) | Santa Clara, CA <br> Hillsboro, OR <br>Durham, NC<br> | ✅ [ASIC Verification Engineer, GPU - New College Grad 2024](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Verification-Engineer--GPU---New-College-Grad-2024_JR1971627) | - | 08/30/2023 |
 | [Adept](https://www.adept.ai/careers) | San Francisco, CA | ✅ [Software Engineer, University](https://boards.greenhouse.io/adept/jobs/4265377006) | Provides immigration and sponsorship support to new employees based on their unique circumstances. | 08/31/2023 |
 | [Lockheed Martin](https://www.lockheedmartin.com/en-us/careers/) | - Edwards Air Force Base, California <br> - Fort Worth, Texas <br> - Marietta, Georgia <br> - Palmdale, California | ✅ [Software Engineer - Early Career](https://www.lockheedmartinjobs.com/job/-/-/694/53680734256)  | U.S. Citizenship and Security Clearance Required | 08/30/2023 |
 | [Ramp](https://jobs.lever.co/verkada) | New York, NY | ✅ [New Grad 2024 \| Software Engineer \| Backend](https://jobs.ashbyhq.com/ramp/29663a4b-c457-4a38-bbdf-069f189b20eb) <br> ✅ [New Grad 2024 \| Software Engineer \| Frontend](https://jobs.ashbyhq.com/ramp/0ae01d73-3f48-4722-9810-0c6c1940d7bd)| - | 08/30/2023 |
@@ -158,7 +159,6 @@ Support [Nick Scialli](https://github.com/nas5w) directly on his repo! [Intervie
 | [Intuit]() | Mountain View, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [Lyft]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [Microsoft]() | Redmond, WA | 🔒 **[Not Open Yet]** 🔒 | - | - |
-| [Nvidia]() | Santa Clara, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [Pinterest]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [Reddit]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [Salesforce]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
