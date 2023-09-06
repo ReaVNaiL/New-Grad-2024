@@ -47,6 +47,7 @@ Support [Nick Scialli](https://github.com/nas5w) directly on his repo! [Intervie
 
 | Name         | Location     | Roles                | Citizenship/Visa Requirements | Date Added <br> mm/dd/yyyy |
 | ------------ | ------------ | -------------------- | ----------------------------- | --------------------------- |
+| [Bloomberg](https://www.bloomberg.com/company/careers/working-here/engineering/) | - | ✅ [Bloomberg Software Engineering Interest Form](https://bloomberg.recsolu.com/app/collect/form/zqOXkMeVrG7v_Tx8ly89Lw) | - | 09/06/2023 |
 | [Glean](https://www.glean.com/) | - Palo Alto, CA | ✅ [Software Engineer](https://boards.greenhouse.io/gleanwork/jobs/4006730005?gh_src=2b96d8725us) | - | 09/05/2023 |
 | [ByteDance](https://jobs.bytedance.com/en/campus) | - Seattle, WA <br> - San Jose, CA | ✅ [Multiple Software Engineer Roles](https://jobs.bytedance.com/en/position?keywords=&category=&location=&project=7247019463362005306&type=2&job_hot_flag=&current=1&limit=10&functionCategory=&tag=) | - | 09/01/2023 |
 | [Vanguard](https://www.vanguardjobs.com/students-and-recent-graduates/) | - Charlotte, NC | ✅ [Technology Leadership Program – Investment Systems](https://www.vanguardjobs.com/job/18843993/technology-leadership-program-investment-systems-nc-charlotte-nc/) | Vanguard is not offering sponsorship for this position. | 09/01/2023 |
