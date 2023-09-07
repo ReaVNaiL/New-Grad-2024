@@ -47,6 +47,7 @@ Support [Nick Scialli](https://github.com/nas5w) directly on his repo! [Intervie
 
 | Name         | Location     | Roles                | Citizenship/Visa Requirements | Date Added <br> mm/dd/yyyy |
 | ------------ | ------------ | -------------------- | ----------------------------- | --------------------------- |
+| [Silicon Labs]() | - Austin, TX <br> - Boston, MA | ✅ [Software Engineer - New College Graduate](https://silabs.wd1.myworkdayjobs.com/SiliconlabsCareers/job/Austin/Software-Engineer---New-College-Graduate_19510) | - | 09/06/2023 |
 | [Arup](https://www.arup.com/careers/early-careers/graduates) | - New York, NY | ✅ [Graduate Software Developer (Available 2024)](https://jobs.arup.com/jobs/graduate-software-developer-available-2024-19920) | Sponsorship not available | 09/06/2023 |
 | [Ally](https://www.ally.com/about/careers/#) | - Charlotte, NC | ✅ [2024 Early Talent - Technology Talent Development Program](https://ally.avature.net/careers/JobDetail/2024-Early-Talent-Technology-Talent-Development-Program/9943) | Sponsorship not available | 09/06/2023 |
 | [Citizens](https://jobs.citizensbank.com/digital-transformation) | - Johnston, Rhode Island <br> - Phoenix, Arizona<br> - Iselin, New Jersey <br> - Westwood, Massachusetts | ✅ [Software Engineer I - Technology Development Program (June 2024)](https://jobs.citizensbank.com/job/-/-/288/53974225024) | Must have work authorization; U.S. Immigration sponsorship or work visa is not available for this position | 09/06/2023 |
