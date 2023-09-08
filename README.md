@@ -51,6 +51,7 @@ Level up your career. Join the 75,000+ member community:
 
 | Name         | Location     | Roles                | Citizenship/Visa Requirements | Date Added <br> mm/dd/yyyy |
 | ------------ | ------------ | -------------------- | ----------------------------- | --------------------------- |
+| [Okta](https://www.okta.com/company/careers/) | - Remote | ✅ [Software Engineer New Grad - Customer Identity Cloud](https://www.okta.com/company/careers/engineering/software-engineer-new-grad-customer-identity-cloud-5325611/) <br> ✅ [Quality Engineer New Grad - Customer Identity Cloud](https://www.okta.com/company/careers/engineering/quality-engineer-new-grad-customer-identity-cloud-5349073/) <br> | - | 09/07/2023 |
 | [Applied Materials](https://www.appliedmaterials.com/us/en/careers/students-early-career.html) | - Santa Clara, CA | ✅ [Software Engineer (Front End Group) - New College Grad Opportunity](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Software-Engineer--Front-End-Group----New-College-Grad-Opportunity-_R2315575-1) | - | 09/07/2023 |
 | [Whatnot](https://www.whatnot.com/careers) | - Remote | ✅ [Software Engineer, 2024 New Grad](https://boards.greenhouse.io/whatnot/jobs/4957329004) | - | 09/07/2023 |
 | [Silicon Labs]() | - Austin, TX <br> - Boston, MA | ✅ [Software Engineer - New College Graduate](https://silabs.wd1.myworkdayjobs.com/SiliconlabsCareers/job/Austin/Software-Engineer---New-College-Graduate_19510) | - | 09/06/2023 |
