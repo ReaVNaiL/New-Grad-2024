@@ -41,6 +41,10 @@ If you are looking for more guidance on how to prepare for technical interviews,
 
 Support [Nick Scialli](https://github.com/nas5w) directly on his repo! [Interview Guide Repo](https://github.com/nas5w/interview-guide)
 
+## Discord
+Level up your career. Join the 75,000+ member community:
+- **[CSCareers.Dev Discord](https://discord.com/invite/cscareers)**
+  
 ## Jobs
 
 ----
