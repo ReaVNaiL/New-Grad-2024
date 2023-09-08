@@ -47,6 +47,7 @@ Support [Nick Scialli](https://github.com/nas5w) directly on his repo! [Intervie
 
 | Name         | Location     | Roles                | Citizenship/Visa Requirements | Date Added <br> mm/dd/yyyy |
 | ------------ | ------------ | -------------------- | ----------------------------- | --------------------------- |
+| [Cisco](https://jobs.cisco.com/jobs/Home) | - San Jose, CA | ✅ [Software Engineer (SDET)](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-SDET/1407026) | - | 09/07/2023 |
 | [HubSpot](https://www.hubspot.com/careers/students/entry-level?hubs_signup-cta=careers-apply) | - Remote, US | ✅ [Software Engineer](https://www.hubspot.com/careers/jobs/5335674?hubs_signup-cta=careers-apply) | - | 09/06/2023 |
 | [OKX](https://www.okx.com/join-us) | - San Jose, CA | ✅ [Software Engineer, New Grad (Backend, Mobile)](https://boards.greenhouse.io/okx/jobs/5723183003) | - | 09/06/2023 |
 | [InterSystems](https://www.intersystems.com/data-technology-company/careers/) | - Cambridge, MA | ✅ [Core Development Program](https://www.intersystems.com/careers/careers-search/?gh_jid=5698667003) <br> ✅ [Solutions Development Program](https://www.intersystems.com/careers/careers-search/?gh_jid=5698671003)| - | 09/06/2023 |
