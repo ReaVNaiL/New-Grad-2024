@@ -51,6 +51,7 @@ Level up your career. Join the 75,000+ member community:
 
 | Name         | Location     | Roles                | Citizenship/Visa Requirements | Date Added <br> mm/dd/yyyy |
 | ------------ | ------------ | -------------------- | ----------------------------- | --------------------------- |
+| [Trimble](https://careers.mcdonalds.com/) | - Westminster, CO | ✅ [Software Engineer, Rotational Development Program](https://trimblecareers.trimble.com/careers?pid=171816509510&domain=trimble.com&sort_by=relevance)| - | 09/10/2023 |
 | [McDonald's](https://careers.mcdonalds.com/) | - Chicago, IL  | ✅ [Software Development Engineering Program](https://careers.mcdonalds.com/software-development-engineering-program-summer-2024-start-date/job/26297471)| - | 09/10/2023 |
 | [Domino's](https://jobs.dominos.com/us/jobs/) | - Ann Arbor, MI  | ✅ [Technology Rotation Program](https://jobs.dominos.com/us/jobs/c07ee373-cf78-4537-a41f-a603d6b950e9/technology-rotation-program/)| Unable to Provide Sponsorship | 09/10/2023 |
 | [Samsara](https://app.ripplematch.com/company/samsara/) | - Remote <br> - San Francisco, CA | ✅ [Software Engineer (New Grad)](https://app.ripplematch.com/v2/public/job/23dc5330/details?from_page=company_branded_page) <br> ✅ [Firmware Engineer (New Grad)](https://app.ripplematch.com/v2/public/job/25523e9d/details?from_page=company_branded_page) <br>  ✅ [QE Automation (New Grad)](https://app.ripplematch.com/v2/public/job/5b2e09ba/details?from_page=company_branded_page) | - | 09/09/2024 |
