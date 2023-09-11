@@ -51,6 +51,7 @@ Level up your career. Join the 75,000+ member community:
 
 | Name         | Location     | Roles                | Citizenship/Visa Requirements | Date Added <br> mm/dd/yyyy |
 | ------------ | ------------ | -------------------- | ----------------------------- | --------------------------- |
+| [Wolverine](https://www.wolve.com/open-positions) | - Chicago, IL | ✅ [Entry-Level Software Engineer (Immediate Start)](https://jobs.lever.co/wolve/9652fd35-2a3c-4443-829d-0f13fa6e5c5a)| Unable to Provide Sponsorship | 09/10/2023 |
 | [Trimble](https://careers.mcdonalds.com/) | - Westminster, CO | ✅ [Software Engineer, Rotational Development Program](https://trimblecareers.trimble.com/careers?pid=171816509510&domain=trimble.com&sort_by=relevance)| - | 09/10/2023 |
 | [Acuity Brands](https://careers.acuitybrands.com/) | - Remote <br> - Remote | ✅ [Technology Leadership Program - Application Development](https://careers.acuitybrands.com/job/Conyers-Technology-Leadership-Program-Application-Development-GA-30012/1074082200/?feedId=275200&utm_source=Indeed&utm_campaign=Acuity_Indeed) <br> ✅ [Software Engineering Leadership Program](https://careers.acuitybrands.com/job/Conyers-Software-Engineering-Leadership-Program-GA-30012/1074079600/?feedId=275200&utm_source=Indeed&utm_campaign=Acuity_Indeed)| -  | 09/10/2023 |
 | [McDonald's](https://careers.mcdonalds.com/) | - Chicago, IL  | ✅ [Software Development Engineering Program](https://careers.mcdonalds.com/software-development-engineering-program-summer-2024-start-date/job/26297471)| - | 09/10/2023 |
