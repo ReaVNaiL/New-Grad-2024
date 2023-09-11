@@ -51,6 +51,7 @@ Level up your career. Join the 75,000+ member community:
 
 | Name         | Location     | Roles                | Citizenship/Visa Requirements | Date Added <br> mm/dd/yyyy |
 | ------------ | ------------ | -------------------- | ----------------------------- | --------------------------- |
+| [Vanta](https://jobs.ashbyhq.com/vanta) | - New York, NY <br> - San Francisco, CA | ✅ [Software Engineer, New Grad](https://jobs.ashbyhq.com/vanta/9a2b70fa-ff3c-456d-ac11-0cc9ff13edd8)| - | 09/11/2023 |
 | [FactSet](https://factset.wd1.myworkdayjobs.com/en-US/FactSetCareers) | - New York, NY <br> - Chicago, IL <br> - Boston, MA <br> - Norwalk, CT <br> - Austin, TX | ✅ [Software Engineer - Americas Campus (March '24)](https://factset.wd1.myworkdayjobs.com/en-US/FactSetCareers/job/New-York-NY-USA/Software-Engineer---Americas-Campus--March--24-_R22122)| - | 09/11/2023 |
 | [Wolverine](https://www.wolve.com/open-positions) | - Chicago, IL | ✅ [Entry-Level Software Engineer (Immediate Start)](https://jobs.lever.co/wolve/9652fd35-2a3c-4443-829d-0f13fa6e5c5a)| Unable to Provide Sponsorship | 09/10/2023 |
 | [Trimble](https://careers.mcdonalds.com/) | - Westminster, CO | ✅ [Software Engineer, Rotational Development Program](https://trimblecareers.trimble.com/careers?pid=171816509510&domain=trimble.com&sort_by=relevance)| - | 09/10/2023 |
