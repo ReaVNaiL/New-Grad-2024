@@ -206,6 +206,7 @@ Level up your career. Join the 75,000+ member community:
 | [Twitter]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [Uber]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [VMware]() | Palo Alto, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
+| [Visa]() | Foster City, CA | 🔒 **[Not Open Yet]** 🔒 | No sponsorship available | - |
 | [Yelp]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [Zillow]() | Seattle, WA | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [Zoom]() | San Jose, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
