@@ -52,6 +52,8 @@ Level up your career. Join the 75,000+ member community:
 | Name         | Location     | Roles                | Citizenship/Visa Requirements | Date Added <br> mm/dd/yyyy |
 | ------------ | ------------ | -------------------- | ----------------------------- | --------------------------- |
 | [First Mode](https://firstmode.com/join/) | - Seattle, WA | ✅ [Software Engineer- Early Career](https://firstmode.com/job-details/?gh_jid=4315313005) <br> ✅ [Systems Engineer - Early Career](https://firstmode.com/job-details/?gh_jid=4315329005) <br> | - | 09/12/2023 |
+| [Pfizer](https://www.pfizer.com/about/careers) | - New York, NY <br> - Collegeville, PA <br> - Tampa, FL <br> - Peapack, NJ <br> - Groton, CT | ✅ [Digital Rotational Program - Associate](https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-States---New-York---New-York-City/Digital-Rotational-Program---Associate_4893167-1)| Unable to Provide Sponsorship | 09/12/2023 |
+| [ServiceNow](https://careers.servicenow.com/careers) | - Santa Clara, CA | ✅ [UTG - Software Engineer - New College Grad](https://careers.servicenow.com/careers/jobs/743999929828483EXT?lang=en-us) | - | 09/11/2023 |
 | [Aviatrix](https://aviatrix.com/careers/) | - Champaign, IL | ✅ [Software Engineer - New Grad](https://aviatrix.com/careers/?gh_jid=4316168005)| - | 09/11/2023 |
 | [Acrisure Innovation](https://www.acrisure.com/careers) | - Austin, TX | ✅ [Software Engineer New College Graduate](https://boards.greenhouse.io/acrisureinnovation/jobs/6927605002/)| Unable to Provide Sponsorship | 09/11/2023 |
 | [Vanta](https://jobs.ashbyhq.com/vanta) | - New York, NY <br> - San Francisco, CA | ✅ [Software Engineer, New Grad](https://jobs.ashbyhq.com/vanta/9a2b70fa-ff3c-456d-ac11-0cc9ff13edd8)| - | 09/11/2023 |
