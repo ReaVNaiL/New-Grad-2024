@@ -51,6 +51,7 @@ Level up your career. Join the 75,000+ member community:
 
 | Name         | Location     | Roles                | Citizenship/Visa Requirements | Date Added <br> mm/dd/yyyy |
 | ------------ | ------------ | -------------------- | ----------------------------- | --------------------------- |
+| [Manulife](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs) | - Boston, MA | ✅ [Software Engineering Rotational New Graduate Program 2024](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Boston-Massachusetts/Software-Engineering-New-Graduate-Program-2024_JR23070949-2) | - | 09/12/2023
 | [Cadence](https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers) | - San Jose, CA <br> - Pittsburgh, PA <br> - Burlington, VT <br> - Cary, NC <br> - Austin, TX | ✅ [Software Engineer - New Graduate](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Engineer----New-BS-Graduate_R40697-1) | - | 09/12/2023
 | [Arista](https://www.arista.com/en/careers/university/software-engineering) | - Remote, US | ✅ [Software Engineer Graduate/Junior/Mid-level/Senior](https://jobs.smartrecruiters.com/AristaNetworks/743999926539923) | - | 09/12/2023
 | [NXP](https://nxp.wd3.myworkdayjobs.com/careers) | - Austin, TX | ✅ [Entry Level Data Science - December 2023 and May 2024 Grads](https://nxp.wd3.myworkdayjobs.com/careers/job/Austin-Oakhill-Office/Entry-Level-Data-Science---December-2023-and-May-2024-Grads_R-10048771?source=web_handshake) | - | 09/12/2023 |
