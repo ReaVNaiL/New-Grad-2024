@@ -51,6 +51,7 @@ Level up your career. Join the 75,000+ member community:
 
 | Name         | Location     | Roles                | Citizenship/Visa Requirements | Date Added <br> mm/dd/yyyy |
 | ------------ | ------------ | -------------------- | ----------------------------- | --------------------------- |
+| [NXP](https://nxp.wd3.myworkdayjobs.com/careers) | - Austin, TX | [Entry Level Data Science - December 2023 and May 2024 Grads](https://nxp.wd3.myworkdayjobs.com/careers/job/Austin-Oakhill-Office/Entry-Level-Data-Science---December-2023-and-May-2024-Grads_R-10048771?source=web_handshake) | | 09/12/2023 |
 | [Pfizer](https://www.pfizer.com/about/careers) | - New York, NY <br> - Collegeville, PA <br> - Tampa, FL <br> - Peapack, NJ <br> - Groton, CT | ✅ [Digital Rotational Program - Associate](https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-States---New-York---New-York-City/Digital-Rotational-Program---Associate_4893167-1)| Unable to Provide Sponsorship | 09/12/2023 |
 | [ServiceNow](https://careers.servicenow.com/careers) | - Santa Clara, CA | ✅ [UTG - Software Engineer - New College Grad](https://careers.servicenow.com/careers/jobs/743999929828483EXT?lang=en-us) | - | 09/11/2023 |
 | [Aviatrix](https://aviatrix.com/careers/) | - Champaign, IL | ✅ [Software Engineer - New Grad](https://aviatrix.com/careers/?gh_jid=4316168005)| - | 09/11/2023 |
