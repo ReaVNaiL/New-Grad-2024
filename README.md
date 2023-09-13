@@ -51,6 +51,7 @@ Level up your career. Join the 75,000+ member community:
 
 | Name         | Location     | Roles                | Citizenship/Visa Requirements | Date Added <br> mm/dd/yyyy |
 | ------------ | ------------ | -------------------- | ----------------------------- | --------------------------- |
+| [Casa Systems](https://jobs.silkroad.com/Casa/EasyApply) | - Andover, MA | ✅ [Software Engineer- 2023 College Graduates](https://jobs.silkroad.com/Casa/EasyApply/jobs/1405) | - | 09/12/2023
 | [Arista](https://www.arista.com/en/careers/university/software-engineering) | - Remote, US | ✅ [Software Engineer Graduate/Junior/Mid-level/Senior](https://jobs.smartrecruiters.com/AristaNetworks/743999926539923) | - | 09/12/2023
 | [NXP](https://nxp.wd3.myworkdayjobs.com/careers) | - Austin, TX | ✅ [Entry Level Data Science - December 2023 and May 2024 Grads](https://nxp.wd3.myworkdayjobs.com/careers/job/Austin-Oakhill-Office/Entry-Level-Data-Science---December-2023-and-May-2024-Grads_R-10048771?source=web_handshake) <br> ✅ [Entry Level Systems & Applications Engineers - December 2023 and May 2024 Graduates](https://nxp.wd3.myworkdayjobs.com/careers/job/Austin-Ed-Bluestein-Office/Entry-Level-Systems---Applications-Engineers---December-2023-and-May-2024-Graduates_R-10048740?) <br>| - | 09/12/2023 |
 | [First Mode](https://firstmode.com/join/) | - Seattle, WA | ✅ [Software Engineer- Early Career](https://firstmode.com/job-details/?gh_jid=4315313005) <br> ✅ [Systems Engineer - Early Career](https://firstmode.com/job-details/?gh_jid=4315329005) <br> | - | 09/12/2023 |
