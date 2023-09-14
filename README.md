@@ -51,6 +51,7 @@ Level up your career. Join the 75,000+ member community:
 
 | Name         | Location     | Roles                | Citizenship/Visa Requirements | Date Added <br> mm/dd/yyyy |
 | ------------ | ------------ | -------------------- | ----------------------------- | --------------------------- |
+| [Apple](https://www.apple.com/careers/us/) | - San Diego, CA | ✅ [Software Engineering (SWE) Early Career Opportunities](https://jobs.apple.com/en-us/details/200498848/software-engineering-swe-early-career-opportunities) | - | 09/13/2023 |
 | [Teradyne](https://jobs.teradyne.com/) | - Buffalo Grove, IL | ✅ [Software Engineer - New College Graduate](https://jobs.teradyne.com/Teradyne/job/Buffalo-Grove-Software-Engineer-New-College-Graduate-IL-60089/1075449000/) | - | 09/13/2023 |
 | [Quartus Engineering](https://quartus.hire.trakstar.com/) | - San Diego, CA | ✅ [Software Engineer (Entry Level, New College Grad) - 236QE](https://quartus.hire.trakstar.com/jobs/fk0xbhs/) | US Citizen, Permanent Resident | 09/13/2023 |
 | [BNY Mellon](https://www.bnymellon.com/us/en/careers/students/technology-campus-program.html) | - Pittsburgh, PA <br> - New York, NY <br> - Lake Mary, FL | ✅[Analyst Program (Developer)](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/45803/?utm_medium=jobshare) <br> ✅[Analyst Program (Data Science)](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/45799/?utm_medium=jobshare) | Sponsorship not offered | 9/13/2023 |
