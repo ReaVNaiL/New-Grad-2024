@@ -51,6 +51,7 @@ Level up your career. Join the 75,000+ member community:
 
 | Name         | Location     | Roles                | Citizenship/Visa Requirements | Date Added <br> mm/dd/yyyy |
 | ------------ | ------------ | -------------------- | ----------------------------- | --------------------------- |
+| [Quartus Engineering](https://quartus.hire.trakstar.com/) | - San Diego, CA | ✅ [Software Engineer (Entry Level, New College Grad)](https://quartus.hire.trakstar.com/jobs/fk0xbhs/) | Must be a US Citizen or Legal Permanent Resident | 09/13/2023 |
 | [BNY Mellon](https://www.bnymellon.com/us/en/careers/students/technology-campus-program.html) | - Pittsburgh, PA <br> - New York, NY <br> - Lake Mary, FL | ✅[Analyst Program (Developer)](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/45803/?utm_medium=jobshare) <br> ✅[Analyst Program (Data Science)](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/45799/?utm_medium=jobshare) | Sponsorship not offered | 9/13/2023 |
 | [Casa Systems](https://jobs.silkroad.com/Casa/EasyApply) | - Andover, MA | ✅ [Software Engineer- 2023 College Graduates](https://jobs.silkroad.com/Casa/EasyApply/jobs/1405) | - | 09/12/2023 |
 | [Manulife](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs) | - Boston, MA | ✅ [Software Engineering Rotational New Graduate Program 2024](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Boston-Massachusetts/Software-Engineering-New-Graduate-Program-2024_JR23070949-2) | - | 09/12/2023
