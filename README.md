@@ -51,6 +51,7 @@ Level up your career. Join the 75,000+ member community:
 
 | Name         | Location     | Roles                | Citizenship/Visa Requirements | Date Added <br> mm/dd/yyyy |
 | ------------ | ------------ | -------------------- | ----------------------------- | --------------------------- |
+| [Arm](https://careers.arm.com/) | - San Jose, CA | ✅ [Graduate Machine Learning Software Engineer](https://careers.arm.com/job/san-jose/graduate-machine-learning-software-engineer/33099/54413417328)| - | 09/15/2023 |
 | [Motorola Solutions](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers) | - West Valley City, UT | ✅ [Entry Level Software Engineer](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Entry-Level-Software-Engineer_R40642)| Background clearance required | 09/14/2023 |
 | [Netsmart](https://www.ntst.com/company/careers-and-culture) | - Overland Park, KS | ✅ [Software Engineer- May Grad 2024 (Early Career)](https://ntst.wd1.myworkdayjobs.com/Careers/job/Overland-Park-KS/Software-Engineer--May-Grad-2024--Early-Career-_R011907)| Unable to Provide Sponsorship | 09/14/2023 |
 | [CGI](https://www.cgi.com/en/careers) | - Fairfax, VA <br> - Pittsburgh, PA | ✅ [Software Developer - Entry Level](https://cgi.njoyn.com/CORP/xweb/XWeb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0823-1140&BRID=1074871&lang=1) <br> ✅ [Software Developer - Entry Level](https://cgi.njoyn.com/corp/xweb/xweb.asp?clid=21001&page=jobdetails&jobid=J0923-0787&BRID=1078334&SBDID=943)| U.S. Citizenship required | 09/13/2023 |
