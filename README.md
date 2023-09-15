@@ -51,6 +51,7 @@ Level up your career. Join the 75,000+ member community:
 
 | Name         | Location     | Roles                | Citizenship/Visa Requirements | Date Added <br> mm/dd/yyyy |
 | ------------ | ------------ | -------------------- | ----------------------------- | --------------------------- |
+| [Apple](https://www.apple.com) | - San Diego, CA | ✅ [Early Career SWE](https://jobs.apple.com/en-us/details/200498848/software-engineering-swe-early-career-opportunities) | - | 9/15/2023 |
 | [Arm](https://careers.arm.com/) | - San Jose, CA | ✅ [Graduate Machine Learning Software Engineer](https://careers.arm.com/job/san-jose/graduate-machine-learning-software-engineer/33099/54413417328)| - | 09/15/2023 |
 | [Motorola Solutions](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers) | - West Valley City, UT | ✅ [Entry Level Software Engineer](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Entry-Level-Software-Engineer_R40642)| Background clearance required | 09/14/2023 |
 | [Netsmart](https://www.ntst.com/company/careers-and-culture) | - Overland Park, KS | ✅ [Software Engineer- May Grad 2024 (Early Career)](https://ntst.wd1.myworkdayjobs.com/Careers/job/Overland-Park-KS/Software-Engineer--May-Grad-2024--Early-Career-_R011907)| Unable to Provide Sponsorship | 09/14/2023 |
