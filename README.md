@@ -51,6 +51,7 @@ Level up your career. Join the 75,000+ member community:
 
 | Name         | Location     | Roles                | Citizenship/Visa Requirements | Date Added <br> mm/dd/yyyy |
 | ------------ | ------------ | -------------------- | ----------------------------- | --------------------------- |
+| [Capital One](https://www.capitalonecareers.com/) | - McLean, VA | ✅ [Technology Development Program Associate - February 2024](https://www.capitalonecareers.com/job/richmond/technology-development-program-associate-february-2024/31238/54577137888) | - | 09/19/2023
 | [Adobe](https://careers.adobe.com/us/en) | - Lehi, UT<br> - Austin, TX<br> - San Jose, CA<br> - San Fransisco, CA | ✅ [2024 University Graduate - Software Development Engineer (Various Positions)](https://adobe.wd5.myworkdayjobs.com/en-us/external_experienced/?q=graduate&jobFamilyGroup=591af8b812fa10737af39db3d96eed9f)  | - | 09/18/2023 |
 | [ZipRecruiter](https://www.ziprecruiter.com/careers) | - Santa Monica, CA | ✅ [Software Engineer - New Grad](https://boards.greenhouse.io/ziprecruiter/jobs/5281310) | - | 09/18/2023 |
 | [Everi](https://everi.pinpointhq.com/ens) | - Chicago, IL <br> - Reno, NV <br> - Las Vegas, NV <br> - Cary, NC <br> - Austin, TX | ✅ [Developer Software I (Games)](https://everi.pinpointhq.com/en/postings/fa0ba636-650d-466c-94a4-12a022d6886b) | - | 09/17/2023 |
