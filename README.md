@@ -51,6 +51,7 @@ Level up your career. Join the 75,000+ member community:
 
 | Name         | Location     | Roles                | Citizenship/Visa Requirements | Date Added <br> mm/dd/yyyy |
 | ------------ | ------------ | -------------------- | ----------------------------- | --------------------------- |
+| [Thomson Reuters](https://careers.thomsonreuters.com/us/en/search-results) | - Eagan, MN | ✅ [Software Engineer - New Grad](https://careers.thomsonreuters.com/us/en/job/THTTRUUSJREQ172509EXTERNALENUS/Software-Engineer-New-Grad)  | - | 09/20/2023 |
 | [General Dynamics Mission Systems](https://gdmissionsystems.com/careers) | - Multiple US Locations | ✅ [Multiple Entry Level Technology Roles](https://gdmissionsystems.com/careers/job-search?state=eyJhZGRyZXNzIjpbXSwiZmFjZXRzIjoiW3tcIm5hbWVcIjpcImNhcmVlcl9lbXBsb3ltZW50X3R5cGVzXCIsXCJ2YWx1ZXNcIjpbe1widmFsdWVcIjpcIkNvbGxlZ2VcIn1dfV0iLCJwYWdlIjowLCJwYWdlU2l6ZSI6MjAsIndoYXQiOiJFbnRyeSJ9)| U.S. Citizenship is required | 09/20/2023 |
 | [Pacific Northwest National Laboratory](https://careers.pnnl.gov/) | - Richland, WA | ✅ [Early Career Software Engineer - Richland](https://careers.pnnl.gov/jobs/7783) <br> [Early Career Data Engineer - Richland](https://careers.pnnl.gov/jobs/7782) | U.S. Citizenship is required | 09/20/2023
 | [BD](https://www.bd.com) | - San Diego, CA <br> - San Jose, CA <br> - Sparks, MD <br> - Salt Lake City, UT <br> - Ashland, OR <br> - Franklin Lakes, NJ | ✅ [Software Development Program](https://jobs.bd.com/job/research-triangle-park/software-development-program/159/53665667248) | Sponsorship not available | 09/19/2023
@@ -211,8 +212,6 @@ Level up your career. Join the 75,000+ member community:
 | [GE Aeroespace]() | - Dayton, OH <br> - Grand Rapids, MI <br> - Clearwater, FL |  🔒 **[Closed]** 🔒 <br> [Tech \| Software Development]() | U.S. Citizen or Permanent Resident Required. | 06/07/2023 |
 | [PerPay](https://boards.greenhouse.io/perpay/jobs/4034578007) | Philadelphia, PA | 🔒 **[Closed]** 🔒 <br> [Software Engineer (SWE)]()  | - | 05/23/2023 |
 | [BlackRock](https://careers.blackrock.com/early-careers/americas/?2023-2024#tab-id-13) | - Atlanta, GA <br> - San Francisco, CA <br> - New York, NY | ✅ [SWE, PM, Quant](https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/xf-232eb66ac89a/candidate/so/pm/1/pl/1/opp/7893-Analyst-Program-Americas/en-GB) <br>- [See Desc PDF](https://static.wcn.co.uk/company/blackrock/JobDescription23/BlackRock_2023-2024_Software_Engineering_Job_Description.pdf)| - | 05/20/2023 |
-| [Thomson Reuters](https://careers.thomsonreuters.com/us/en/search-results) | Eagan, MN | ✅ [Software Engineer - New Grad](https://careers.thomsonreuters.com/us/en/job/THTTRUUSJREQ172509EXTERNALENUS/Software-Engineer-New-Grad)  | - | 09/20/2023 |
-
 | [Airbnb]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [Amazon]() | U.S. Locations | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [Atlassian]() | U.S Remote | 🔒 **[Not Open Yet]** 🔒 | - | - |
