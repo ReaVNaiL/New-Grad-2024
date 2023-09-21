@@ -211,6 +211,8 @@ Level up your career. Join the 75,000+ member community:
 | [GE Aeroespace]() | - Dayton, OH <br> - Grand Rapids, MI <br> - Clearwater, FL |  🔒 **[Closed]** 🔒 <br> [Tech \| Software Development]() | U.S. Citizen or Permanent Resident Required. | 06/07/2023 |
 | [PerPay](https://boards.greenhouse.io/perpay/jobs/4034578007) | Philadelphia, PA | 🔒 **[Closed]** 🔒 <br> [Software Engineer (SWE)]()  | - | 05/23/2023 |
 | [BlackRock](https://careers.blackrock.com/early-careers/americas/?2023-2024#tab-id-13) | - Atlanta, GA <br> - San Francisco, CA <br> - New York, NY | ✅ [SWE, PM, Quant](https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/xf-232eb66ac89a/candidate/so/pm/1/pl/1/opp/7893-Analyst-Program-Americas/en-GB) <br>- [See Desc PDF](https://static.wcn.co.uk/company/blackrock/JobDescription23/BlackRock_2023-2024_Software_Engineering_Job_Description.pdf)| - | 05/20/2023 |
+| [Thomson Reuters](https://careers.thomsonreuters.com/us/en/search-results) | Eagan, MN | ✅ [Software Engineer - New Grad](https://careers.thomsonreuters.com/us/en/job/THTTRUUSJREQ172509EXTERNALENUS/Software-Engineer-New-Grad)  | - | 09/20/2023 |
+
 | [Airbnb]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [Amazon]() | U.S. Locations | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [Atlassian]() | U.S Remote | 🔒 **[Not Open Yet]** 🔒 | - | - |
