@@ -51,6 +51,7 @@ Level up your career. Join the 75,000+ member community:
 
 | Name         | Location     | Roles                | Citizenship/Visa Requirements | Date Added <br> mm/dd/yyyy |
 | ------------ | ------------ | -------------------- | ----------------------------- | --------------------------- |
+| [Georgia Tech Research Institute](https://careers.gtri.gatech.edu/en-us) | - Warner Robins, GA | ✅ [Software Engineer - ELSYS](https://careers.gtri.gatech.edu/en-us/job/498866/software-engineer-elsys-open-rank-on-site-warner-robins-ga)  | U.S. Citizenship is required | 09/24/2023 |
 | [G-Research](https://www.gresearch.com/join-us/) | - Dallas, TX | ✅ [Graduate Software Engineer](https://www.gresearch.com/role/R2311-Graduate-Software-Engineer/)  |  | 09/23/2023 |
 | [Westinghouse Electric](https://careers.westinghousenuclear.com/) | - Cranberry Township, PA | ✅ [Software Engineers - 2024 Graduates](https://careers.westinghousenuclear.com/job/Cranberry-Township-Software-Engineers-2024-Graduates-PA-16066/1073787900/)  | - | 09/23/2023 |
 | [RVO Health](https://boards.greenhouse.io/rvohealth) | - Charlotte, NC | ✅ [Software Engineer - Early Career](https://boards.greenhouse.io/rvohealth/jobs/4302889005)  | Sponsorship not available | 09/23/2023 |
