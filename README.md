@@ -51,6 +51,7 @@ Level up your career. Join the 75,000+ member community:
 
 | Name         | Location     | Roles                | Citizenship/Visa Requirements | Date Added <br> mm/dd/yyyy |
 | ------------ | ------------ | -------------------- | ----------------------------- | --------------------------- |
+| [Georgia Tech Research Institute](https://careers.gtri.gatech.edu/en-us) | - Warner Robins, GA | ✅ [Software Engineer - ELSYS](https://careers.gtri.gatech.edu/en-us/job/498866/software-engineer-elsys-open-rank-on-site-warner-robins-ga)  | U.S. Citizenship is required | 09/24/2023 |
 | [CarMax](https://careers.carmax.com/us/en) | - Richmond, VA | ✅ [Technology Rotation Progam](https://careers.carmax.com/us/en/job/JR-122591/Technology-Rotation-Program)  |  | 09/24/2023 |
 | [National Security Agency (NSA)](https://apply.intelligencecareers.gov/home) |  - Denver, CO <br> - Fort Gordon, GA <br> - Fort Meade, MD <br> - Fort Meade, MD <br> - San Antonio TX  | ✅ [Software Engineer - Entry to Expert Level](https://apply.intelligencecareers.gov/job-description/1216217)  | U.S. Citizenship is required | 09/24/2023 |
 | [G-Research](https://www.gresearch.com/join-us/) | - Dallas, TX | ✅ [Graduate Software Engineer](https://www.gresearch.com/role/R2311-Graduate-Software-Engineer/)  |  | 09/23/2023 |
