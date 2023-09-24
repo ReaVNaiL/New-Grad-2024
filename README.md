@@ -52,7 +52,7 @@ Level up your career. Join the 75,000+ member community:
 | Name         | Location     | Roles                | Citizenship/Visa Requirements | Date Added <br> mm/dd/yyyy |
 | ------------ | ------------ | -------------------- | ----------------------------- | --------------------------- |
 | [G-Research](https://www.gresearch.com/join-us/) | - Dallas, TX | ✅ [Graduate Software Engineer](https://www.gresearch.com/role/R2311-Graduate-Software-Engineer/)  |  | 09/23/2023 |
-| [Westinghouse Electric]https://careers.westinghousenuclear.com/) | - Cranberry Township, PA | ✅ [Software Engineers - 2024 Graduates](https://careers.westinghousenuclear.com/job/Cranberry-Township-Software-Engineers-2024-Graduates-PA-16066/1073787900/)  | - | 09/23/2023 |
+| [Westinghouse Electric](https://careers.westinghousenuclear.com/) | - Cranberry Township, PA | ✅ [Software Engineers - 2024 Graduates](https://careers.westinghousenuclear.com/job/Cranberry-Township-Software-Engineers-2024-Graduates-PA-16066/1073787900/)  | - | 09/23/2023 |
 | [RVO Health](https://boards.greenhouse.io/rvohealth) | - Charlotte, NC | ✅ [Software Engineer - Early Career](https://boards.greenhouse.io/rvohealth/jobs/4302889005)  | Sponsorship not available | 09/23/2023 |
 | [Dow Jones](https://dowjones.jobs/software-engineer/jobs-in/) | - New York, NY | ✅ [Software Engineer - Early Career](https://dowjones.jobs/new-york-ny/early-career-2024-software-engineer/3E7A8EE1DB90443EA78AE0679ABCB640/job/)  | - | 09/23/2023 |
 | [Dow Jones](https://dowjones.jobs/software-engineer/jobs-in/) | - New York, NY | ✅ [Software Engineer - Early Career](https://dowjones.jobs/new-york-ny/early-career-2024-software-engineer/3E7A8EE1DB90443EA78AE0679ABCB640/job/)  | - | 09/23/2023 |
