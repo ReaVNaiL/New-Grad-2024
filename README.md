@@ -51,6 +51,7 @@ Level up your career. Join the 75,000+ member community:
 
 | Name         | Location     | Roles                | Citizenship/Visa Requirements | Date Added <br> mm/dd/yyyy |
 | ------------ | ------------ | -------------------- | ----------------------------- | --------------------------- |
+| [Elise AI](https://www.eliseai.com/careers) | - New York, NY | ✅ [Software Engineer - New Grad](https://boards.greenhouse.io/meetelise/jobs/6893159002)  | - | 09/23/2023 |
 | [Deutsche Bank](https://careers.db.com/professionals/search-roles/#/professional/) | - Cary, NC | ✅ [Engineer - Associate](https://careers.db.com/professionals/search-roles/#/professional/job/47728) <br> ✅[Graduate Programme - Technology, Data and Innovation (TDI)](https://db.recsolu.com/external/requisitions/_qp86C7PbovbNfk_ICVckg) | - | 09/21/2023 |
 | [Conduit](https://jobs.ashbyhq.com/Conduit) | - San Francisco, CA <br> - Remote| ✅ [Software Engineer, New Grad](https://jobs.ashbyhq.com/Conduit/f3b3256b-de95-45f0-9014-f524d7f88360) | - | 09/23/2023 |
 | [United Airlines](https://careers.united.com/us/en/) | - Chicago, IL <br> - Texas | ✅ [Associate - Early Career Digital Leadership Program](https://careers.united.com/us/en/job/WHQ00022737/Associate-Early-Career-Digital-Leadership-Program-Campus-2024-Hires-New-Grads) <br> ✅  [Associate - Cybersecurity](https://careers.united.com/us/en/job/WHQ00022462/Associate-Cybersecurity)| candidate must be able to work without sponsorship | 09/20/2023 |
