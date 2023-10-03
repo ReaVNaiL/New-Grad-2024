@@ -51,6 +51,7 @@ Level up your career. Join the 75,000+ member community:
 
 | Name         | Location     | Roles                | Citizenship/Visa Requirements | Date Added <br> mm/dd/yyyy |
 | ------------ | ------------ | -------------------- | ----------------------------- | --------------------------- |
+| [Nov](https://www.nov.com/careers) | - Houston, TX | ✅ [Software Engineer - Pathway Program](https://egay.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/requisitions/preview/23008/?keyword=pathway&mode=location) | - | 10/02/2023 |
 | [Northern Trust Corp](https://careers.northerntrust.com/) | - Chicago, IL| ✅ [Rotation Progam - Technology](https://careers.northerntrust.com/jobs/rotational-development-program-technology-39095) | No sponsosrship | 10/02/2023 |
 | [Applied Materials](https://www.appliedmaterials.com/us/en/careers/students-early-career.html) | - Santa Clara, CA <br> - Gloucester, MA | ✅ [2024 Engineer Development Rotational Program (Gloucester, MA) - S/W, Systems Engineer](https://amat.wd1.myworkdayjobs.com/en-US/External/job/XMLNAME-2024-Engineer-Development-Rotational-Program--Gloucester--MA----S-W--Systems-Engineer_R2315515-1) <br> 🔒 **[Closed]** 🔒<br>[Software Engineer (Front End Group) - New College Grad Opportunity](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Software-Engineer--Front-End-Group----New-College-Grad-Opportunity-_R2315575-1) | - | 10/02/2023 |
 | [Whatnot](https://www.whatnot.com/careers) | - Remote | 🔒 **[Closed]** 🔒 <br> [Software Engineer, 2024 New Grad]() | - | 09/07/2023 |
