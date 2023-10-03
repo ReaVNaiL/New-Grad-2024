@@ -51,6 +51,8 @@ Level up your career. Join the 75,000+ member community:
 
 | Name         | Location     | Roles                | Citizenship/Visa Requirements | Date Added <br> mm/dd/yyyy |
 | ------------ | ------------ | -------------------- | ----------------------------- | --------------------------- |
+| [Kensho](https://jobs.lever.co/kensho) |  - Cambridge, MA <br> - New York, NY <br> - Washington, D.C. | ✅ [Machine Learning Engineer - 2024 Grad](https://jobs.lever.co/kensho/64f57a09-7f92-4c5b-883f-56eb92d62bf1) | - | 10/03/2023 |
+| [Pomelo](https://www.pomelo.com/careers/#positions) | - San Francsico, CA | ✅ [Software Engineer - New Graduates](https://boards.greenhouse.io/pomelo/jobs/4033378007?gh_src=cbd1e1f37us#app) | - | 10/03/2023 |
 | [Freddie Mac](https://careers.freddiemac.com/) | - McLean, VA | ✅ [Technology Analyst - Infrastructure/Application Support Engineer](https://careers.freddiemac.com/us/en/job/JR11165/Technology-Analyst-Infrastructure-Application-Support-Engineer-Hybrid-3-Days-in-Office) | - | 10/03/2023 | 
 | [Air Products](https://www.airproducts.com/careers/) | - Allentown, PA | ✅ [Digital Technology/IT - Career Development (Rotational) Program (2024)](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25091&siteid=5105&PageType=JobDetails&jobid=768229) | - | 10/02/2023 |
 | [GE Appliances](https://careers.geappliances.com/) | - Louisville, KY | ✅ [Edison Engineering Development Program (EEDP)](https://haier.wd3.myworkdayjobs.com/en-US/GE_Appliances/job/USA-Louisville-KY/Edison-Engineering-Development-Program--EEDP----Software---2024_REQ-16620) <br> 🔒 **[Closed]** 🔒 <br> [Edison Engineering Development Program - Software]()| No sponsorship | 10/21/2023 |
