@@ -51,6 +51,7 @@ Level up your career. Join the 75,000+ member community:
 
 | Name         | Location     | Roles                | Citizenship/Visa Requirements | Date Added <br> mm/dd/yyyy |
 | ------------ | ------------ | -------------------- | ----------------------------- | --------------------------- |
+| [Visa](https://usa.visa.com/en_us/jobs/) | - Atlanta, GA | ✅ [Software Engineer, New College Grad- 2024](https://usa.visa.com/en_us/jobs/REF65183F) | No sponsorship | 10/02/2023 |
 | [Cox Communications](https://jobs.coxenterprises.com/en/) | - Atlanta, GA | ✅ [RISE Program](https://jobs.coxenterprises.com/en/jobs/job/r202331597-rise-program-cox-communications-engineer) | - | 10/02/2023 |
 | [SPS Commerce](https://jobs.spscommerce.com/) | - Minneapolis, MN | ✅ [Associate Software Engineer II](https://careers-spscommerce.icims.com/jobs/8025/associate-software-engineer-ii/job) | - | 10/02/2023 |
 | [Cigna Group](https://jobs.thecignagroup.com/us/en) | - Bloomfield, CO <br> - Austin, TX <br> - Bloomington, MN <br> - Denver, CO <br> -Morris Plains, NJ <br> - Nashville, TN <br> - Philadelphia, PA <br> - St. Louis, MO | ✅ [Technology Development Program](https://jobs.thecignagroup.com/us/en/job/23015017/Technology-Development-Program-TECDP-Full-Time-Associate-2024-Evernorth) | - | 10/02/2023 |
