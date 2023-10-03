@@ -51,6 +51,7 @@ Level up your career. Join the 75,000+ member community:
 
 | Name         | Location     | Roles                | Citizenship/Visa Requirements | Date Added <br> mm/dd/yyyy |
 | ------------ | ------------ | -------------------- | ----------------------------- | --------------------------- |
+| [SPS Commerce](https://jobs.spscommerce.com/) | - Minneapolis, MN | ✅ [Associate Software Engineer II](https://careers-spscommerce.icims.com/jobs/8025/associate-software-engineer-ii/job) | - | 10/02/2023 |
 | [Galatea Associates](https://jobs.lever.co/galatea-associates) | - Somerville, MA <br> - Durham, NC <br> - St. Petersburg, FL | ✅ [Financial Software Engineer](https://jobs.lever.co/galatea-associates/ea475dfe-2e0b-4e6b-8dd7-88e4e85f9dcb) | - | 10/01/2023 |
 | [Uline](https://www.uline.jobs/) | - Waukegan, IL | ✅ [Associate Software Engineer](https://www.uline.jobs/JobDetails?culture=en&jobid=R236342) <br> ✅ [Associate Software Developer](https://www.uline.jobs/JobDetails?culture=en&jobid=R236267) <br> ✅ [Associate DevOps Engineer](https://www.uline.jobs/JobDetails?culture=en&jobid=R236332) | No sponsorship available | 09/30/2023 |
 | [Apple](https://www.apple.com/careers/us/) | - Austin, TX | 🔒 **[Closed]** 🔒 <br> - [Evolve Rotation Program](https://jobs.apple.com/en-us/details/200506357/engineer-evolve-rotation-program) <br> - [Software Engineering (SWE) Early Career Opportunities]()| - | 09/30/2023 |
