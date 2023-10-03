@@ -51,6 +51,7 @@ Level up your career. Join the 75,000+ member community:
 
 | Name         | Location     | Roles                | Citizenship/Visa Requirements | Date Added <br> mm/dd/yyyy |
 | ------------ | ------------ | -------------------- | ----------------------------- | --------------------------- |
+| [Port Authority NY NJ](https://www.jointheportauthority.com/jobs) | - Jersey City, NJ <br> - New York, NY | ✅ [2024 Engineering & Architecture Associates Program - Enterprise Asset Managemen](https://www.jointheportauthority.com/jobs/13309844-2024-engineering-and-architecture-associates-program-enterprise-asset-management) | - | 10/02/2023 |
 | [Visa](https://usa.visa.com/en_us/jobs/) | - Atlanta, GA | ✅ [Software Engineer, New College Grad- 2024](https://usa.visa.com/en_us/jobs/REF65183F) | No sponsorship | 10/02/2023 |
 | [Cox Communications](https://jobs.coxenterprises.com/en/) | - Atlanta, GA | ✅ [RISE Program](https://jobs.coxenterprises.com/en/jobs/job/r202331597-rise-program-cox-communications-engineer) | - | 10/02/2023 |
 | [SPS Commerce](https://jobs.spscommerce.com/) | - Minneapolis, MN | ✅ [Associate Software Engineer II](https://careers-spscommerce.icims.com/jobs/8025/associate-software-engineer-ii/job) | - | 10/02/2023 |
