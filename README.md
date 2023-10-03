@@ -51,6 +51,7 @@ Level up your career. Join the 75,000+ member community:
 
 | Name         | Location     | Roles                | Citizenship/Visa Requirements | Date Added <br> mm/dd/yyyy |
 | ------------ | ------------ | -------------------- | ----------------------------- | --------------------------- |
+| [Microsoft](https://jobs.careers.microsoft.com) | - Redmond, WA | ✅ [Software Engineer (General)](https://jobs.careers.microsoft.com/global/en/job/1626903/Software-Engineer) <br> ✅ [Software Engineer (SharePoint)](https://jobs.careers.microsoft.com/global/en/job/1631752/Software-Engineer) | - | 10/03/2023 |
 | [Kensho](https://jobs.lever.co/kensho) |  - Cambridge, MA <br> - New York, NY <br> - Washington, D.C. | ✅ [Machine Learning Engineer - 2024 Grad](https://jobs.lever.co/kensho/64f57a09-7f92-4c5b-883f-56eb92d62bf1) | - | 10/03/2023 |
 | [Pomelo](https://www.pomelo.com/careers/#positions) | - San Francsico, CA | ✅ [Software Engineer - New Graduates](https://boards.greenhouse.io/pomelo/jobs/4033378007?gh_src=cbd1e1f37us#app) | - | 10/03/2023 |
 | [Freddie Mac](https://careers.freddiemac.com/) | - McLean, VA | ✅ [Technology Analyst - Infrastructure/Application Support Engineer](https://careers.freddiemac.com/us/en/job/JR11165/Technology-Analyst-Infrastructure-Application-Support-Engineer-Hybrid-3-Days-in-Office) | - | 10/03/2023 | 
@@ -256,7 +257,6 @@ Level up your career. Join the 75,000+ member community:
 | [Google]() | Mountain View, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [Intuit]() | Mountain View, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [Lyft]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
-| [Microsoft]() | Redmond, WA | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [Reddit]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [Slack]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [Snap]() | Los Angeles, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
