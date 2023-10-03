@@ -51,6 +51,7 @@ Level up your career. Join the 75,000+ member community:
 
 | Name         | Location     | Roles                | Citizenship/Visa Requirements | Date Added <br> mm/dd/yyyy |
 | ------------ | ------------ | -------------------- | ----------------------------- | --------------------------- |
+| [Air Products](https://www.airproducts.com/careers/) | - Allentown, PA | ✅ [Digital Technology/IT - Career Development (Rotational) Program (2024)](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25091&siteid=5105&PageType=JobDetails&jobid=768229) | - | 10/02/2023 |
 | [GE Appliances](https://careers.geappliances.com/) | - Louisville, KY | ✅ [Edison Engineering Development Program (EEDP)](https://haier.wd3.myworkdayjobs.com/en-US/GE_Appliances/job/USA-Louisville-KY/Edison-Engineering-Development-Program--EEDP----Software---2024_REQ-16620) | No sponsorship | 10/21/2023 |
 | [Nov](https://www.nov.com/careers) | - Houston, TX | ✅ [Software Engineer - Pathway Program](https://egay.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/requisitions/preview/23008/?keyword=pathway&mode=location) | - | 10/02/2023 |
 | [Northern Trust Corp](https://careers.northerntrust.com/) | - Chicago, IL| ✅ [Rotation Progam - Technology](https://careers.northerntrust.com/jobs/rotational-development-program-technology-39095) | No sponsosrship | 10/02/2023 |
