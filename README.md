@@ -270,7 +270,6 @@ Level up your career. Join the 75,000+ member community:
 | [VMware]() | Palo Alto, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [Yelp]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [Zillow]() | Seattle, WA | 🔒 **[Not Open Yet]** 🔒 | - | - |
-| [Zoom]() | San Jose, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
 
 -END OF LIST-
 
