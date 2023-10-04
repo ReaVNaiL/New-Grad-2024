@@ -1,6 +1,6 @@
 # 2024 New Grad Full-time Positions 🎓💼
 
-Welcome! 🎉 
+Welcome! 🎉
 This is a collection of full-time job openings for new grads in 2024 in the fields of Software Engineering (SWE), Quantitative Analysis, Product Management (PM) and other tech roles.
 
 🙏 **We welcome contributions from the community!** Please submit a pull request, and we will update them.
@@ -44,16 +44,17 @@ Support [Nick Scialli](https://github.com/nas5w) directly on his repo! [Intervie
 ## Discord
 Level up your career. Join the 75,000+ member community:
 - **[CSCareers.Dev Discord](https://discord.com/invite/cscareers)**
-  
+
 ## Jobs
 
 ----
 
 | Name         | Location     | Roles                | Citizenship/Visa Requirements | Date Added <br> mm/dd/yyyy |
 | ------------ | ------------ | -------------------- | ----------------------------- | --------------------------- |
+| [Moody's](https://careers.moodys.com/) |  - New York, NY <br> - San Francisco, CA | ✅ [Data Science Development Program](https://careers.moodys.com/job/19217434/data-science-development-program-new-york-ny/) | - | 10/03/2023 |
 | [Kensho](https://jobs.lever.co/kensho) |  - Cambridge, MA <br> - New York, NY <br> - Washington, D.C. | ✅ [Machine Learning Engineer - 2024 Grad](https://jobs.lever.co/kensho/64f57a09-7f92-4c5b-883f-56eb92d62bf1) | - | 10/03/2023 |
 | [Pomelo](https://www.pomelo.com/careers/#positions) | - San Francsico, CA | ✅ [Software Engineer - New Graduates](https://boards.greenhouse.io/pomelo/jobs/4033378007?gh_src=cbd1e1f37us#app) | - | 10/03/2023 |
-| [Freddie Mac](https://careers.freddiemac.com/) | - McLean, VA | ✅ [Technology Analyst - Infrastructure/Application Support Engineer](https://careers.freddiemac.com/us/en/job/JR11165/Technology-Analyst-Infrastructure-Application-Support-Engineer-Hybrid-3-Days-in-Office) | - | 10/03/2023 | 
+| [Freddie Mac](https://careers.freddiemac.com/) | - McLean, VA | ✅ [Technology Analyst - Infrastructure/Application Support Engineer](https://careers.freddiemac.com/us/en/job/JR11165/Technology-Analyst-Infrastructure-Application-Support-Engineer-Hybrid-3-Days-in-Office) | - | 10/03/2023 |
 | [Air Products](https://www.airproducts.com/careers/) | - Allentown, PA | ✅ [Digital Technology/IT - Career Development (Rotational) Program (2024)](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25091&siteid=5105&PageType=JobDetails&jobid=768229) | - | 10/02/2023 |
 | [GE Appliances](https://careers.geappliances.com/) | - Louisville, KY | ✅ [Edison Engineering Development Program (EEDP)](https://haier.wd3.myworkdayjobs.com/en-US/GE_Appliances/job/USA-Louisville-KY/Edison-Engineering-Development-Program--EEDP----Software---2024_REQ-16620) <br> 🔒 **[Closed]** 🔒 <br> [Edison Engineering Development Program - Software]()| No sponsorship | 10/21/2023 |
 | [Nov](https://www.nov.com/careers) | - Houston, TX | 🔒 **[Closed]** 🔒 <br> [Software Engineer - Pathway Program](https://egay.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/requisitions/preview/23008/?keyword=pathway&mode=location) | - | 10/02/2023 |
@@ -84,7 +85,7 @@ Level up your career. Join the 75,000+ member community:
 | [CarMax](https://careers.carmax.com/us/en) | - Richmond, VA | ✅ [Technology Rotation Progam](https://careers.carmax.com/us/en/job/JR-122591/Technology-Rotation-Program)  |  | 09/24/2023 |
 | [National Security Agency (NSA)](https://apply.intelligencecareers.gov/home) |  - Denver, CO <br> - Fort Gordon, GA <br> - Fort Meade, MD <br> - Fort Meade, MD <br> - San Antonio TX  | ✅ [Software Engineer - Entry to Expert Level](https://apply.intelligencecareers.gov/job-description/1216217)  | U.S. Citizenship is required <br> Security Clearance Required | 09/24/2023 |
 | [G-Research](https://www.gresearch.com/join-us/) | - Dallas, TX | ✅ [Graduate Software Engineer](https://www.gresearch.com/role/R2311-Graduate-Software-Engineer/)  |  | 09/23/2023 |
-| [Westinghouse Electric](https://careers.westinghousenuclear.com/) | - Cranberry Township, PA | ✅ [Software Engineers - 2024 Graduates](https://careers.westinghousenuclear.com/job/Cranberry-Township-Software-Engineers-2024-Graduates-PA-16066/1073787900/)  | - | 09/23/2023 |
+| [Westinghouse Electric](https://careers.westinghousenuclear.com/) | - Cranberry Township, PA | 🔒 **[Closed]** 🔒 <br> [Software Engineers - 2024 Graduates](https://careers.westinghousenuclear.com/job/Cranberry-Township-Software-Engineers-2024-Graduates-PA-16066/1073787900/)  | - | 09/23/2023 |
 | [RVO Health](https://boards.greenhouse.io/rvohealth) | - Charlotte, NC | ✅ [Software Engineer - Early Career](https://boards.greenhouse.io/rvohealth/jobs/4302889005)  | Sponsorship not available | 09/23/2023 |
 | [Dow Jones](https://dowjones.jobs/software-engineer/jobs-in/) | - New York, NY | ✅ [Software Engineer - Early Career](https://dowjones.jobs/new-york-ny/early-career-2024-software-engineer/3E7A8EE1DB90443EA78AE0679ABCB640/job/)  | - | 09/23/2023 |
 | [Elise AI](https://www.eliseai.com/careers) | - New York, NY | 🔒 **[Closed]** 🔒 <br> [Software Engineer - New Grad]() | - | 09/23/2023 |
