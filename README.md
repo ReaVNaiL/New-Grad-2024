@@ -51,7 +51,7 @@ Level up your career. Join the 75,000+ member community:
 
 | Name         | Location     | Roles                | Citizenship/Visa Requirements | Date Added <br> mm/dd/yyyy |
 | ------------ | ------------ | -------------------- | ----------------------------- | --------------------------- |
-| [Raymond James](https://www.raymondjames.com/careers/students-and-recent-grads) | - St. Petersburg, FL | ✅ [2024 - IT Accelerated Development Program (ADP) - Software Developer Track ](https://raymondjames.taleo.net/careersection/rj_extcareersection052308/jobdetail.ftl?job=551166&tz=GMT-05%3A00&tzname=America%2FChicago&src=LinkedIn#JB-10208| - | 10/09/2023 |
+| [Raymond James](https://www.raymondjames.com/careers/students-and-recent-grads) | - St. Petersburg, FL | ✅ [2024 - IT Accelerated Development Program (ADP) - Software Developer Track ](https://raymondjames.taleo.net/careersection/rj_extcareersection052308/jobdetail.ftl?job=551166&tz=GMT-05%3A00&tzname=America%2FChicago&src=LinkedIn#JB-10208 )| - | 10/09/2023 |
 | [Vontive](https://apply.workable.com/vontive/) | - San Francisco, CA | ✅ [New Grad Software Engineer ](https://apply.workable.com/vontive/j/A66EF3C988/)| - | 10/08/2023 |
 | [Wayfair](https://www.aboutwayfair.com/careers) | - Boston, MA | ✅ [Software Engineer I - Summer 2024](https://www.wayfair.com/careers/job/software-engineer-i/6945942002) | - | 10/08/2023 |
 | [Highmark Health](https://careers.highmarkhealth.org/) | - Remote, US | ✅ [ETDP Associate - Software Engineering](https://careers.highmarkhealth.org/explore-jobs/job/j232058-etdp-associate-software-engineering/) <br> ✅ [ETDP Associate - Project Management](https://careers.highmarkhealth.org/explore-jobs/job/j232057-etdp-associate-project-management/) | - | 10/06/2023 |
