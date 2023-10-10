@@ -51,6 +51,7 @@ Level up your career. Join the 75,000+ member community:
 
 | Name         | Location     | Roles                | Citizenship/Visa Requirements | Date Added <br> mm/dd/yyyy |
 | ------------ | ------------ | -------------------- | ----------------------------- | --------------------------- |
+| [Prompt EMR](https://promptemr.com/company/careers/) | - Remote | ✅ [Junior Software Engineer](https://prompt-therapy-solutions.breezy.hr/p/469cea832245-junior-software-engineer-b2b-saas/)| - | 10/09/2023 |
 | [Vontive](https://apply.workable.com/vontive/) | - San Francisco, CA | ✅ [New Grad Software Engineer ](https://apply.workable.com/vontive/j/A66EF3C988/)| - | 10/08/2023 |
 | [Wayfair](https://www.aboutwayfair.com/careers) | - Boston, MA | ✅ [Software Engineer I - Summer 2024](https://www.wayfair.com/careers/job/software-engineer-i/6945942002) | - | 10/08/2023 |
 | [Highmark Health](https://careers.highmarkhealth.org/) | - Remote, US | ✅ [ETDP Associate - Software Engineering](https://careers.highmarkhealth.org/explore-jobs/job/j232058-etdp-associate-software-engineering/) <br> ✅ [ETDP Associate - Project Management](https://careers.highmarkhealth.org/explore-jobs/job/j232057-etdp-associate-project-management/) | - | 10/06/2023 |
