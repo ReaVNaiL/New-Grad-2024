@@ -106,9 +106,9 @@ It's very similar, assuming you have already forked the repository and cloned it
 1. **Find the Job Opening**: Find the job opening you want to remove from the table in the `README.md` file.
 
 2. **Close the Job Opening**: 
-    - Simply add a `🔒 **[Closed]** 🔒 <br>` before the Roles or links to the job posting.
+    - Simply add a `🔒` before the Roles or links to the job posting. (Be mindful of the space)
     - Then remove the link to the job posting from both the company name and position name. *The parentheses should be empty*
-    - Finally, remove the citizenship/visa requirements and replace it with a dash `-`.
+    - Finally, remove the citizenship/visa requirements and replace it with a dash `-`, unless the position has another role open.
 
 <details>
 <summary><b>Table Example</b></summary><br>
@@ -117,7 +117,7 @@ It's very similar, assuming you have already forked the repository and cloned it
 
 | Company Name | Location | Roles | Citizenship/Visa Requirements | Date Added <br> mm/dd/yyyy |
 | ------------ | -------- | ----- | ----------------------------- | --------------------------- |
-| [Walmart]() | - Bentonville, AR <br> - Sunnyvale, CA | 🔒 **[Closed]** 🔒 <br> [New Grad Software Engineer II]()| - | 10/05/2023 |
+| [Walmart]() | - Bentonville, AR <br> - Sunnyvale, CA | 🔒 [New Grad Software Engineer II]()| - | 10/05/2023 |
 
 Placeholders for the table are as follows:
   - `Company Name`: The name of the company.
@@ -125,10 +125,35 @@ Placeholders for the table are as follows:
   - `Roles`: Any additional Roles or links to the job posting.
 
 ```java
-| [Company Name]() | - Location (s)  | 🔒 **[No Longer Available]** 🔒 [Position Name]()| - | mm/dd/yyyy |
+| [Company Name]() | - Location (s)  | 🔒 [Position Name]()| - | mm/dd/yyyy |
 ```
 
 </details>
+
+If the job opening has multiple roles, and you want to close one or more:
+1. Repeat the same steps as above, but only add `🔒` to the roles you want to close.
+- If you want to close all the roles, then add `🔒` to all the roles.
+- If you want to close some of the roles, then add `🔒` to the roles you want to close while separating them with a `<br>` tag.
+2. Move the closed job opening to the bottom of the company's list of job openings.
+3. Add `<br><br>` if it doesn't already exist between the open and closed job roles.
+
+<details>
+<summary><b>Multiple Roles: Table Example</b></summary><br>
+
+- This is what the *table* would look like if you were removing a job opening for *Walmart*:
+
+| Company Name | Location | Roles | Citizenship/Visa Requirements | Date Added <br> mm/dd/yyyy |
+| ------------ | -------- | ----- | ----------------------------- | --------------------------- |
+| [Walmart](https://careers.walmart.com/) | - Bentonville, AR <br> - Sunnyvale, CA | ✅ [New Grad Software Engineer II](https://careers.walmart.com/swe2) <br> ✅ [New Grad Software Engineer III](https://careers.walmart.com/swe3) <br><br> 🔒 [New Grad Product Manager](https://careers.walmart.com/) <br> 🔒 [New Grad Quant Strat]() | US Citizen, Permanent Resident, OPT, Sponsorship, etc. | 10/01/2023 |
+
+Placeholders for the table are as follows:
+  - `Company Name`: The name of the company.
+  - `Location`: The location(s) of the job opening.
+  - `Roles`: Any additional Roles or links to the job posting.
+
+```java
+| [Company Name](link-to-job-posting) | - Location (s)  | ✅ [Position Name](link-to-job-posting) <br> ✅ [Position Name 2] <br><br> 🔒 [Position Name 3]() <br> 🔒 [Position Name 4]()| US Citizen, Permanent Resident. | mm/dd/yyyy |
+```
 
 ### Guidelines
 

@@ -59,7 +59,7 @@ class READMEOrganizer:
         for i, line in enumerate(lines):
             if "## Jobs" in line:
                 start = i + 2
-            if start != -1 and line.startswith("-END OF LIST-"):
+            if start != -1 and line.startswith("[⬆️ Back to Top](#jobs)"):
                 end = i
                 break
 
