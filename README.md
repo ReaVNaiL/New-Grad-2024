@@ -286,7 +286,7 @@ The icons next to roles in the table below signify the following:
 | [Zillow]() | Seattle, WA | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [Zoom]() | San Jose, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
 
--END OF LIST-
+[⬆️ Back to Top](#jobs)
 
 ----
 
