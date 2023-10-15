@@ -58,6 +58,7 @@ The icons next to roles in the table below signify the following:
 | Name         | Location     | Roles                | Citizenship/Visa Requirements | Date Added <br> mm/dd/yyyy |
 | ------------ | ------------ | -------------------- | ----------------------------- | --------------------------- |
 | [Figma](https://www.figma.com/) | - San Francisco, CA <br> - New York, NY | ✅ [Software Engineer - Early Career (2024)](https://boards.greenhouse.io/figma/jobs/4941380004) <br/> ✅ [Data Science, Early Career (2024)](https://app.ripplematch.com/v2/public/job/0b42900f/details?utm_source=Github&utm_medium=organic_social&utm_campaign=growth_github&utm_content=mt_repo&utm_term=null) <br/> ✅ [Associate Product Manager, Early Career (2024)](https://boards.greenhouse.io/figma/jobs/4970616004)  | - | 10/11/2023 |
+| [Zoom](https://careers.zoom.us/home) | - Bay Area, CA | ✅ [AI Machine Learning Engineer - New Grad](https://zoom.wd5.myworkdayjobs.com/en-US/Zoom/job/AI-Machine-Learning-Engineer---New-Grad_R12437-1) | - | 10/10/2023 |
 | [NetApp](https://careers.netapp.com/) | - Remote, US | ✅ [Emerging Talent - Software Engineer](https://careers.netapp.com/job/-/-/27600/54752669088?jobPipeline=LinkedInJobPostings&target=linkedin) | USA Residents Only | 10/10/2023 |
 | [Raymond James](https://www.raymondjames.com/careers/students-and-recent-grads) | - St. Petersburg, FL | ✅ [2024 - IT Accelerated Development Program (ADP) - Software Developer Track ](https://raymondjames.taleo.net/careersection/rj_extcareersection052308/jobdetail.ftl?job=551166&tz=GMT-05%3A00&tzname=America%2FChicago&src=LinkedIn#JB-10208 )| - | 10/09/2023 |
 | [Cadence](https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers) | - San Jose, CA <br> - Pittsburgh, PA <br> - Burlington, VT <br> - Cary, NC <br> - Austin, TX | ✅ [Application Engineer - New College Grad](https://cadence.wd1.myworkdayjobs.com/en-US/Univ_Careers/job/Application-Engineer---New-College-Grad_R44174) <br> ✅ [Software Engineer - New Graduate](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Engineer----New-BS-Graduate_R40697-1) | - | 10/09/2023|
@@ -284,7 +285,6 @@ The icons next to roles in the table below signify the following:
 | [VMware]() | Palo Alto, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [Yelp]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [Zillow]() | Seattle, WA | 🔒 **[Not Open Yet]** 🔒 | - | - |
-| [Zoom]() | San Jose, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
 
 [⬆️ Back to Top](#jobs)
 
