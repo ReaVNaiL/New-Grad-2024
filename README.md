@@ -115,7 +115,7 @@ The icons next to roles in the table below signify the following:
 | [G-Research](https://www.gresearch.com/join-us/) | - Dallas, TX | 🔒 [Graduate Software Engineer]()  |  | 09/23/2023 |
 | [Westinghouse Electric](https://careers.westinghousenuclear.com/) | - Cranberry Township, PA | 🔒 [Software Engineers - 2024 Graduates](https://careers.westinghousenuclear.com/job/Cranberry-Township-Software-Engineers-2024-Graduates-PA-16066/1073787900/)  | - | 09/23/2023 |
 | [RVO Health](https://boards.greenhouse.io/rvohealth) | - Charlotte, NC | 🔒 [Software Engineer - Early Career]()  | Sponsorship not available | 09/23/2023 |
-| [Dow Jones](https://dowjones.jobs/software-engineer/jobs-in/) | - New York, NY | ✅ [Software Engineer - Early Career](https://dowjones.jobs/new-york-ny/early-career-2024-software-engineer/3E7A8EE1DB90443EA78AE0679ABCB640/job/)  | - | 09/23/2023 |
+| [Dow Jones](https://dowjones.jobs/software-engineer/jobs-in/) | - New York, NY | 🔒 [Software Engineer - Early Career]()  | - | 09/23/2023 |
 | [Elise AI](https://www.eliseai.com/careers) | - New York, NY | 🔒 [Software Engineer - New Grad]() | - | 09/23/2023 |
 | [Conduit](https://jobs.ashbyhq.com/Conduit) | - San Francisco, CA <br> - Remote| ✅ [Software Engineer, New Grad](https://jobs.ashbyhq.com/Conduit/f3b3256b-de95-45f0-9014-f524d7f88360) | - | 09/23/2023 |
 | [Deutsche Bank](https://careers.db.com/professionals/search-roles/#/professional/) | - Cary, NC | ✅ [Engineer - Associate](https://careers.db.com/professionals/search-roles/#/professional/job/47728) <br> ✅[Graduate Programme - Technology, Data and Innovation (TDI)](https://db.recsolu.com/external/requisitions/_qp86C7PbovbNfk_ICVckg) | - | 09/21/2023 |
