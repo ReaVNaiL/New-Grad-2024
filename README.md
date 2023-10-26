@@ -57,7 +57,7 @@ The icons next to roles in the table below signify the following:
 
 | Name         | Location     | Roles                | Citizenship/Visa Requirements | Date Added <br> mm/dd/yyyy |
 | ------------ | ------------ | -------------------- | ----------------------------- | --------------------------- |
-| [Verkada](https://www.verkada.com/) | San Mateo, CA | ✅ [Software Engineer (New Grad)] (https://jobs.lever.co/verkada/b39b5ccc-608e-468f-96ac-9d2af58bb674?lever-source=LinkedIn&source=6) | - | 10/26/2023 |
+| [Verkada](https://www.verkada.com/) | San Mateo, CA | ✅ [Software Engineer (New Grad)](https://jobs.lever.co/verkada/b39b5ccc-608e-468f-96ac-9d2af58bb674?lever-source=LinkedIn&source=6) | - | 10/26/2023 |
 | [Alchemy](https://boards.greenhouse.io/alchemy) | - San Francisco, CA <br> - New York, NY | ✅ [Software Engineer (New Grad)](https://boards.greenhouse.io/alchemy/jobs/4330447005) | - | 10/21/2023 |
 | [Immuta](https://jobs.lever.co/immuta) | - College Park, MD | ✅ [Software Engineer, Application Support](https://jobs.lever.co/immuta/1bf0d39c-a5a3-4d4f-a625-80945fad56c1/apply) | At this time, Immuta is unable to sponsor a new applicant for employment authorization now or in the future for this position. | 10/21/2023 |
 | [Forward](https://goforward.com/jobs) | - San Francisco, CA| ✅ [Software Engineer, Full Stack (Entry Level)](https://jobs.lever.co/goforward/073d1961-b3fd-4515-a7a4-a34a2eedb74a/apply) | - | 10/21/2023 |
