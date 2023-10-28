@@ -58,7 +58,7 @@ The icons next to roles in the table below signify the following:
 | Name         | Location     | Roles                | Citizenship/Visa Requirements | Date Added <br> mm/dd/yyyy |
 | ------------ | ------------ | -------------------- | ----------------------------- | --------------------------- |
 | [ServiceNow](https://www.servicenow.com/) | - Santa Clara, CA | ✅ [Software Engineer Entry Level](https://careers.servicenow.com/careers/jobs/743999940476311EXT?src=linkedin&lang=en-us&sid=2d92f286-613b-4daf-9dfa-6340ffbecf73) | - | 10/27/2023 |
-| [Visa](https://usa.visa.com/careers.html) | - Denver, CO, | ✅ [Site Reliability Engineer, New College Grad](hhttps://jobs.smartrecruiters.com/Visa/743999940196413-site-reliability-engineer-new-college-grad-2024?source=LinkedIn) | - | 10/27/2023 |
+| [Visa](https://usa.visa.com/careers.html) | - Denver, CO, | ✅ [Site Reliability Engineer, New College Grad](https://jobs.smartrecruiters.com/Visa/743999940196413-site-reliability-engineer-new-college-grad-2024?source=LinkedIn) | - | 10/27/2023 |
 | [Alchemy](https://boards.greenhouse.io/alchemy) | - San Francisco, CA <br> - New York, NY | ✅ [Software Engineer (New Grad)](https://boards.greenhouse.io/alchemy/jobs/4330447005) | - | 10/21/2023 |
 | [Immuta](https://jobs.lever.co/immuta) | - College Park, MD | ✅ [Software Engineer, Application Support](https://jobs.lever.co/immuta/1bf0d39c-a5a3-4d4f-a625-80945fad56c1/apply) | At this time, Immuta is unable to sponsor a new applicant for employment authorization now or in the future for this position. | 10/21/2023 |
 | [Forward](https://goforward.com/jobs) | - San Francisco, CA| ✅ [Software Engineer, Full Stack (Entry Level)](https://jobs.lever.co/goforward/073d1961-b3fd-4515-a7a4-a34a2eedb74a/apply) | - | 10/21/2023 |
