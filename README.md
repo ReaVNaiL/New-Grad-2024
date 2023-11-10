@@ -57,6 +57,7 @@ The icons next to roles in the table below signify the following:
 
 | Name         | Location     | Roles                | Citizenship/Visa Requirements | Date Added <br> mm/dd/yyyy |
 | ------------ | ------------ | -------------------- | ----------------------------- | --------------------------- |
+| [PolyAI](https://poly.ai/company/careers/#open-roles) | - Remote, CA | ✅ [2024 Software Engineer](https://apply.workable.com/poly-ai/j/C920389FC0/) | Work authorization required | 11/10/2023 |
 | [Bloomberg](https://www.bloomberg.com/company/careers/working-here/engineering/) | - New York, NY | ✅ [2024 Software Engineer](https://careers.bloomberg.com/job/detail/118309) | Work authorization required | 11/10/2023 |
 | [Meta](https://www.metacareers.com/) | - Menlo Park, CA <br> - Multiple <br> US Locations <br> - Remote  | ✅ [Software Engineer (University Grad)](https://www.metacareers.com/v2/jobs/757084709499347/) <br><br> 🔒 [Software Engineer, Embodied AI (University Grad)](https://www.metacareers.com/v2/jobs/964058664857248/) | Work Auth Required	 | 11/08/2023 |
 | [Affirm](https://www.affirm.com/careers) | - New York, NY <br> - San Francisco, CA | 🔒 [Software Engineer, Early Career (New York)]() <br> 🔒 [Software Engineer, Early Career (San Francisco)]() | - | 11/06/2023 |
