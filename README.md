@@ -57,6 +57,7 @@ The icons next to roles in the table below signify the following:
 
 | Name         | Location     | Roles                | Citizenship/Visa Requirements | Date Added <br> mm/dd/yyyy |
 | ------------ | ------------ | -------------------- | ----------------------------- | --------------------------- |
+| [Chalk](https://boards.greenhouse.io/chalkinc) | - San Francisco, CA | ✅ [New Grad - Software Engineer](https://boards.greenhouse.io/chalkinc/jobs/4321156005) | - | 11/16/2023 |
 | [PolyAI](https://poly.ai/company/careers/#open-roles) | - Remote, CA | 🔒 [2024 Software Engineer]() | Work authorization required; not able to support any sponsorship for this role. | 11/10/2023 |
 | [Bloomberg](https://www.bloomberg.com/company/careers/working-here/engineering/) | - New York, NY | ✅ [2024 Software Engineer](https://careers.bloomberg.com/job/detail/118309) | Work authorization required | 11/10/2023 |
 | [Meta](https://www.metacareers.com/) | - Menlo Park, CA <br> - Multiple <br> US Locations <br> - Remote  | ✅ [Software Engineer (University Grad)](https://www.metacareers.com/v2/jobs/757084709499347/) <br><br> 🔒 [Software Engineer, Embodied AI (University Grad)](https://www.metacareers.com/v2/jobs/964058664857248/) | Work Auth Required	 | 11/08/2023 |
