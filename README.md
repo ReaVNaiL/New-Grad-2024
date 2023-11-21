@@ -57,6 +57,7 @@ The icons next to roles in the table below signify the following:
 
 | Name         | Location     | Roles                | Citizenship/Visa Requirements | Date Added <br> mm/dd/yyyy |
 | ------------ | ------------ | -------------------- | ----------------------------- | --------------------------- |
+| [NAVAN](https://navan.com/) | - Palo Alto, CA | ✅ [New College Grad Software Engineer - Frontend](https://navan.com/careers/openings/5511373?gh_jid=5511373&gh_src=b13de4e21) | - | 11/21/2023 |
 | [Chalk](https://boards.greenhouse.io/chalkinc) | - San Francisco, CA | ✅ [New Grad - Software Engineer](https://boards.greenhouse.io/chalkinc/jobs/4321156005) | - | 11/16/2023 |
 | [PolyAI](https://poly.ai/company/careers/#open-roles) | - Remote, CA | 🔒 [2024 Software Engineer]() | Work authorization required; not able to support any sponsorship for this role. | 11/10/2023 |
 | [Bloomberg](https://www.bloomberg.com/company/careers/working-here/engineering/) | - New York, NY | ✅ [2024 Software Engineer](https://careers.bloomberg.com/job/detail/118309) | Work authorization required | 11/10/2023 |
