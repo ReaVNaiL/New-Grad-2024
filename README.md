@@ -61,8 +61,8 @@ The icons next to roles in the table below signify the following:
 | Name         | Location     | Roles                | Citizenship/Visa Requirements | Date Added <br> mm/dd/yyyy |
 | ------------ | ------------ | -------------------- | ----------------------------- | --------------------------- |
 | [Dexcom](https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/San-Diego-California/SW-Development-Engineer-1_JR102808-2?src=LinkedIn)| San Diego, CA  | ✅ [New Grad Software Engineer II](https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/San-Diego-California/SW-Development-Engineer-1_JR102808-2?src=LinkedIn) | Requires work authorization | 12/06/2023 |
-| [Engtal](https://www.linkedin.com/jobs/view/3766237693/) | US, Remote | ✅[New College Grad Software Engineer ](https://www.linkedin.com/jobs/view/3766237693/)  | - | 11/25/2023 |
 | [Fluence](https://fluenceenergy.com/) | - Houston, TX | ✅ [Rotational Engineer- Early Career](https://jobs.lever.co/fluence/e7314912-3f06-4bfe-a641-fecb593fee53) | - | 12/06/2023 |
+| [Engtal](https://www.linkedin.com/jobs/view/3766237693/) | US, Remote | ✅[New College Grad Software Engineer ](https://www.linkedin.com/jobs/view/3766237693/)  | - | 11/25/2023 |
 | [NAVAN](https://navan.com/) | - Palo Alto, CA | 🔒 [New College Grad Software Engineer - Frontend]() | - | 11/21/2023 |
 | [Chalk](https://boards.greenhouse.io/chalkinc) | - San Francisco, CA | 🔒 [New Grad - Software Engineer]() | - | 11/16/2023 |
 | [PolyAI](https://poly.ai/company/careers/#open-roles) | - Remote, CA | 🔒 [2024 Software Engineer]() | Work authorization required; not able to support any sponsorship for this role. | 11/10/2023 |
