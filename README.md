@@ -10,42 +10,45 @@ This is a collection of full-time job openings for new grads in 2024 in the fiel
 > 🌎 **Please note that this repository only lists job openings in the `United States`, `Remote` and `Canada`** 🌎
 
 ## Table of Contents
+
 1. [Find The Jobs 🔽](README.md#jobs)
 2. [Helpful Resources 🎯](README.md#resources)
 3. [How to Contribute 💬](How_to_contribute.md)
-
 
 ## Resources
 
 If you are looking for more guidance on how to prepare for technical interviews, you may find these resources helpful:
 
 - **[Interview Guide](https://interviewguide.dev/)** by **[Nick Scialli](https://twitter.com/nas5w)**:
-  * A comprehensive website that covers various topics such as data structures, algorithms, system design, behavioral questions, and more. It also provides links to other useful resources and practice platforms.
+  - A comprehensive website that covers various topics such as data structures, algorithms, system design, behavioral questions, and more. It also provides links to other useful resources and practice platforms.
 - **[Neetcode.io](https://neetcode.io/)**:
-  * A website that offers courses, lessons, and practice problems for coding interviews. Highly recommended when doing the grind! An updated version of blind 75 is updated there with 150 problems total.
+  - A website that offers courses, lessons, and practice problems for coding interviews. Highly recommended when doing the grind! An updated version of blind 75 is updated there with 150 problems total.
 - **[Big-O Complexity Cheat Sheet](https://github.com/ReaVNaiL/big-o-complexity-cheat-sheet)**:
-  * GitHub repository that contains a PDF file with a table of common time and space complexities for various operations and algorithms.
+  - GitHub repository that contains a PDF file with a table of common time and space complexities for various operations and algorithms.
 - **[OA and Interviews](https://github.com/Leader-board/OA-and-Interviews/blob/main/Online%20Assessments.md)**:
-  * Contains a comprehesion guide for patterns of online assessments and interview questions from various companies such as Amazon, Google, Facebook, Microsoft, and more.
+  - Contains a comprehesion guide for patterns of online assessments and interview questions from various companies such as Amazon, Google, Facebook, Microsoft, and more.
 - **[QuantGuide](https://quantguide.io)**:
-  * A platform that offers quant interview questions in probability theory, statistical inference, and brainteasers (think LeetCode for quant). Highly recommended for those applying to QR/QT roles at trading firms, prop shops, or HFTs.
+  - A platform that offers quant interview questions in probability theory, statistical inference, and brainteasers (think LeetCode for quant). Highly recommended for those applying to QR/QT roles at trading firms, prop shops, or HFTs.
 - **[Probability & Markets Guide by Jane Street](https://www.janestreet.com/static/pdfs/trading-interview.pdf?utm_source=web&utm_medium=pdf&utm_campaign=probability_markets_guide)**:
-  * A PDF guide of general topics to know for interviews at quant trading firms like Jane Street. Great for getting a baseline introduction to the topics tested in quant interviews.
+  - A PDF guide of general topics to know for interviews at quant trading firms like Jane Street. Great for getting a baseline introduction to the topics tested in quant interviews.
 
 ## For International Students
 
 - **[h1bdata.info](https://www.h1bdata.info)**
-  * Check if a company has sponsored for H1B candidates in the past.
+  - Check if a company has sponsored for H1B candidates in the past.
 - **[e-verify.gov](https://www.e-verify.gov)**
-  * Check if a company is e-verified (i.e, allows for F-1 OPT STEM extension of 24 months).
+  - Check if a company is e-verified (i.e, allows for F-1 OPT STEM extension of 24 months).
 
 Support [Nick Scialli](https://github.com/nas5w) directly on his repo! [Interview Guide Repo](https://github.com/nas5w/interview-guide)
 
 ## Discord
+
 Level up your career. Join the 75,000+ member community:
+
 - **[CSCareers.Dev Discord](https://discord.com/invite/cscareers)**
 
 ## Roles Status:
+
 The icons next to roles in the table below signify the following:
 
 - ✅: Available / Open.
@@ -53,11 +56,13 @@ The icons next to roles in the table below signify the following:
 
 ## Jobs
 
-----
+---
 
 | Name         | Location     | Roles                | Citizenship/Visa Requirements | Date Added <br> mm/dd/yyyy |
 | ------------ | ------------ | -------------------- | ----------------------------- | --------------------------- |
+| [Dexcom](https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/San-Diego-California/SW-Development-Engineer-1_JR102808-2?src=LinkedIn)| San Diego, CA  | ✅ [New Grad Software Engineer II](https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/San-Diego-California/SW-Development-Engineer-1_JR102808-2?src=LinkedIn) | Requires work authorization | 12/06/2023 |
 | [Fluence](https://fluenceenergy.com/) | - Houston, TX | ✅ [Rotational Engineer- Early Career](https://jobs.lever.co/fluence/e7314912-3f06-4bfe-a641-fecb593fee53) | - | 12/06/2023 |
+| [Engtal]() | US, Remote | 🔒 [New College Grad Software Engineer ]()  | - | 11/25/2023 |
 | [NAVAN](https://navan.com/) | - Palo Alto, CA | 🔒 [New College Grad Software Engineer - Frontend]() | - | 11/21/2023 |
 | [Chalk](https://boards.greenhouse.io/chalkinc) | - San Francisco, CA | 🔒 [New Grad - Software Engineer]() | - | 11/16/2023 |
 | [PolyAI](https://poly.ai/company/careers/#open-roles) | - Remote, CA | 🔒 [2024 Software Engineer]() | Work authorization required; not able to support any sponsorship for this role. | 11/10/2023 |
@@ -302,13 +307,15 @@ The icons next to roles in the table below signify the following:
 
 [⬆️ Back to Top](#jobs)
 
-----
+---
 
 ## Good Luck
+
 We wish you all the best in your job search! 🌟
 Don't forget to stay positive and keep pushing towards your goals! 💪
 
 ### **Show your support!**
+
 <a href="https://github.com/ReaVNaiL/New-Grad-2024/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=ReaVNaiL/New-Grad-2024" />
 </a>
