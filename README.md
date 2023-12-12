@@ -60,7 +60,7 @@ The icons next to roles in the table below signify the following:
 
 | Name         | Location     | Roles                | Citizenship/Visa Requirements | Date Added <br> mm/dd/yyyy |
 | ------------ | ------------ | -------------------- | ----------------------------- | --------------------------- |
-| [Microsoft](https://careers.microsoft.com/v2/global/en/home.html)| Redmond, WA  | ✅ [Software Engineer: Opportunities for University Graduates, Redmond](https://jobs.careers.microsoft.com/global/en/job/1668163/Software-Engineer%3A-Opportunities-for-University-Graduates%2C-Redmond) | -- | 12/11/2023 |
+| [Microsoft](https://careers.microsoft.com/v2/global/en/home.html)| Redmond, WA  | ✅ [Software Engineer: Opportunities for University Graduates, Redmond](https://jobs.careers.microsoft.com/global/en/job/1668163/Software-Engineer%3A-Opportunities-for-University-Graduates%2C-Redmond) | - | 12/11/2023 |
 | [Dexcom](https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/San-Diego-California/SW-Development-Engineer-1_JR102808-2?src=LinkedIn)| San Diego, CA  | ✅ [New Grad Software Engineer II](https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/San-Diego-California/SW-Development-Engineer-1_JR102808-2?src=LinkedIn) | Requires work authorization | 12/06/2023 |
 | [Fluence](https://fluenceenergy.com/) | - Houston, TX | ✅ [Rotational Engineer- Early Career](https://jobs.lever.co/fluence/e7314912-3f06-4bfe-a641-fecb593fee53) | - | 12/06/2023 |
 | [Engtal]() | US, Remote | 🔒 [New College Grad Software Engineer ]()  | - | 11/25/2023 |
@@ -293,7 +293,6 @@ The icons next to roles in the table below signify the following:
 | [Google]() | Mountain View, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [Intuit]() | Mountain View, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [Lyft]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
-| [Microsoft]() | Redmond, WA | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [Reddit]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [Slack]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [Snap]() | Los Angeles, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
