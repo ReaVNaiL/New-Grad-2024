@@ -57,6 +57,7 @@ The icons next to roles in the table below signify the following:
 
 | Name         | Location     | Roles                | Citizenship/Visa Requirements | Date Added <br> mm/dd/yyyy |
 | ------------ | ------------ | -------------------- | ----------------------------- | --------------------------- |
+| [ServiceNow](https://careers.servicenow.com/careers) | - Santa Clara, CA | ✅ [UTG - Software Engineer - New College Grad](https://careers.servicenow.com/careers/jobs/743999952679393EXT?src=linkedin&lang=en-us&sid=2d92f286-613b-4daf-9dfa-6340ffbecf73) | - | 12/22/2023 |
 | [Arcus](https://www.arcus.co/) | - New York, NY | ✅ [Software Engineer, New Grad](https://www.arcus.co/careers/software-engineer-new-grad3) | - | 12/22/2023 |
 | [Teradyne](https://jobs.teradyne.com/) | - Buffalo Grove, IL <br> -Deer Park, IL | 🔒 [Software Engineer - New College Graduate](https://jobs.teradyne.com/Teradyne/job/Buffalo-Grove-Software-Engineer-New-College-Graduate-IL-60089/1075449000/) <br> ✅ [Software Engineer - New College Graduate](https://jobs.teradyne.com/Teradyne/job/Deer-Park-Software-Engineer-New-College-Graduate-IL/1108695300/)| - | 12/22/2023 |
 | [Fluence](https://fluenceenergy.com/) | - Houston, TX | ✅ [Rotational Engineer- Early Career](https://jobs.lever.co/fluence/e7314912-3f06-4bfe-a641-fecb593fee53) | - | 12/06/2023 |
