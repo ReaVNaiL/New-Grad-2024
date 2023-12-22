@@ -150,7 +150,6 @@ The icons next to roles in the table below signify the following:
 | [Motorola Solutions](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers) | - West Valley City, UT | 🔒 [Entry Level Software Engineer](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Entry-Level-Software-Engineer_R40642)| Background clearance required | 09/14/2023 |
 | [Netsmart](https://www.ntst.com/company/careers-and-culture) | - Overland Park, KS | 🔒 [Software Engineer- May Grad 2024 (Early Career)]()| Unable to Provide Sponsorship | 09/14/2023 |
 | [CGI](https://www.cgi.com/en/careers) | - Fairfax, VA <br> - Pittsburgh, PA | 🔒 [Software Developer - Entry Level]() <br> 🔒 [Software Developer - Entry Level]()| U.S. Citizenship required | 09/13/2023 |
-
 | [Quartus Engineering](https://quartus.hire.trakstar.com/) | - San Diego, CA | 🔒 [Software Engineer (Entry Level, New College Grad) - 236QE](https://quartus.hire.trakstar.com/jobs/fk0xbhs/) | US Citizen, Permanent Resident | 09/13/2023 |
 | [BNY Mellon](https://www.bnymellon.com/us/en/careers/students/technology-campus-program.html) | - Pittsburgh, PA <br> - New York, NY <br> - Lake Mary, FL | 🔒 [Analyst Program (Developer)]() <br> 🔒 [Analyst Program (Data Science)]() | Sponsorship not offered | 9/13/2023 |
 | [UT Austin](https://utaustin.wd1.myworkdayjobs.com/en-US/UTstaff) | Austin, TX | 🔒 [SWE for Department of Physics]() | - | 09/13/2023 |
