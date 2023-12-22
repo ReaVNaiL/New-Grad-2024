@@ -57,6 +57,7 @@ The icons next to roles in the table below signify the following:
 
 | Name         | Location     | Roles                | Citizenship/Visa Requirements | Date Added <br> mm/dd/yyyy |
 | ------------ | ------------ | -------------------- | ----------------------------- | --------------------------- |
+| [Teradyne](https://jobs.teradyne.com/) | - Buffalo Grove, IL <br> -Deer Park, IL | 🔒 [Software Engineer - New College Graduate](https://jobs.teradyne.com/Teradyne/job/Buffalo-Grove-Software-Engineer-New-College-Graduate-IL-60089/1075449000/) <br> ✅ [Software Engineer - New College Graduate](https://jobs.teradyne.com/Teradyne/job/Deer-Park-Software-Engineer-New-College-Graduate-IL/1108695300/)| - | 12/22/2023 |
 | [Fluence](https://fluenceenergy.com/) | - Houston, TX | ✅ [Rotational Engineer- Early Career](https://jobs.lever.co/fluence/e7314912-3f06-4bfe-a641-fecb593fee53) | - | 12/06/2023 |
 | [NAVAN](https://navan.com/) | - Palo Alto, CA | 🔒 [New College Grad Software Engineer - Frontend]() | - | 11/21/2023 |
 | [Chalk](https://boards.greenhouse.io/chalkinc) | - San Francisco, CA | 🔒 [New Grad - Software Engineer]() | - | 11/16/2023 |
@@ -145,7 +146,7 @@ The icons next to roles in the table below signify the following:
 | [Motorola Solutions](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers) | - West Valley City, UT | 🔒 [Entry Level Software Engineer](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Entry-Level-Software-Engineer_R40642)| Background clearance required | 09/14/2023 |
 | [Netsmart](https://www.ntst.com/company/careers-and-culture) | - Overland Park, KS | 🔒 [Software Engineer- May Grad 2024 (Early Career)]()| Unable to Provide Sponsorship | 09/14/2023 |
 | [CGI](https://www.cgi.com/en/careers) | - Fairfax, VA <br> - Pittsburgh, PA | 🔒 [Software Developer - Entry Level]() <br> 🔒 [Software Developer - Entry Level]()| U.S. Citizenship required | 09/13/2023 |
-| [Teradyne](https://jobs.teradyne.com/) | - Buffalo Grove, IL | 🔒 [Software Engineer - New College Graduate](https://jobs.teradyne.com/Teradyne/job/Buffalo-Grove-Software-Engineer-New-College-Graduate-IL-60089/1075449000/) | - | 09/13/2023 |
+
 | [Quartus Engineering](https://quartus.hire.trakstar.com/) | - San Diego, CA | 🔒 [Software Engineer (Entry Level, New College Grad) - 236QE](https://quartus.hire.trakstar.com/jobs/fk0xbhs/) | US Citizen, Permanent Resident | 09/13/2023 |
 | [BNY Mellon](https://www.bnymellon.com/us/en/careers/students/technology-campus-program.html) | - Pittsburgh, PA <br> - New York, NY <br> - Lake Mary, FL | 🔒 [Analyst Program (Developer)]() <br> 🔒 [Analyst Program (Data Science)]() | Sponsorship not offered | 9/13/2023 |
 | [UT Austin](https://utaustin.wd1.myworkdayjobs.com/en-US/UTstaff) | Austin, TX | 🔒 [SWE for Department of Physics]() | - | 09/13/2023 |
@@ -156,7 +157,6 @@ The icons next to roles in the table below signify the following:
 | [NXP](https://nxp.wd3.myworkdayjobs.com/careers) | - Austin, TX | 🔒 [Entry Level Data Science - December 2023 and May 2024 Grads]() <br> 🔒 [Entry Level Systems & Applications Engineers - December 2023 and May 2024 Graduates]() <br>| - | 09/12/2023 |
 | [First Mode](https://firstmode.com/join/) | - Seattle, WA | 🔒 [Software Engineer- Early Career](https://firstmode.com/job-details/?gh_jid=4315313005) <br> [Systems Engineer - Early Career](https://firstmode.com/job-details/?gh_jid=4315329005) <br> | - | 09/12/2023 |
 | [Pfizer](https://www.pfizer.com/about/careers) | - New York, NY <br> - Collegeville, PA <br> - Tampa, FL <br> - Peapack, NJ <br> - Groton, CT | 🔒 [Digital Rotational Program - Associate]()| Unable to Provide Sponsorship | 09/12/2023 |
-| [ServiceNow](https://careers.servicenow.com/careers) | - Santa Clara, CA | 🔒 [UTG - Software Engineer - New College Grad]() | - | 09/11/2023 |
 | [Aviatrix](https://aviatrix.com/careers/) | - Champaign, IL | 🔒 [Software Engineer - New Grad](https://aviatrix.com/careers/?gh_jid=4316168005)| - | 09/11/2023 |
 | [Acrisure Innovation](https://www.acrisure.com/careers) | - Austin, TX | 🔒 [Software Engineer New College Graduate](https://boards.greenhouse.io/acrisureinnovation/jobs/6927605002/)| Unable to Provide Sponsorship | 09/11/2023 |
 | [Vanta](https://jobs.ashbyhq.com/vanta) | - New York, NY <br> - San Francisco, CA | 🔒 [Software Engineer, New Grad]()| - | 09/11/2023 |
