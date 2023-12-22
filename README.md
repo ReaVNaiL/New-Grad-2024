@@ -57,6 +57,7 @@ The icons next to roles in the table below signify the following:
 
 | Name         | Location     | Roles                | Citizenship/Visa Requirements | Date Added <br> mm/dd/yyyy |
 | ------------ | ------------ | -------------------- | ----------------------------- | --------------------------- |
+| [Reperio Human Capital](https://www.reperiohumancapital.com/) | - Raleigh, NC | ✅ [Junior Software Engineer (Recent Grad)](https://www.reperiohumancapital.com/job/junior-software-engineer-recent-grad) | - | 12/22/2023 |
 | [Nutanix](http://www.nutanix.com/) | - San Jose, CA | ✅ [Software Engineer 1 / Early Career](https://jobs.jobvite.com/careers/nutanix/job/olIaqfwn?__jvst=ER%20-%20Employee%20Referral&__jvsd=skiQghwu&__jvsc=email&mid=nmCOPpxw) | - | 12/22/2023 |
 | [ServiceNow](https://careers.servicenow.com/careers) | - Santa Clara, CA | ✅ [UTG - Software Engineer - New College Grad](https://careers.servicenow.com/careers/jobs/743999952679393EXT?src=linkedin&lang=en-us&sid=2d92f286-613b-4daf-9dfa-6340ffbecf73) | - | 12/22/2023 |
 | [Arcus](https://www.arcus.co/) | - New York, NY | ✅ [Software Engineer, New Grad](https://www.arcus.co/careers/software-engineer-new-grad3) | - | 12/22/2023 |
