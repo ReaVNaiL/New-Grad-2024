@@ -10,42 +10,45 @@ This is a collection of full-time job openings for new grads in 2024 in the fiel
 > 🌎 **Please note that this repository only lists job openings in the `United States`, `Remote` and `Canada`** 🌎
 
 ## Table of Contents
+
 1. [Find The Jobs 🔽](README.md#jobs)
 2. [Helpful Resources 🎯](README.md#resources)
 3. [How to Contribute 💬](How_to_contribute.md)
-
 
 ## Resources
 
 If you are looking for more guidance on how to prepare for technical interviews, you may find these resources helpful:
 
 - **[Interview Guide](https://interviewguide.dev/)** by **[Nick Scialli](https://twitter.com/nas5w)**:
-  * A comprehensive website that covers various topics such as data structures, algorithms, system design, behavioral questions, and more. It also provides links to other useful resources and practice platforms.
+  - A comprehensive website that covers various topics such as data structures, algorithms, system design, behavioral questions, and more. It also provides links to other useful resources and practice platforms.
 - **[Neetcode.io](https://neetcode.io/)**:
-  * A website that offers courses, lessons, and practice problems for coding interviews. Highly recommended when doing the grind! An updated version of blind 75 is updated there with 150 problems total.
+  - A website that offers courses, lessons, and practice problems for coding interviews. Highly recommended when doing the grind! An updated version of blind 75 is updated there with 150 problems total.
 - **[Big-O Complexity Cheat Sheet](https://github.com/ReaVNaiL/big-o-complexity-cheat-sheet)**:
-  * GitHub repository that contains a PDF file with a table of common time and space complexities for various operations and algorithms.
+  - GitHub repository that contains a PDF file with a table of common time and space complexities for various operations and algorithms.
 - **[OA and Interviews](https://github.com/Leader-board/OA-and-Interviews/blob/main/Online%20Assessments.md)**:
-  * Contains a comprehesion guide for patterns of online assessments and interview questions from various companies such as Amazon, Google, Facebook, Microsoft, and more.
+  - Contains a comprehesion guide for patterns of online assessments and interview questions from various companies such as Amazon, Google, Facebook, Microsoft, and more.
 - **[QuantGuide](https://quantguide.io)**:
-  * A platform that offers quant interview questions in probability theory, statistical inference, and brainteasers (think LeetCode for quant). Highly recommended for those applying to QR/QT roles at trading firms, prop shops, or HFTs.
+  - A platform that offers quant interview questions in probability theory, statistical inference, and brainteasers (think LeetCode for quant). Highly recommended for those applying to QR/QT roles at trading firms, prop shops, or HFTs.
 - **[Probability & Markets Guide by Jane Street](https://www.janestreet.com/static/pdfs/trading-interview.pdf?utm_source=web&utm_medium=pdf&utm_campaign=probability_markets_guide)**:
-  * A PDF guide of general topics to know for interviews at quant trading firms like Jane Street. Great for getting a baseline introduction to the topics tested in quant interviews.
+  - A PDF guide of general topics to know for interviews at quant trading firms like Jane Street. Great for getting a baseline introduction to the topics tested in quant interviews.
 
 ## For International Students
 
 - **[h1bdata.info](https://www.h1bdata.info)**
-  * Check if a company has sponsored for H1B candidates in the past.
+  - Check if a company has sponsored for H1B candidates in the past.
 - **[e-verify.gov](https://www.e-verify.gov)**
-  * Check if a company is e-verified (i.e, allows for F-1 OPT STEM extension of 24 months).
+  - Check if a company is e-verified (i.e, allows for F-1 OPT STEM extension of 24 months).
 
 Support [Nick Scialli](https://github.com/nas5w) directly on his repo! [Interview Guide Repo](https://github.com/nas5w/interview-guide)
 
 ## Discord
+
 Level up your career. Join the 75,000+ member community:
+
 - **[CSCareers.Dev Discord](https://discord.com/invite/cscareers)**
 
 ## Roles Status:
+
 The icons next to roles in the table below signify the following:
 
 - ✅: Available / Open.
@@ -53,7 +56,7 @@ The icons next to roles in the table below signify the following:
 
 ## Jobs
 
-----
+---
 
 | Name         | Location     | Roles                | Citizenship/Visa Requirements | Date Added <br> mm/dd/yyyy |
 | ------------ | ------------ | -------------------- | ----------------------------- | --------------------------- |
@@ -62,7 +65,12 @@ The icons next to roles in the table below signify the following:
 | [ServiceNow](https://careers.servicenow.com/careers) | - Santa Clara, CA | ✅ [UTG - Software Engineer - New College Grad](https://careers.servicenow.com/careers/jobs/743999952679393EXT?src=linkedin&lang=en-us&sid=2d92f286-613b-4daf-9dfa-6340ffbecf73) | - | 12/22/2023 |
 | [Arcus](https://www.arcus.co/) | - New York, NY | ✅ [Software Engineer, New Grad](https://www.arcus.co/careers/software-engineer-new-grad3) | - | 12/22/2023 |
 | [Teradyne](https://jobs.teradyne.com/) | - Buffalo Grove, IL <br> -Deer Park, IL | 🔒 [Software Engineer - New College Graduate](https://jobs.teradyne.com/Teradyne/job/Buffalo-Grove-Software-Engineer-New-College-Graduate-IL-60089/1075449000/) <br> ✅ [Software Engineer - New College Graduate](https://jobs.teradyne.com/Teradyne/job/Deer-Park-Software-Engineer-New-College-Graduate-IL/1108695300/)| - | 12/22/2023 |
-| [Fluence](https://fluenceenergy.com/) | - Houston, TX | ✅ [Rotational Engineer- Early Career](https://jobs.lever.co/fluence/e7314912-3f06-4bfe-a641-fecb593fee53) | - | 12/06/2023 |
+| [Marshall Wace](https://www.mwam.com/join-us/) | - New York, NY | ✅ [New York Technology Graduate Programme](https://www.mwam.com/news/graduate/technology-graduate-programme-nyc/) | - | 12/18/2023 |
+| [Neuralink](https://neuralink.com/careers/) | - Fremont, CA | ✅ [Software Engineer New Grad](https://boards.greenhouse.io/neuralink/jobs/5832835003?gh_jid=5832835003) | - | 12/18/2023 |
+| [Microsoft](https://careers.microsoft.com/v2/global/en/home.html)| - Redmond, WA  | ✅ [Software Engineer: Opportunities for University Graduates, Redmond](https://jobs.careers.microsoft.com/global/en/job/1668163/Software-Engineer%3A-Opportunities-for-University-Graduates%2C-Redmond) | - | 12/11/2023 |
+| [Dexcom](https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/San-Diego-California/SW-Development-Engineer-1_JR102808-2?src=LinkedIn)| - San Diego, CA  | ✅ [New Grad Software Engineer II](https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/San-Diego-California/SW-Development-Engineer-1_JR102808-2?src=LinkedIn) | Requires work authorization | 12/06/2023 |
+| [Fluence](https://fluenceenergy.com/) | - Houston, TX | 🔒 [Rotational Engineer- Early Career](https://jobs.lever.co/fluence/e7314912-3f06-4bfe-a641-fecb593fee53) | - | 12/06/2023 |
+| [Engtal]() | - US, Remote | 🔒 [New College Grad Software Engineer ]()  | - | 11/25/2023 |
 | [NAVAN](https://navan.com/) | - Palo Alto, CA | 🔒 [New College Grad Software Engineer - Frontend]() | - | 11/21/2023 |
 | [Chalk](https://boards.greenhouse.io/chalkinc) | - San Francisco, CA | 🔒 [New Grad - Software Engineer]() | - | 11/16/2023 |
 | [PolyAI](https://poly.ai/company/careers/#open-roles) | - Remote, CA | 🔒 [2024 Software Engineer]() | Work authorization required; not able to support any sponsorship for this role. | 11/10/2023 |
@@ -78,7 +86,7 @@ The icons next to roles in the table below signify the following:
 | [Qumulo](https://qumulo.com/careers/) | - Seattle, WA | ✅ [Software Development Engineer: Entry-Level, 2024](https://boards.greenhouse.io/qumulo/jobs/5427091) | - | 10/20/2023 |
 | [Relx](https://relx.wd3.myworkdayjobs.com/relx) | - Alpharetta, GA | 🔒 [Software Engineer I](https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Alpharetta-GA/Software-Engineer-I_R64836-2/) | - | 10/19/2023 |
 | [Palo Alto Networks](https://app.ripplematch.com/company/palo-alto-networks/) | - Santa Clara, CA <br> - Plano, TX | ✅ [Software Engineer (Masters)](https://app.ripplematch.com/v2/public/job/5cc90409/apply?from_page=company_branded_page) <br> ✅ [Software Engineer (Bachelors)](https://app.ripplematch.com/v2/public/job/5dea7273/details?from_page=company_branded_page) <br><br> 🔒 [Software Engineer (PhD)]() <br> 🔒 [Systems Engineer Academy]() <br> 🔒 [Product Management Academy]() | "To apply, you must have the authorization to work within the United States" | 10/17/2023 |
-| [Crusoe](https://jobs.ashbyhq.com/Crusoe) | - San Francisco, CA | ✅ [University Software Engineer - 2024](https://jobs.ashbyhq.com/Crusoe/4a211172-e91c-406d-adcf-80cb74eece8d) | - | 10/15/2023 |
+| [Crusoe](https://jobs.ashbyhq.com/Crusoe) | - San Francisco, CA | 🔒 [University Software Engineer - 2024](https://jobs.ashbyhq.com/Crusoe/4a211172-e91c-406d-adcf-80cb74eece8d) | - | 10/15/2023 |
 | [Loop](https://boards.greenhouse.io/loop) | - San Francisco, CA <br> - Chicago, IL | ✅ [Software Engineer - New Grad](https://boards.greenhouse.io/loop/jobs/4998105004?gh_src=80bff6f24us) | - | 10/15/2023 |
 | [Figma](https://www.figma.com/) | - San Francisco, CA <br> - New York, NY | ✅ [Data Science, Early Career (2024)](https://app.ripplematch.com/v2/public/job/0b42900f/details?utm_source=Github&utm_medium=organic_social&utm_campaign=growth_github&utm_content=mt_repo&utm_term=null) <br><br> 🔒 [Software Engineer - Early Career (2024)]() <br> 🔒 [Associate Product Manager, Early Career (2024)](https://boards.greenhouse.io/figma/jobs/4970616004)  | - | 10/11/2023 |
 | [Zoom](https://careers.zoom.us/home) | - Bay Area, CA | ✅ [AI Machine Learning Engineer - New Grad](https://zoom.wd5.myworkdayjobs.com/en-US/Zoom/job/AI-Machine-Learning-Engineer---New-Grad_R12437-1) | - | 10/10/2023 |
@@ -90,7 +98,7 @@ The icons next to roles in the table below signify the following:
 | [Capco](https://boards.greenhouse.io/capco) | - Dallas, TX <br> - Houston, TX | 🔒 [Associate Talent Program, Dallas]() <br> 🔒 [Associate Talent Program, Houston]() | US citizens or permanent residents ONLY | 10/09/2023 |
 | [Stryker](https://careers.stryker.com/) | - Portage, MI | 🔒 [Design Engineer, Software – RISE]()| No sponsorship | 10/09/2023 |
 | [Prompt EMR](https://promptemr.com/company/careers/) | - Remote | 🔒 [Junior Software Engineer]()| - | 10/09/2023 |
-| [Vontive](https://apply.workable.com/vontive/) | - San Francisco, CA | ✅ [New Grad Software Engineer ](https://apply.workable.com/vontive/j/A66EF3C988/)| - | 10/08/2023 |
+| [Vontive](https://apply.workable.com/vontive/) | - San Francisco, CA | 🔒 [New Grad Software Engineer ](https://apply.workable.com/vontive/j/A66EF3C988/)| - | 10/08/2023 |
 | [Wayfair](https://www.aboutwayfair.com/careers) | - Boston, MA | ✅ [Software Engineer I - Summer 2024](https://www.wayfair.com/careers/job/software-engineer-i/6945942002) | - | 10/08/2023 |
 | [Highmark Health](https://careers.highmarkhealth.org/) | - Remote, US | 🔒 [ETDP Associate - Project Management](https://careers.highmarkhealth.org/explore-jobs/job/j232057-etdp-associate-project-management/) <br> 🔒 [ETDP Associate - Software Engineering](https://careers.highmarkhealth.org/explore-jobs/job/j232058-etdp-associate-software-engineering/) | - | 10/06/2023 |
 | [Munich RE]() | - New York, NY | 🔒 [Software/Data Engineer, NA Integrated Analytics (2024 New Grad - New York) ]() | - | 10/05/2023 |
@@ -126,7 +134,7 @@ The icons next to roles in the table below signify the following:
 | [Johns Hopkins Applied Phyiscs Laboratory](https://careers.jhuapl.edu/jobs) | - Laurel, MD | ✅ [2024 Graduate – Systems Engineer – Weapons Systems Engineering)](https://careers.jhuapl.edu/jobs/53921?lang=en-us) <br>  ✅ [2024 Graduate - Algorithm Engineer, Electromagnetic Systems)](https://careers.jhuapl.edu/jobs/53912?lang=en-us) <br><br> 🔒 [2024 Graduate - Software Developer - Electromagnetic Sensing]() <br> 🔒 [2024 Graduate - Engineer/Scientist - Space Algorithms and Technologies)]() <br>  | Security clearance required | 09/24/2023 |
 | [Georgia Tech Research Institute](https://careers.gtri.gatech.edu/en-us) | - Warner Robins, GA | ✅ [Software Engineer - ELSYS](https://careers.gtri.gatech.edu/en-us/job/498866/software-engineer-elsys-open-rank-on-site-warner-robins-ga)  | U.S. Citizenship is required | 09/24/2023 |
 | [CarMax](https://careers.carmax.com/us/en) | - Richmond, VA | 🔒 [Technology Rotation Progam]()  | Applicants must be currently authorized to work in the United States on a full-time basis | 09/24/2023 |
-| [National Security Agency (NSA)](https://apply.intelligencecareers.gov/home) |  - Denver, CO <br> - Fort Gordon, GA <br> - Fort Meade, MD <br> - Fort Meade, MD <br> - San Antonio TX  | ✅ [Software Engineer - Entry to Expert Level](https://apply.intelligencecareers.gov/job-description/1216217)  | U.S. Citizenship is required <br> Security Clearance Required | 09/24/2023 |
+| [National Security Agency (NSA)](https://apply.intelligencecareers.gov/home) |  - Denver, CO <br> - Fort Gordon, GA <br> - Fort Meade, MD <br> - Fort Meade, MD <br> - San Antonio TX  | 🔒 [Software Engineer - Entry to Expert Level]()  | U.S. Citizenship is required <br> Security Clearance Required | 09/24/2023 |
 | [G-Research](https://www.gresearch.com/join-us/) | - Dallas, TX | 🔒 [Graduate Software Engineer]()  |  | 09/23/2023 |
 | [Westinghouse Electric](https://careers.westinghousenuclear.com/) | - Cranberry Township, PA | 🔒 [Software Engineers - 2024 Graduates](https://careers.westinghousenuclear.com/job/Cranberry-Township-Software-Engineers-2024-Graduates-PA-16066/1073787900/)  | - | 09/23/2023 |
 | [RVO Health](https://boards.greenhouse.io/rvohealth) | - Charlotte, NC | 🔒 [Software Engineer - Early Career]()  | Sponsorship not available | 09/23/2023 |
@@ -290,7 +298,6 @@ The icons next to roles in the table below signify the following:
 | [Google]() | Mountain View, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [Intuit]() | Mountain View, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [Lyft]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
-| [Microsoft]() | Redmond, WA | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [Reddit]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [Slack]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [Snap]() | Los Angeles, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
@@ -305,13 +312,15 @@ The icons next to roles in the table below signify the following:
 
 [⬆️ Back to Top](#jobs)
 
-----
+---
 
 ## Good Luck
+
 We wish you all the best in your job search! 🌟
 Don't forget to stay positive and keep pushing towards your goals! 💪
 
 ### **Show your support!**
+
 <a href="https://github.com/ReaVNaiL/New-Grad-2024/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=ReaVNaiL/New-Grad-2024" />
 </a>
