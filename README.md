@@ -60,11 +60,11 @@ The icons next to roles in the table below signify the following:
 
 | Name         | Location     | Roles                | Citizenship/Visa Requirements | Date Added <br> mm/dd/yyyy |
 | ------------ | ------------ | -------------------- | ----------------------------- | --------------------------- |
-| [Reperio Human Capital](https://www.reperiohumancapital.com/) | - Raleigh, NC | ✅ [Junior Software Engineer (Recent Grad)](https://www.reperiohumancapital.com/job/junior-software-engineer-recent-grad) | - | 12/22/2023 |
+| [Reperio Human Capital](https://www.reperiohumancapital.com/) | - Raleigh, NC | ✅ [Junior Software Engineer (Recent Grad)](https://www.reperiohumancapital.com/job/junior-software-engineer-recent-grad) | US Citizens and Green Card holders only. | 12/22/2023 |
 | [Nutanix](http://www.nutanix.com/) | - San Jose, CA | ✅ [Software Engineer 1 / Early Career](https://jobs.jobvite.com/careers/nutanix/job/olIaqfwn?__jvst=ER%20-%20Employee%20Referral&__jvsd=skiQghwu&__jvsc=email&mid=nmCOPpxw) | - | 12/22/2023 |
 | [ServiceNow](https://careers.servicenow.com/careers) | - Santa Clara, CA | ✅ [UTG - Software Engineer - New College Grad](https://careers.servicenow.com/careers/jobs/743999952679393EXT?src=linkedin&lang=en-us&sid=2d92f286-613b-4daf-9dfa-6340ffbecf73) | - | 12/22/2023 |
 | [Arcus](https://www.arcus.co/) | - New York, NY | 🔒 [Software Engineer, New Grad](https://www.arcus.co/careers/software-engineer-new-grad3) | - | 12/22/2023 |
-| [Teradyne](https://jobs.teradyne.com/) | - Deer Park, IL | ✅ [Software Engineer - New College Graduate](https://jobs.teradyne.com/Teradyne/job/Deer-Park-Software-Engineer-New-College-Graduate-IL/1108695300/)| - | 12/22/2023 |
+| [Teradyne](https://jobs.teradyne.com/) | - Deer Park, IL | 🔒 [Software Engineer - New College Graduate](https://jobs.teradyne.com/Teradyne/job/Deer-Park-Software-Engineer-New-College-Graduate-IL/1108695300/)| - | 12/22/2023 |
 | [Marshall Wace](https://www.mwam.com/join-us/) | - New York, NY | ✅ [New York Technology Graduate Programme](https://www.mwam.com/news/graduate/technology-graduate-programme-nyc/) | - | 12/18/2023 |
 | [Neuralink](https://neuralink.com/careers/) | - Fremont, CA | ✅ [Software Engineer New Grad](https://boards.greenhouse.io/neuralink/jobs/5832835003?gh_jid=5832835003) | - | 12/18/2023 |
 | [Microsoft](https://careers.microsoft.com/v2/global/en/home.html)| - Redmond, WA  | ✅ [Software Engineer: Opportunities for University Graduates, Redmond](https://jobs.careers.microsoft.com/global/en/job/1668163/Software-Engineer%3A-Opportunities-for-University-Graduates%2C-Redmond) | - | 12/11/2023 |
