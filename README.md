@@ -60,6 +60,7 @@ The icons next to roles in the table below signify the following:
 
 | Name         | Location     | Roles                | Citizenship/Visa Requirements | Date Added <br> mm/dd/yyyy |
 | ------------ | ------------ | -------------------- | ----------------------------- | --------------------------- |
+| [DataDog](https://app.ripplematch.com/company/datadog/) | - Boston, MA <br> - New York, NY | ✅ [Software Engineer - Early Career](https://app.ripplematch.com/v2/public/job/15ed8a45/details?from_page=company_branded_page) | - | 01/05/2024 | 
 | [PayPal](https://paypal.eightfold.ai/careers) | - Chicago, IL <br> - Austin, TX | ✅ [Software Engineer - Recent Graduate](https://paypal.eightfold.ai/careers?query=R0105647&pid=274895293425&domain=paypal.com&sort_by=relevance) | - | 01/04/2024 |
 | [Reperio Human Capital](https://www.reperiohumancapital.com/) | - Raleigh, NC | ✅ [Junior Software Engineer (Recent Grad)](https://www.reperiohumancapital.com/job/junior-software-engineer-recent-grad) | US Citizens and Green Card holders only. | 12/22/2023 |
 | [Nutanix](http://www.nutanix.com/) | - San Jose, CA | ✅ [Software Engineer 1 / Early Career](https://nutanix.eightfold.ai/careers/job/19488834-software-engineer-1-early-career-san-jose-california-united-states?domain=nutanix.com) | - | 12/22/2023 |
