@@ -60,6 +60,7 @@ The icons next to roles in the table below signify the following:
 
 | Name         | Location     | Roles                | Citizenship/Visa Requirements | Date Added <br> mm/dd/yyyy |
 | ------------ | ------------ | -------------------- | ----------------------------- | --------------------------- |
+| [Akamai](https://app.ripplematch.com/v2/public/job/44396eed/details?utm_source=Github&utm_medium=organic_social&utm_campaign=growth_github&utm_content=role&utm_term=null) | - Cambridge, MA <br> - Fort Lauderdale, FL <br> - Remote | ✅ [Associate Security Architect](https://app.ripplematch.com/v2/public/job/44396eed/details?utm_source=Github&utm_medium=organic_social&utm_campaign=growth_github&utm_content=role&utm_term=null) | - | 01/12/2024 | 
 | [DataDog](https://app.ripplematch.com/company/datadog/) | - Boston, MA <br> - New York, NY | ✅ [Software Engineer - Early Career](https://app.ripplematch.com/v2/public/job/15ed8a45/details?from_page=company_branded_page) | - | 01/05/2024 | 
 | [PayPal](https://paypal.eightfold.ai/careers) | - Chicago, IL <br> - Austin, TX | 🔒 [Software Engineer - Recent Graduate]() | - | 01/04/2024 |
 | [Reperio Human Capital](https://www.reperiohumancapital.com/) | - Raleigh, NC | ✅ [Junior Software Engineer (Recent Grad)](https://www.reperiohumancapital.com/job/junior-software-engineer-recent-grad) | US Citizens and Green Card holders only. | 12/22/2023 |
