@@ -60,7 +60,7 @@ The icons next to roles in the table below signify the following:
 
 | Name         | Location     | Roles                | Citizenship/Visa Requirements | Date Added <br> mm/dd/yyyy |
 | ------------ | ------------ | -------------------- | ----------------------------- | --------------------------- |
-| [Snorkel AI](https://snorkel.ai/) | - Hybrid / Redwood City, CA | ✅ [Software Engineer — Recent University Graduate](https://boards.greenhouse.io/snorkelai/jobs/5059862004) | - | 01/21/2024 |
+| [Snorkel AI](https://snorkel.ai/) | - Hybrid / Redwood City, CA | ✅ [Software Engineer - Recent University Graduate](https://boards.greenhouse.io/snorkelai/jobs/5059862004) | - | 01/21/2024 |
 | [Wise](https://wise.com/) | - Austin, TX | ✅ [Graduate Software Engineer](https://boards.greenhouse.io/transferwise/jobs/5621223) | Work authorization required | 01/17/2024 |
 | [Snap](https://snap.com/en-US) | - Los Angeles, CA <br> - Seattle, WA <br> - Palo Alto, CA <br> - New York, NY | ✅ [Software Engineer - Snap Up Apprentice](https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Los-Angeles-California/XMLNAME-2024-Software-Engineer--Snap-Up-Apprentice_R0033740) | - | 01/16/2024 |
 | [Appian](https://appian.com/) | McLean, VA | ✅ [Associate Solution Engineer](https://app.ripplematch.com/v2/public/job/bb2e021e/details?utm_source=Github&utm_medium=organic_social&utm_campaign=growth_github&utm_content=role&utm_term=null) <br> ✅ [Technology Strategy Engineer](https://app.ripplematch.com/v2/public/job/50ea49a2/details?utm_source=Github&utm_medium=organic_social&utm_campaign=growth_github&utm_content=role&utm_term=null) | - | 01/16/2024 |
