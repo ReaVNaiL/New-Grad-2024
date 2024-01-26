@@ -62,6 +62,7 @@ The icons next to roles in the table below signify the following:
 
 | Name         | Location     | Roles                | Citizenship/Visa Requirements | Date Added <br> mm/dd/yyyy |
 | ------------ | ------------ | -------------------- | ----------------------------- | --------------------------- |
+| [Scale AI/RemoTasks](https://forms.gle/VUn3h89R8LZcZvFq6) | - United States, Remote  | ✅ [QA Engineer - Contract Role ($55/hr)](https://forms.gle/VUn3h89R8LZcZvFq6)| US Citizen, Permanent Resident. | 01/25/2024 |
 | [Snorkel AI](https://snorkel.ai/) | - Hybrid / Redwood City, CA | 🔒 [Software Engineer - Recent University Graduate] | - | 01/21/2024 |
 | [Wise](https://wise.com/) | - Austin, TX | ✅ [Graduate Software Engineer](https://boards.greenhouse.io/transferwise/jobs/5621223) | Work authorization required | 01/17/2024 |
 | [Snap](https://snap.com/en-US) | - Los Angeles, CA <br> - Seattle, WA <br> - Palo Alto, CA <br> - New York, NY | ✅ [Software Engineer - Snap Up Apprentice](https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Los-Angeles-California/XMLNAME-2024-Software-Engineer--Snap-Up-Apprentice_R0033740) | - | 01/16/2024 |
