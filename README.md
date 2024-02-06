@@ -62,6 +62,7 @@ The icons next to roles in the table below signify the following:
 
 | Name         | Location     | Roles                | Citizenship/Visa Requirements | Date Added <br> mm/dd/yyyy |
 | ------------ | ------------ | -------------------- | ----------------------------- | --------------------------- |
+| [Warner Bros. Discovery](https://wbd.com/) | - Burbank, CA | ✅ [Software Engineer I](https://careers.wbd.com/global/en/job/R000077590/Software-Engineer-I) | - | 02/05/2024 
 | [Galatea Associates](https://jobs.lever.co/galatea-associates/ea475dfe-2e0b-4e6b-8dd7-88e4e85f9dcb?lever-origin=applied&lever-source%5B%5D=GitHub) | - Somerville, MA <br> - Durham, NC <br> - St. Petersburg, FL | ✅ [Financial Software Engineer](https://jobs.lever.co/galatea-associates/ea475dfe-2e0b-4e6b-8dd7-88e4e85f9dcb?lever-origin=applied&lever-source%5B%5D=GitHub) | No longer accepting applications. | 2/01/2024 |
 | [Scale AI/RemoTasks](https://forms.gle/VUn3h89R8LZcZvFq6) | - United States, Remote  | ✅ [QA Engineer - Contract Role ($55/hr)](https://forms.gle/VUn3h89R8LZcZvFq6)| US Citizen, Permanent Resident. | 01/25/2024 |
 | [Snorkel AI](https://snorkel.ai/) | - Hybrid / Redwood City, CA | 🔒 [Software Engineer - Recent University Graduate]() | - | 01/21/2024 |
