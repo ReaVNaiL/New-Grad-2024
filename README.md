@@ -62,7 +62,7 @@ The icons next to roles in the table below signify the following:
 
 | Name         | Location     | Roles                | Citizenship/Visa Requirements | Date Added <br> mm/dd/yyyy |
 | ------------ | ------------ | -------------------- | ----------------------------- | --------------------------- |
-| [AT&T](https://www.att.com/) | - Dallas, TX | ✅ [Technology Development Program](https://app.ripplematch.com/v2/public/job/625066f3/details?utm_source=Github&utm_medium=organic_social&utm_campaign=growth_github&utm_content=role&utm_term=null) | - | 02/12/2024 
+| [AT&T](https://www.att.com/) | - Dallas, TX | ✅ [Technology Development Program](https://app.ripplematch.com/v2/public/job/625066f3/details?utm_source=Github&utm_medium=organic_social&utm_campaign=growth_github&utm_content=role&utm_term=null) | US Citizen or Permanent Resident | 02/12/2024 
 | [Warner Bros. Discovery](https://wbd.com/) | - Burbank, CA | 🔒 [Software Engineer I]() | - | 02/05/2024 
 | [Galatea Associates](https://jobs.lever.co/galatea-associates/ea475dfe-2e0b-4e6b-8dd7-88e4e85f9dcb?lever-origin=applied&lever-source%5B%5D=GitHub) | - Somerville, MA <br> - Durham, NC <br> - St. Petersburg, FL | ✅ [Financial Software Engineer](https://jobs.lever.co/galatea-associates/ea475dfe-2e0b-4e6b-8dd7-88e4e85f9dcb?lever-origin=applied&lever-source%5B%5D=GitHub) | No longer accepting applications. | 2/01/2024 |
 | [Scale AI/RemoTasks](https://forms.gle/VUn3h89R8LZcZvFq6) | - United States, Remote  | ✅ [QA Engineer - Contract Role ($55/hr)](https://forms.gle/VUn3h89R8LZcZvFq6)| US Citizen, Permanent Resident. | 01/25/2024 |
