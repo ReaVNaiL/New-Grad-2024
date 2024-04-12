@@ -62,6 +62,7 @@ The icons next to roles in the table below signify the following:
 
 | Name         | Location     | Roles                | Citizenship/Visa Requirements | Date Added <br> mm/dd/yyyy |
 | ------------ | ------------ | -------------------- | ----------------------------- | --------------------------- | 
+| [M7 Health](https://www.m7health.com/) | - New York, NY | ✅ [Software Engineer](https://m7health.notion.site/Software-Engineer-M7-Health-0f261f774c794142ab6b7bc4ba979c9d) | - | 04/10/2024 |
 | [IXL Learning](https://www.ixl.com) | - San Mateo, CA <br> - Raleigh, NC | ✅ [Software Engineer, New Grad (San Mateo, CA)](https://www.ixl.com/company/careers?gh_jid=7295051002) <br> ✅ [Software Engineer, New Grad (Raleigh, NC)](https://www.ixl.com/company/careers?gh_jid=7294926002)| - | 03/27/2024 | 
 | [NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite?timeType=5509c0b5959810ac0029943377d47364&workerSubType=ab40a98049581037a3ada55b087049b7) | -Santa Clara, CA | 🔒 [Firmware Engineer, Memory Subsystem – New College Grad 2024](https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Firmware-Engineer--Memory-Subsystem---New-College-Grad-2024_JR1980397?) | - | 03/18/2024 | 
 | [USAA](https://www.usaajobs.com/) | -San Antonio, Texas; Plano, Texas | 🔒 [Software Engineer - Early Careers](https://www.usaajobs.com/job/san-antonio/software-engineer-early-careers/1207/62495472128/apply?source=applicant_source-3-200) | - | 03/12/2024 | 
