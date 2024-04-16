@@ -311,6 +311,7 @@ The icons next to roles in the table below signify the following:
 | [GE Aeroespace]() | - Dayton, OH <br> - Grand Rapids, MI <br> - Clearwater, FL |  🔒 [Tech \| Software Development]() | U.S. Citizen or Permanent Resident Required. | 06/07/2023 |
 | [PerPay](https://boards.greenhouse.io/perpay/jobs/4034578007) | Philadelphia, PA | 🔒 [Software Engineer (SWE)]()  | - | 05/23/2023 |
 | [BlackRock](https://careers.blackrock.com/early-careers/americas/?2023-2024#tab-id-13) | - Atlanta, GA <br> - San Francisco, CA <br> - New York, NY | 🔒 [SWE, PM, Quant]() <br>- [See Desc PDF](https://static.wcn.co.uk/company/blackrock/JobDescription23/BlackRock_2023-2024_Software_Engineering_Job_Description.pdf)| - | 05/20/2023 |
+| [Western Digital](https://jobs.westerndigital.com/university) | - Irvine, CA | ✅ [New College Graduate Engineer, Software Development](https://jobs.smartrecruiters.com/WesternDigital/743999978362609-new-college-graduate-engineer-software-development?trid=55fe2b03-11c1-41e1-ab70-337c7fd98d48)| Right to work in the US without sponsorship | 04/15/2023 |
 | [Airbnb]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [Amazon]() | U.S. Locations | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [Atlassian]() | U.S Remote | 🔒 **[Not Open Yet]** 🔒 | - | - |
