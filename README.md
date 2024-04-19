@@ -27,8 +27,8 @@ If you are looking for more guidance on how to prepare for technical interviews,
   - GitHub repository that contains a PDF file with a table of common time and space complexities for various operations and algorithms.
 - **[OA and Interviews](https://github.com/Leader-board/OA-and-Interviews/blob/main/Online%20Assessments.md)**:
   - Contains a comprehesion guide for patterns of online assessments and interview questions from various companies such as Amazon, Google, Facebook, Microsoft, and more.
-- **[QuantGuide](https://quantguide.io)**:
-  - A platform that offers quant interview questions in probability theory, statistical inference, and brainteasers (think LeetCode for quant). Highly recommended for those applying to QR/QT roles at trading firms, prop shops, or HFTs.
+- **[QuantEssential](https://quantessential.io)**:
+  - A platform offering targeted studying for the quant interview questions with topics including brainteasers, probability and more. Recommended for those applying to QR/QT roles at companies like Jane Street, Citadel etc - most questions here are free. 
 - **[Probability & Markets Guide by Jane Street](https://www.janestreet.com/static/pdfs/trading-interview.pdf?utm_source=web&utm_medium=pdf&utm_campaign=probability_markets_guide)**:
   - A PDF guide of general topics to know for interviews at quant trading firms like Jane Street. Great for getting a baseline introduction to the topics tested in quant interviews.
 
