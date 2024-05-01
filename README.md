@@ -62,6 +62,7 @@ The icons next to roles in the table below signify the following:
 
 | Name         | Location     | Roles                | Citizenship/Visa Requirements | Date Added <br> mm/dd/yyyy |
 | ------------ | ------------ | -------------------- | ----------------------------- | --------------------------- | 
+| [Nightfall AI](https://www.nightfall.ai/) | - San Francisco, CA | ✅ [Software Engineer, New Grad (SF)](https://boards.greenhouse.io/nightfall/jobs/4008700006) | - | 05/01/2024 |
 | [Persona](https://withpersona.com/) | - San Francisco, CA | ✅ [Software Engineer, New Grad (SF)](https://jobs.lever.co/persona/2dea31ec-8e20-48ff-84df-33f943e7fc96) | - | 04/24/2024 |
 | [M7 Health](https://www.m7health.com/) | - New York, NY | ✅ [Software Engineer](https://m7health.notion.site/Software-Engineer-M7-Health-0f261f774c794142ab6b7bc4ba979c9d) | Does not offer sponsorship | 04/10/2024 |
 | [IXL Learning](https://www.ixl.com) | - San Mateo, CA <br> - Raleigh, NC | ✅ [Software Engineer, New Grad (San Mateo, CA)](https://www.ixl.com/company/careers?gh_jid=7295051002) <br> ✅ [Software Engineer, New Grad (Raleigh, NC)](https://www.ixl.com/company/careers?gh_jid=7294926002)| - | 03/27/2024 | 
