@@ -61,7 +61,8 @@ The icons next to roles in the table below signify the following:
 ---
 
 | Name         | Location     | Roles                | Citizenship/Visa Requirements | Date Added <br> mm/dd/yyyy |
-| ------------ | ------------ | -------------------- | ----------------------------- | --------------------------- |
+| ------------ | ------------ | -------------------- | ----------------------------- | --------------------------- | 
+| [Gatekeep](https://apps.apple.com/us/app/gatekeep-app/id6498889399) | - San Francisco, CA <br> - New York, NY <br> - Remote | ✅ [AI Software Engineer - Fashion App  (New Grad, Full-Time)](https://the-gatekeep-app.notion.site/AI-Software-Engineer-Fashion-App-Startup-New-Grad-Full-Time-b2c5a6eff5104236bc533b79136f5b8b) | Sponsorship OK. | 05/13/2024 |
 | [Mastercard](https://www.mastercard.us/en-us.html) | - San Francisco, CA <br> - Atlanta, GA <br> - St Louis, MO| ✅ [Software Engineer, Priceless Platform](https://careers.mastercard.com/us/en/job/MASRUSR212704EXTERNALENUS/Software-Engineer-Priceless-Platform) | - | 05/12/2024 | 
 | [Shortbread AI](https://shortbread.ai/) | - San Francisco, CA | ✅ [Founding Full Stack Engineer, New Grad (SF)](https://www.ycombinator.com/companies/shortbread/jobs/8jV0RY9-founding-engineer) | Open to sponsoring OPT candidates for work visas. | 05/08/2024 |
 | [Nightfall AI](https://www.nightfall.ai/) | - San Francisco, CA | ✅ [Software Engineer, New Grad (SF)](https://boards.greenhouse.io/nightfall/jobs/4008700006) | - | 05/01/2024 |
