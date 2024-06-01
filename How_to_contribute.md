@@ -2,7 +2,7 @@
 
 Thank you for your interest in contributing to the 2024 New Grad Full-time Positions repository! We appreciate your help in maintaining and expanding the table of job openings for new grads in various tech roles.
 
-I'll do my best to keep them sorted **[A-Z]** by **company name**. If you see any mistakes or outdated information, please submit a pull request to update them. 
+I'll do my best to keep them sorted by **date posted** first and then **[A-Z]** by **company name**. If you see any mistakes or outdated information, please submit a pull request to update them. 
 
 ### Need Before You Contribute
 * **Company Name**
@@ -65,7 +65,7 @@ Placeholders for the table are defined as follows:
 4. **Run the script** [OPTIONAL]: Run the py script to ensure that the table is formatted correctly. You can do this by running the following command:
 
     ```bash
-    python scripts/auto_organizer.py
+    python3 scripts/auto_organizer.py
     ```
 
     - If the script fail, please fix the errors before proceeding to the next step.
