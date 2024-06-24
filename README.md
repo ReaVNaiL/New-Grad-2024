@@ -61,7 +61,8 @@ The icons next to roles in the table below signify the following:
 ---
 
 | Name         | Location     | Roles                | Citizenship/Visa Requirements | Date Added <br> mm/dd/yyyy |
-| ------------ | ------------ | -------------------- | ----------------------------- | --------------------------- | 
+| ------------ | ------------ | -------------------- | ----------------------------- | -------------------------- |
+| [Amazon](https://www.amazon.jobs/en/jobs) | U.S. Locations | ✅ [Software Development Engineer - 2024 (US)](https://www.amazon.jobs/en/jobs/2644301/software-development-engineer-2024-us) | - | 06/24/2024 |
 | [GE HealthCare](https://careers.gehealthcare.com/) | Bellvue, WA <br> Seattle, WA | ✅ [Software Engineer](https://careers.gehealthcare.com/global/en/job/R4007752/) | - | 06/07/2024 |
 | [Google]() | New York, NY | ✅ [Site Reliability Software Engineer, Google Cloud](https://www.google.com/about/careers/applications/jobs/results/81806699236598470-site-reliability-software-engineer-google-cloud) | - | 06/06/2024 |
 | [Palantir](https://www.palantir.com/careers/#open-positions) | Palo Alto, CA <br> Denver, CO <br> Seattle, WA | ✅ [Product Reliability Engineer, New Grad](https://jobs.lever.co/palantir/ae7fe1d6-bb4c-42dd-87f8-d3bd60b975a6) <br> ✅ [Software Engineer - Apollo Platform](https://jobs.lever.co/palantir/afea07a8-2721-45e6-a9ca-6580f3f9783c) <br> 🔒 [Software Engineer, New Grad](https://jobs.lever.co/palantir/94984771-0704-446c-88c6-91ce748f6d92) <br> 🔒 [Forward Deployed Software Engineer, New Grad]()  | Visa Ok | 05/31/2024 |
@@ -319,7 +320,6 @@ The icons next to roles in the table below signify the following:
 | [PerPay](https://boards.greenhouse.io/perpay/jobs/4034578007) | Philadelphia, PA | 🔒 [Software Engineer (SWE)]()  | - | 05/23/2023 |
 | [BlackRock](https://careers.blackrock.com/early-careers/americas/?2023-2024#tab-id-13) | - Atlanta, GA <br> - San Francisco, CA <br> - New York, NY | 🔒 [SWE, PM, Quant]() <br>- [See Desc PDF](https://static.wcn.co.uk/company/blackrock/JobDescription23/BlackRock_2023-2024_Software_Engineering_Job_Description.pdf)| - | 05/20/2023 |
 | [Airbnb]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
-| [Amazon]() | U.S. Locations | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [Atlassian]() | U.S Remote | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [Dropbox]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [Intuit]() | Mountain View, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
