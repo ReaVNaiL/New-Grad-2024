@@ -62,6 +62,7 @@ The icons next to roles in the table below signify the following:
 
 | Name         | Location     | Roles                | Citizenship/Visa Requirements | Date Added <br> mm/dd/yyyy |
 | ------------ | ------------ | -------------------- | ----------------------------- | -------------------------- |
+| [Vegas.com]([https://www.vegas.com/](https://www.vegas.com/about/jobs/)) | Las Vegas, NV | ✅ [Software Engineer](https://job-boards.greenhouse.io/vdc/jobs/4199319007?gh_src=b857a5397us) | - | 07/16/2024 |
 | [Amazon](https://www.amazon.jobs/en/jobs) | U.S. Locations | ✅ [Software Development Engineer - 2024 (US)](https://www.amazon.jobs/en/jobs/2644301/software-development-engineer-2024-us) | - | 06/24/2024 |
 | [GE HealthCare](https://careers.gehealthcare.com/) | Bellvue, WA <br> Seattle, WA | ✅ [Software Engineer](https://careers.gehealthcare.com/global/en/job/R4007752/) | - | 06/07/2024 |
 | [Google]() | New York, NY | ✅ [Site Reliability Software Engineer, Google Cloud](https://www.google.com/about/careers/applications/jobs/results/81806699236598470-site-reliability-software-engineer-google-cloud) | - | 06/06/2024 |
