@@ -131,7 +131,7 @@ The icons next to roles in the table below signify the following:
 | [Stryker](https://careers.stryker.com/) | - Portage, MI | 🔒 [Design Engineer, Software – RISE]()| No sponsorship | 10/09/2023 |
 | [Prompt EMR](https://promptemr.com/company/careers/) | - Remote | 🔒 [Junior Software Engineer]()| - | 10/09/2023 |
 | [Vontive](https://apply.workable.com/vontive/) | - San Francisco, CA | 🔒 [New Grad Software Engineer ](https://apply.workable.com/vontive/j/A66EF3C988/)| - | 10/08/2023 |
-| [Wayfair](https://www.aboutwayfair.com/careers) | - Boston, MA | ✅ [Software Engineer I - Summer 2024](https://www.wayfair.com/careers/job/software-engineer-i/6945942002) | - | 10/08/2023 |
+| [Wayfair](https://www.aboutwayfair.com/careers) | - Boston, MA | 🔒 [Software Engineer I - Summer 2024](https://www.wayfair.com/careers/job/software-engineer-i/6945942002) | - | 10/08/2023 |
 | [Highmark Health](https://careers.highmarkhealth.org/) | - Remote, US | 🔒 [ETDP Associate - Project Management](https://careers.highmarkhealth.org/explore-jobs/job/j232057-etdp-associate-project-management/) <br> 🔒 [ETDP Associate - Software Engineering](https://careers.highmarkhealth.org/explore-jobs/job/j232058-etdp-associate-software-engineering/) | - | 10/06/2023 |
 | [Munich RE]() | - New York, NY | 🔒 [Software/Data Engineer, NA Integrated Analytics (2024 New Grad - New York) ]() | - | 10/05/2023 |
 | [Visa](https://usa.visa.com/en_us/jobs/) | - Atlanta, GA <br> - Austin, TX <br> - Foster City, CA | 🔒 [Software Engineer, New College Grad- 2024 (Atlanta)]() <br> 🔒 [Software Engineer, New College Grad- 2024 (Austin)]() <br> 🔒 [Software Engineer, New College Grad- 2024 (Foster City)]() | No sponsorship | 10/03/2023 |
